@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIL/2019.12/index.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Writing" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V6truEyOOxq7PRrOAl74ysxPu8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL2\2019.12" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="" />
+      <created>1576585574160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576585574160</updated>
+      <workItem from="1576585579527" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="0" width="814" height="720" key="#Intentions/0.0.1280.720@0.0.1280.720" timestamp="1576586210854" />
+    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576586116987">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1576586116987" />
+    <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576585685128">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576585685128" />
+    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1576586695804">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1576586695804" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1576586267077">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1576586267077" />
+  </component>
+</project>
