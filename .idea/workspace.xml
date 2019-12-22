@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2019.12/index.md" afterDir="false" />
+    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="Commit manuscript of blog written by until now">
+      <change afterPath="$PROJECT_DIR$/TIL/index/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-java-연산자.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-java-연산자.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-IntelliJ 단축키 및 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +16,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Writing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,14 +40,48 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="index" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\손현준\Documents\Writing\TIL2\2019.12" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="index.index" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="index.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.index" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,33 +105,137 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576585574160</updated>
-      <workItem from="1576585579527" duration="1117000" />
+      <workItem from="1576585579527" duration="1672000" />
+      <workItem from="1576593056845" duration="1085000" />
+      <workItem from="1576629137945" duration="956000" />
+      <workItem from="1576631749375" duration="539000" />
+      <workItem from="1576682332156" duration="572000" />
+      <workItem from="1576715604347" duration="50000" />
+      <workItem from="1576769532850" duration="603000" />
+      <workItem from="1576807444462" duration="23000" />
+      <workItem from="1576821635183" duration="4113000" />
+      <workItem from="1576826633267" duration="2440000" />
+      <workItem from="1576829926653" duration="1899000" />
+      <workItem from="1576944020297" duration="75000" />
+      <workItem from="1576944163519" duration="33000" />
+      <workItem from="1576991826239" duration="8413000" />
+      <workItem from="1577004032502" duration="6765000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1576586720265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576586720265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit manuscript of blog written by until now">
+      <created>1577016437314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577016437314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit manuscript of blog written by until now">
+      <created>1577017043263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577017043263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="Commit manuscript of blog written by until now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit manuscript of blog written by until now" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="0" width="814" height="720" key="#Intentions/0.0.1280.720@0.0.1280.720" timestamp="1576586210854" />
-    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576586116987">
+    <state x="233" y="18" key="#Notifications" timestamp="1576682725150">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1576586116987" />
+    <state x="233" y="18" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1576682725150" />
+    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576682510068">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="629" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1576682510068" />
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576585685128">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576585685128" />
-    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1576586695804">
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577005993847">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1576586695804" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1576586267077">
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577005993847" />
+    <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576825933434">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1576586267077" />
+    <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1576825933434" />
+    <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576944042046">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1576944042046" />
+    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1577017040239">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577017040239" />
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1576944199126">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1576944199126" />
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom" timestamp="1577015026423">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="156" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577015026423" />
+    <state width="1237" height="156" key="GridCell.Tab.0.center" timestamp="1577015026422">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="156" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
+    <state width="1237" height="156" key="GridCell.Tab.0.left" timestamp="1577015026422">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="156" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
+    <state width="1237" height="156" key="GridCell.Tab.0.right" timestamp="1577015026422">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="156" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
+    <state x="99" y="0" key="SettingsEditor" timestamp="1577017277895">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="99" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577017277895" />
+    <state width="523" height="446" key="SwitcherDM" timestamp="1577004707334">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1577004707334" />
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577017059170">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577017059170" />
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577005567697">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1577005567697" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577017216660">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577017216660" />
   </component>
 </project>
