@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
+    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="Practice 3 kinds of classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-java-연산자.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-Java - 연산자.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-java-특수문자.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.10/2019-10-31-Java - 특수문자.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-01-요즘실존을생각한다.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-01-요즘실존을생각한다.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-02-나는 왜 시간관리를 하는가.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-02-나는 왜 시간관리를 하는가.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-04-TIL-백준알고리즘1,2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-04-Python - 백준알고리즘1,2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-11-읽는 습관.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-11-읽는 습관.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-16-다시 아자자.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-16-다시 아자자.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-17-요즘실존을생각한다.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-17-요즘실존을생각한다.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-18-TIL.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-18-JS - 자료형, 변수, 연산자.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-19-나는입장권이필요하다.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-11-19-나는입장권이필요하다.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-20-TIL if문,while,for문 copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-20-JS - if문, while, for문.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-21-TIL-함수.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-21-JS - 함수.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-22-TIL-객체.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-22-JS - 객체.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.11/2019-11-23-TIL-배열과 문자열 메소드.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.11/2019-11-23-JS - 배열과 문자열 메소드.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-13-하루키습관.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-12-13-하루키습관.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-14-간절함을 기록하자.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2019-12-14-간절함을 기록하자.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +41,25 @@
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/index/gson-2.8.2.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\생각정리" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL2\2019.12" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="index" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\손현준\Documents\Writing\TIL2\2019.12" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,7 +118,8 @@
       <workItem from="1576944020297" duration="75000" />
       <workItem from="1576944163519" duration="33000" />
       <workItem from="1576991826239" duration="8413000" />
-      <workItem from="1577004032502" duration="7212000" />
+      <workItem from="1577004032502" duration="7280000" />
+      <workItem from="1577018608936" duration="4067000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -160,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577017385295</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit manuscript of blog written by until now">
+      <created>1577017824942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577017824942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +167,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -180,7 +178,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Commit manuscript of blog written by until now" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit manuscript of blog written by until now" />
+    <MESSAGE value="Practice 3 kinds of classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice 3 kinds of classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
@@ -199,10 +198,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576585685128" />
-    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577005993847">
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577022470695">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577005993847" />
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577022470695" />
     <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576825933434">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -211,49 +210,57 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1576944042046" />
-    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1577017382661">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1577022733839">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577017382661" />
-    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1576944199126">
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577022733839" />
+    <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1576944199126" />
-    <state width="1237" height="156" key="GridCell.Tab.0.bottom" timestamp="1577015026423">
+    <state x="516" y="64" key="DetectedRootsChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1577022339967" />
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1577022573731">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577015026423" />
-    <state width="1237" height="156" key="GridCell.Tab.0.center" timestamp="1577015026422">
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1577022573731" />
+    <state width="594" height="155" key="GridCell.Tab.0.bottom" timestamp="1577022733905">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
-    <state width="1237" height="156" key="GridCell.Tab.0.left" timestamp="1577015026422">
+    <state width="594" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
+    <state width="594" height="155" key="GridCell.Tab.0.center" timestamp="1577022733905">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
-    <state width="1237" height="156" key="GridCell.Tab.0.right" timestamp="1577015026422">
+    <state width="594" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
+    <state width="594" height="155" key="GridCell.Tab.0.left" timestamp="1577022733904">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="156" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577015026422" />
-    <state x="99" y="0" key="SettingsEditor" timestamp="1577017277895">
+    <state width="594" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577022733904" />
+    <state width="594" height="155" key="GridCell.Tab.0.right" timestamp="1577022733905">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="99" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577017277895" />
+    <state width="594" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1577022629854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577022629854" />
     <state width="523" height="446" key="SwitcherDM" timestamp="1577004707334">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1577004707334" />
-    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577017389867">
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577017828347">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577017389867" />
-    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577005567697">
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577017828347" />
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577022593993">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1577005567697" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577017216660">
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1577022593993" />
+    <state x="320" y="80" width="640" height="560" key="find.popup" timestamp="1577021568961">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577017216660" />
+    <state x="320" y="80" width="640" height="560" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577021568961" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577020271420">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577020271420" />
   </component>
 </project>
