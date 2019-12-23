@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="Practice 3 kinds of classes">
+      <change afterPath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Algorithm - Recursion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Java - Inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Java - Inheritance.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/index/gson-2.8.2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,7 +119,12 @@
       <workItem from="1576944163519" duration="33000" />
       <workItem from="1576991826239" duration="8413000" />
       <workItem from="1577004032502" duration="7280000" />
-      <workItem from="1577018608936" duration="4067000" />
+      <workItem from="1577018608936" duration="4321000" />
+      <workItem from="1577027338252" duration="1520000" />
+      <workItem from="1577062008426" duration="677000" />
+      <workItem from="1577066932272" duration="6389000" />
+      <workItem from="1577097540090" duration="5764000" />
+      <workItem from="1577114924864" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -156,7 +161,35 @@
       <option name="project" value="LOCAL" />
       <updated>1577017824942</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practice 3 kinds of classes">
+      <created>1577022763659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577022763660</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Studying Inheritance and Override">
+      <created>1577073365627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577073365627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Studying inheritance and override">
+      <created>1577073418272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577073418272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Practice upCasting and downCasting in inheritance">
+      <created>1577098970129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577098970130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +212,10 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="Commit manuscript of blog written by until now" />
     <MESSAGE value="Practice 3 kinds of classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice 3 kinds of classes" />
+    <MESSAGE value="Studying Inheritance and Override" />
+    <MESSAGE value="Studying inheritance and override" />
+    <MESSAGE value="Practice upCasting and downCasting in inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice upCasting and downCasting in inheritance" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
@@ -210,46 +246,66 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1576944042046" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1577022733839">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577071093641">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577022733839" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1577071093641" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1577116107328">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577116107328" />
     <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="516" y="64" key="DetectedRootsChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1577022339967" />
-    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1577022573731">
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1577062687487">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1577022573731" />
-    <state width="594" height="155" key="GridCell.Tab.0.bottom" timestamp="1577022733905">
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1577062687487" />
+    <state width="594" height="197" key="GridCell.Tab.0.bottom" timestamp="1577106181227">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
-    <state width="594" height="155" key="GridCell.Tab.0.center" timestamp="1577022733905">
+    <state width="594" height="197" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577106181227" />
+    <state width="594" height="197" key="GridCell.Tab.0.center" timestamp="1577106181227">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
-    <state width="594" height="155" key="GridCell.Tab.0.left" timestamp="1577022733904">
+    <state width="594" height="197" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577106181227" />
+    <state width="594" height="197" key="GridCell.Tab.0.left" timestamp="1577106181227">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577022733904" />
-    <state width="594" height="155" key="GridCell.Tab.0.right" timestamp="1577022733905">
+    <state width="594" height="197" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577106181227" />
+    <state width="594" height="197" key="GridCell.Tab.0.right" timestamp="1577106181227">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577022733905" />
-    <state x="242" y="0" key="SettingsEditor" timestamp="1577022629854">
+    <state width="594" height="197" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577106181227" />
+    <state width="594" height="197" key="GridCell.Tab.1.bottom" timestamp="1577106181228">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577022629854" />
+    <state width="594" height="197" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
+    <state width="594" height="197" key="GridCell.Tab.1.center" timestamp="1577106181228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="594" height="197" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
+    <state width="594" height="197" key="GridCell.Tab.1.left" timestamp="1577106181228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="594" height="197" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
+    <state width="594" height="197" key="GridCell.Tab.1.right" timestamp="1577106181228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="594" height="197" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1577022792322">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577022792322" />
     <state width="523" height="446" key="SwitcherDM" timestamp="1577004707334">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1577004707334" />
-    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577017828347">
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577098975089">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577017828347" />
+    <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577098975089" />
     <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577022593993">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -258,9 +314,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="320" y="80" width="640" height="560" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577021568961" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577020271420">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577103246366">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577020271420" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577103246366" />
   </component>
 </project>
