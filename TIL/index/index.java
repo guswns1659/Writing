@@ -1,5 +1,4 @@
 package index;
-import com.google.gson.Gson;
 
 public class index {
     public static void main(String[] args) {
@@ -8,5 +7,11 @@ public class index {
 
         Cat c = new Cat();
         c.eat();
+
+        Animal ani = new Dog(); // 자동 형변환(자식 -> 부모), upCasting
+        ani.eat();
+
+        ani = new Cat();
+        ((Cat)ani).night(); // 강제 형변환(부모 -> 자식), downCasting
     }
 }
