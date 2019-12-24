@@ -1,33 +1,24 @@
 package index;
 
-import kr.tpc.*;
+import kr.poly.Radio;
+import kr.poly.RemoCon;
+import kr.poly.TV;
 
 public class TPC {
     public static void main(String[] args) {
-        // 1. 다형성 인수
-        Dog d = new Dog();
-        display(d);
-        Cat c = new Cat();
-        display(c);
-        System.out.println("---------------------");
-        // 2. 다형성 배열
-        Animal[] ani = new Animal[2];
-        ani[0] = new Dog();
-        ani[1] = new Cat();
-
-        for (Animal animal : ani) {
-            animal.eat();
-            if (animal instanceof Cat) {
-                ((Cat)animal).night();
-            }
+        RemoCon r = new TV();
+        for (int i = 0; i < 40; i++) {
+            r.chDown();
         }
+        for (int i = 0; i < 40; i++) {
+            r.chUp();
+        }
+        r.internet();
+
+        r = new Radio();
+        r.chDown();
+        r.chUp();
+        r.internet();
     }
 
-
-    private static void display(Animal r) {
-        r.eat();
-        if (r instanceof Cat) {
-            ((Cat)r).night();
-        }
-    }
 }
