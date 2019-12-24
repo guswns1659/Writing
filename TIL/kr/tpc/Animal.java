@@ -1,4 +1,4 @@
-package index;
+package kr.tpc;
 
 public class Animal {
     public void eat(){

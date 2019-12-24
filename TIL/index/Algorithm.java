@@ -1,6 +1,6 @@
 package index;
 
-public class index {
+public class Algorithm {
     public static void main(String[] args) {
         int result = sum(4);
         System.out.println(result);
