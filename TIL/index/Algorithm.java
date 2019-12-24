@@ -2,43 +2,60 @@ package index;
 
 public class Algorithm {
     public static void main(String[] args) {
-        int result = sum(4);
-        System.out.println(result);
-        int result2 = factorial(4);
-        System.out.println(result2);
-        int result3 = fibonacci(4);
-        System.out.println(result3);
-        int result4 = power(4, 3);
-        System.out.println(result4);
+        System.out.println(printLength("Hello"));
+        printChars("Hello");
+        printReverseChars("Hello");
+        printInBinary(15);
+        int[] arr = {1,2,3,4};
+        System.out.println(calcArrSum(4, arr));
+    }
 
-    }
-    // 0 ~ n까지 합을 구하는 재귀 함수
-    public static int sum(int n) {
-        if (n == 0) return 0;
-        else return n + sum(n-1);
-    }
-    // 1 ~ n까지 곱을 구하는 재귀 함수
-    public static int factorial(int n) {
-        if (n == 1) {
-            return 1;
-        } else {
-            return n*factorial(n-1);
+    // 문자열의 길이 구하는 재귀 함수
+
+    private static int printLength(String str) {
+        if (str.equals("")) return 0;
+        else {
+            return 1 + printLength(str.substring(1));
         }
     }
-    // 피보나치 수열 구하는 재귀 함수
-    public static int fibonacci(int n) {
-        if (n < 2) {
-            return n;
-        } else {
-            return fibonacci(n-1) + fibonacci(n-2);
+
+    // 문자열 프린트 재귀 함수
+    // 1. 길이가 0이면 함수 종료
+    // 2. 길이 != 0 이면 앞 글자 프린트 한 뒤 앞 글자뺀 문자열을 매개변수로 재귀함수 호출
+
+    public static void printChars(String str) {
+        if (str.length() == 0) return;
+        else {
+            System.out.print(str.charAt(0));
+            printChars(str.substring(1));
         }
     }
-    // 제곱의 값을 구하는 재귀 함수
-    public static int power(int x, int n) {
-        if (n == 0) {
-            return 1;
-        } else {
-            return x * power(x, n-1);
+    // 문자열 뒤집어 프린트
+    private static void printReverseChars(String str) {
+        if (str.length() == 0) return;
+        else {
+            printReverseChars(str.substring(1));
+            System.out.print(str.charAt(0));
+        }
+    }
+
+    // 2진수 변환 재귀 함수
+    /* 1. n < 2 면 n을 출력
+       2. n을 2진수로 표현하려면 (n / 2)를 이진수로 + (n % 2)출력
+    */
+    public static void printInBinary(int n) {
+        if (n < 2) System.out.print(n);
+        else {
+            printInBinary(n / 2);
+            System.out.print(n % 2);
+        }
+    }
+
+    // 배열의 합 재귀함수
+    public static int calcArrSum(int n, int[] arr){
+        if (n <= 0) return 0;
+        else {
+            return arr[n-1] + calcArrSum(n-1, arr);
         }
     }
 }
