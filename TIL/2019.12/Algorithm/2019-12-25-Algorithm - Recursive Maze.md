@@ -1,5 +1,9 @@
-## 목차
+[KOCW 부경대학교 권오흠 교수 알고리즘 강의 참고](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 
+
+## 목차
+- 미로찾기 재귀적 사고
+- Psudocode
 ## 핵심
 - **핵심**
 
@@ -24,4 +28,4 @@
     }
 ```
 ## code
-[실제 코드는 여기로](https://github.com/guswns1659/Writing)
+[실제 코드는 여기로](https://github.com/guswns1659/Writing/blob/master/TIL/kr/Algorithm/Maze.java)

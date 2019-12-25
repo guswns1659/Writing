@@ -1,7 +1,9 @@
 [KOCW 부경대학교 권오흠 교수 알고리즘 강의 참고](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 
 ## 목차
-
+- Counting cells in a blob
+- 입력과 출력
+- 문제에 대한 재귀적 사고
 ## 핵심
 - **핵심**
 
@@ -28,4 +30,4 @@
     -카운터를 반환한다.
 
 ### 실제 코드
-[실제 코드는 여기로](http)
+[실제 코드는 여기로](https://github.com/guswns1659/Writing/blob/master/TIL/kr/Algorithm/CountingBlob.java)
