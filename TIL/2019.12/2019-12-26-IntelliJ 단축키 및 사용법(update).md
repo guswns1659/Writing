@@ -105,6 +105,7 @@
 - 현재 tab 삭제하기 : Ctrl + F4
 - 커밋할 때 "Non-ascii ~~" 또는 "Identifier contains symbols from~~" 나올 때 : settings -> inspections -> non-ascii character -> 체크박스 해제
 - jar 파일 추가할 때 : file -> project structure -> libraries -> '+' -> 경로 추가
+- 파일 위치 변경: F6
 
 ## 마크다운
 - 마크다운에서 코드블럭 에러날 때 : settings -> plugins -> Markdown Navigator 설치

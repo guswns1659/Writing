@@ -1,4 +1,4 @@
-[KOCW 부경대학교 권오흠 교수 알고리즘 강의 참고](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
+출처 : [KOCW 부경대학교 권오흠 교수 알고리즘 강의 참고](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 
 ## 목차
 - Counting cells in a blob
