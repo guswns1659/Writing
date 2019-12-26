@@ -1,24 +1,18 @@
 package index;
 
-import kr.poly.Radio;
-import kr.poly.RemoCon;
-import kr.poly.TV;
+import kr.tpc.Animal;
+import kr.tpc.Cat;
+import kr.tpc.Dog;
 
 public class TPC {
     public static void main(String[] args) {
-        RemoCon r = new TV();
-        for (int i = 0; i < 40; i++) {
-            r.chDown();
-        }
-        for (int i = 0; i < 40; i++) {
-            r.chUp();
-        }
-        r.internet();
-
-        r = new Radio();
-        r.chDown();
-        r.chUp();
-        r.internet();
+        Animal ani = new Animal() {
+            @Override
+            public void eat() {
+                System.out.println("모든 동물을 밥을 먹어요.");
+            }
+        };
+        ani = new Cat();
+        ((Cat)ani).night();
     }
-
 }
