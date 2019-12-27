@@ -2,65 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="19.12.24) Studying log">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-24-Algorithm - Design recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/index/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Algorithm - recursive thinking.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-IntelliJ 단축키 및 사용법.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Java - Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Java - Object Casting(객체 형 변환).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Java - abstract class VS interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Java - abstract class.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Java - message polymorphism(다형성).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/index/Algorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/index/Recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/index/TPC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/index/index.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Radio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/RemoCon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/TV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Dog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-14-Java - 이클립스 단축키.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-14-Java - 이클립스 단축키.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-15-Java - 구구단 프로그램.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-15-Java - 구구단 프로그램.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-16-Java - Calendar 프로젝트.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-16-Java - Calendar 프로젝트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-17-Java - Calendar 프로젝트2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - Calendar 프로젝트2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-17-Java - 개발환경구축(Update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - 개발환경구축(Update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-17-자바구동방식.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - 구동방식.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-18-Java - Calendar 프로젝트.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-18-Java - Calendar 프로젝트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-18-Java - 변수, 자료형, 선언.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-18-Java - 변수, 자료형, 선언.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-20-Java - JVM 메모리 모델.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-20-Java - JVM 메모리 모델.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-20-Java - 객체.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-20-Java - 객체.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-Java - Class 정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - Class 정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-Java - class, object, instance의 차이.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - class, object, instance의 차이.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-Java - private constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - private constructor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-Java - 메서드 오버로딩(Method Overloading).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - 메서드 오버로딩(Method Overloading).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-22-Java - 배열과 객체.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - 배열과 객체.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Algorithm - Recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-23-Algorithm - Recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Java - Inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-23-Java - Inheritance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-23-Java - Override.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-23-Java - Override.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Algorithm - Design recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-Algorithm - Design recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Algorithm - recursive thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-24-Algorithm - recursive thinking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Java - Object Casting(객체 형 변환).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - Object Casting(객체 형 변환).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Java - abstract class VS interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - abstract class VS interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Java - abstract class.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - abstract class.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-24-Java - message polymorphism(다형성).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - message polymorphism(다형성).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019.12.24-Java - Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - Interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Java - 유용한 메서드.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Java - 유용한 메서드.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2029.00/2029-00-00-Java - 유용한 메서드.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2029.00/2029-00-00-Java - 유용한 메서드.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-IntelliJ 단축키 및 사용법.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-23-Java - Inheritance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-25-Java - Object.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-25-Java - Object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2029.00/2029-00-00-Java - 유용한 메서드.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/TPC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/poly/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/취미/Onepiece/어인섬/2019-12-25-64권 - 10만 VS 10.md" beforeDir="false" afterPath="$PROJECT_DIR$/취미/Onepiece/어인섬/2019-12-25-64권 - 10만 VS 10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/취미/Onepiece/어인섬/2019-12-26-66권 - 태양으로 이어지는 길.md" beforeDir="false" afterPath="$PROJECT_DIR$/취미/Onepiece/어인섬/2019-12-26-66권 - 태양으로 이어지는 길.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +53,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/kr/poly" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/취미/Onepiece/어인섬" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,31 +67,24 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2019.12\Java" />
+      <recent name="C:\Users\손현준\Documents\Writing\취미\Onepiece\어인섬" />
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2019\12\Algorithm" />
       <recent name="C:\Users\손현준\Documents\Writing\생각정리" />
       <recent name="C:\Users\손현준\Documents\Writing\TIL2\2019.12" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\취미\Onepiece\어인섬" />
       <recent name="C:\Users\손현준\Documents\Writing\TIL\kr\poly" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kr.tpc" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="index" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
-    <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="index.Algorithm" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kr.tpc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TPC47">
     <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="index.Recursion" />
       <module name="Writing" />
@@ -149,8 +98,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="index.TPC" />
+    <configuration name="TPC45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="index.TPC45" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="index.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TPC46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="index.TPC46" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="index.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TPC47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="index.TPC47" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
@@ -177,10 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.TPC47" />
         <item itemvalue="Application.index" />
-        <item itemvalue="Application.Algorithm" />
-        <item itemvalue="Application.TPC" />
+        <item itemvalue="Application.TPC46" />
+        <item itemvalue="Application.TPC45" />
+        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +208,18 @@
       <workItem from="1577168155392" duration="11909000" />
       <workItem from="1577190273150" duration="3731000" />
       <workItem from="1577199933179" duration="722000" />
-      <workItem from="1577234860170" duration="6370000" />
+      <workItem from="1577234860170" duration="10770000" />
+      <workItem from="1577257873940" duration="10786000" />
+      <workItem from="1577272869692" duration="2334000" />
+      <workItem from="1577276848644" duration="3601000" />
+      <workItem from="1577284116486" duration="1564000" />
+      <workItem from="1577316483327" duration="23000" />
+      <workItem from="1577317320664" duration="1615000" />
+      <workItem from="1577332720907" duration="5492000" />
+      <workItem from="1577339221329" duration="4780000" />
+      <workItem from="1577345279512" duration="2036000" />
+      <workItem from="1577353440934" duration="9968000" />
+      <workItem from="1577370041782" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -366,18 +353,18 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="18" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1576682725150" />
-    <state x="593" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577175173947">
+    <state x="593" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577273533068">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="593" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1577175173947" />
+    <state x="593" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1577273533068" />
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576585685128">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576585685128" />
-    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577172910919">
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577333799545">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577172910919" />
+    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577333799545" />
     <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576825933434">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -402,26 +389,26 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="235" y="53" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1577192776157" />
-    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1577149519060">
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1577346788628">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1577149519060" />
-    <state width="594" height="152" key="GridCell.Tab.0.bottom" timestamp="1577245721014">
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1577346788628" />
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1577368808331">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="152" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577245721014" />
-    <state width="594" height="152" key="GridCell.Tab.0.center" timestamp="1577245721013">
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577368808331" />
+    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1577368808331">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="152" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577245721013" />
-    <state width="594" height="152" key="GridCell.Tab.0.left" timestamp="1577245721013">
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577368808331" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1577368808330">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="152" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577245721013" />
-    <state width="594" height="152" key="GridCell.Tab.0.right" timestamp="1577245721014">
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577368808330" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1577368808331">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="594" height="152" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577245721014" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577368808331" />
     <state width="594" height="197" key="GridCell.Tab.1.bottom" timestamp="1577106181228">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -442,29 +429,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577236587747" />
-    <state width="523" height="446" key="SwitcherDM" timestamp="1577243890646">
+    <state width="523" height="446" key="SwitcherDM" timestamp="1577358772349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1577243890646" />
+    <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1577358772349" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577200637338">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577200637338" />
-    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577176310102">
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577247467546">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1577176310102" />
-    <state x="320" y="80" width="640" height="560" key="find.popup" timestamp="1577021568961">
+    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1577247467546" />
+    <state x="320" y="80" width="774" height="630" key="find.popup" timestamp="1577345468182">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="320" y="80" width="640" height="560" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577021568961" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1577244752745">
+    <state x="320" y="80" width="774" height="630" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577345468182" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1577358745166">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="600" height="440" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1577244752745" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577234980032">
+    <state width="600" height="440" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1577358745166" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577371629850">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577234980032" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1577371629850" />
   </component>
 </project>
