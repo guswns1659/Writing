@@ -1,7 +1,7 @@
 ## 형변환
 - int -> String : Integer.toString();
-- String -> int : Integer.parseInt();
-
+- String -> int : String.valueOf(); , Integer.toString();
+- 진법 변환 : Integer.parseInt("100", 16); -> 100을 16진수로 표현해봐 : 16^2
 
 ## 자료형 확인
 객체 자료형에서 사용 가능하다.

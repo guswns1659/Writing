@@ -1,11 +1,13 @@
 package index;
 
-import kr.poly.Dog;
-import kr.tpc.IntArray;
+import kr.Algorithm.CountingBlob;
+import kr.Algorithm.Maze;
 
 public class index {
     public static void main(String[] args) {
-        // 객체 안에서 int는 선언만 해도 0으로 초기화되나?
-        IntArray arr= new IntArray(3);
+        Maze m = new Maze();
+//        System.out.println(Maze.findMazePath(0,0));
+        CountingBlob b = new CountingBlob();
+        System.out.println(b.countBlog(2,4));
     }
 }
