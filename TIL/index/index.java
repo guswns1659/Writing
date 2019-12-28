@@ -1,13 +1,25 @@
 package index;
 
-import kr.Algorithm.CountingBlob;
-import kr.Algorithm.Maze;
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 public class index {
     public static void main(String[] args) {
-        Maze m = new Maze();
-//        System.out.println(Maze.findMazePath(0,0));
-        CountingBlob b = new CountingBlob();
-        System.out.println(b.countBlog(2,4));
+        HashMap<Integer, Integer> map = new HashMap<>(2);
+        map.put(0, 15000);
+        map.put(1, 15000);
+
+        System.out.println(map.keySet());
+
+        // get all elements of map
+        for (Integer key : map.keySet()){
+            int value = map.get(key);
+            System.out.println("value : " + value);
+        }
+        // 배열
+        int[] arr = new int[3];
+        System.out.println(arr.getClass());
+
     }
 }

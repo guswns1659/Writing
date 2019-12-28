@@ -1,4 +1,4 @@
-package index;
+package TPC1;
 
 import kr.tpc.IntArray;
 

@@ -1,4 +1,4 @@
-package index;
+package TPC1;
 
 import java.util.Scanner;
 

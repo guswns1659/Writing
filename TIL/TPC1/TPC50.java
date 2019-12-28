@@ -1,4 +1,4 @@
-package index;
+package TPC1;
 
 public class TPC50 {
     public static void main(String[] args) {
