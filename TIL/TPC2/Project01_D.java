@@ -16,20 +16,21 @@ public class Project01_D {
         String client_secret = "hjhFUni1JcCIx2H0Bqjc8u66vbVpHqGoDjD8MLm2";
 
         // 2. 사용자에게 주소 값 입력 받는 코드
-        BufferedReader io = new BufferedReader(new InputStreamReader(System.in));
+        InputStreamReader is = new InputStreamReader(System.in);
+        BufferedReader io = new BufferedReader(is);
         try {
             System.out.print("주소를 입력하세요.");
             String address = io.readLine();
             String addr = URLEncoder.encode(address, "UTF-8");
             String reqUrl = apiURL + addr;
         // 3.  정확한 URL인지 검사 및 주소 값을 가지고 연결 URL 만들기
-            URL url = new URL(reqUrl);
+            URL url = new URL(reqUrl); // URL이 정확하지 않으면 에러 발생
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("GET");
             con.setRequestProperty("X-NCP-APIGW-API-KEY-ID", client_id);
             con.setRequestProperty("X-NCP-APIGW-API-KEY", client_secret);
         // 4. 서버와 연결 확인 및 서버에서 보낸 정보 읽어오기
-            BufferedReader br;
+            BufferedReader br; // 서버와 Stream(통로)가 만들어짐.
             int responseCode = con.getResponseCode();
             if (responseCode == 200) {
                 br = new BufferedReader(new InputStreamReader(con.getInputStream(), "UTF-8"));

@@ -3,7 +3,7 @@
 - 위도, 경도 추출하는 실습(Geocoding)
 - 전체 코드
 ## 핵심
-- **핵심**
+- **Geocoding이란 주소를 입력하면 위도와 경도를 얻는 코딩을 말한다.**
 
 ## Geocoding이란?
 Geocoding이란 주소를 입력하면 위도와 경도를 얻는 코딩을 말한다. 위도와 경도를 얻기 위해선 위도와 경도를 제공하는 웹사이트에 요청을 해야 한다.<br>
@@ -16,7 +16,8 @@ Geocoding이란 주소를 입력하면 위도와 경도를 얻는 코딩을 말�
 - API URL 가져오기 : 가이드 -> API참조서 -> AI.Naver -> Geocoding
 - BufferedReader : String 정보를 읽어 온다.
 - InputStreamReader : 사용자에게 입력 받은 값은 byte이기에 BufferedReader가 읽을 수 있게 도와주는 객체
-### HttpURLConnection : 웹사이트(서버)와 프로그램을 연결 시켜주는 객체<br>
+### HttpURLConnection : 웹사이트(서버)와 프로그램을 연결 시켜주는 객체
+<br>
 ```java
 HttpURLConnection con = (HttpURLConnection) url.openConnection();
 con.setRequestMethod("GET");
@@ -33,4 +34,4 @@ while ((line = br.readLine())!=null) {
 ```
 
 ## 전체 코드 주소
-[전체 코드는 여기로]()
+[전체 코드는 여기로](https://github.com/guswns1659/Writing/blob/master/TIL/TPC2/Project01_D.java)
