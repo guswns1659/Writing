@@ -9,23 +9,22 @@ public class Project01_B {
 
         // 1. student json 객체 만들기
         JSONObject student = new JSONObject();
-        student.put("name", "son");
-        student.put("phone", "010-1111-1111");
-        student.put("address", "광주");
+        student.put("name" , "kildong");
+        student.put("phone" , "010-1111-1111");
+        student.put("address" , "광주");
 
         JSONObject student2 = new JSONObject();
-        student2.put("name", "jun");
-        student2.put("phone", "010-2222-2222");
-        student2.put("address", "서울");
-
+        student2.put("name" , "hyunjun");
+        student2.put("phone" , "010-1111-1111");
+        student2.put("address" , "서울");
         // 2. students json 배열 만들기
-        JSONArray students = new JSONArray();
-        students.put(student);
-        students.put(student2);
-
+        JSONArray studentArr = new JSONArray();
+        studentArr.put(student);
+        studentArr.put(student2);
+        System.out.println(studentArr);
         // 3. object json 객체 만들기
-        JSONObject object = new JSONObject();
-        object.put("students", students);
-        System.out.println(object.toString(2));
+        JSONObject students = new JSONObject();
+        students.put("students", studentArr);
+        System.out.println(students.toString(2));
     }
 }

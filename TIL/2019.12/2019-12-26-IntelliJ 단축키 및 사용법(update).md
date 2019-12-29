@@ -112,8 +112,7 @@
 - 티스토리에 올릴 때 개행은 <br> 코드가 적절하다. <p>는 공백이 너무 큼.
 
 ## 나만의  단축키
-- split vertically : Shift + v
--
+
 ## 이클립스에서 사용하던 디렉토리 연동하기
 - File -> New -> project from existing Sources -> 디렉토리 연동
 - 깃과 연동  : 상단 VCS 클릭해서 `Enable ~~` 클릭하면 깃과 연동해준다.

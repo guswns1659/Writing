@@ -15,18 +15,18 @@ public class Project01_C {
             throw new NullPointerException("Cannot find resource file");
         }
         // 2. 읽어온 json 데이터를 메모리에 로딩하기  : JSONTokener 객체 사용
-        JSONTokener tokener = new JSONTokener(is);
+        JSONTokener jsonTokener = new JSONTokener(is);
 
         // 3. JSONTokener 객체를 JSONObject 객체로 만들기
-        JSONObject object = new JSONObject(tokener);
+        JSONObject students = new JSONObject(jsonTokener);
 
         // 4. Json 객체에 있던 jsonArray 꺼내기
-        JSONArray students = object.getJSONArray("students");
+        JSONArray studentArr = students.getJSONArray("students");
 
         // 5. jsonArray 안에 있는 student 객체 출력하기.
-        for (int i = 0; i < students.length(); i++) {
-            JSONObject student = students.getJSONObject(i);
-            System.out.println(student.get("address"));
+        for (int i = 0; i < studentArr.length(); i++) {
+            JSONObject student = studentArr.getJSONObject(i);
+            System.out.println(student);
         }
     }
 }
