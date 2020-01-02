@@ -1,33 +1,35 @@
 package CodesquadCS.RadixNotationConverter;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class BinaryAdder {
+    private static final boolean ZERO = false;
+    private static final boolean ONE = true;
+
     public static void main(String[] args) {
         BinaryAdder add = new BinaryAdder();
         boolean[] byteA = {true, true, false, true, true, false, true, false};
         boolean[] byteB = {true, false, true, true, false, false, true, true};
         boolean[] byteC = {true, true, false, false, true, false, true, false};
         boolean[] byteD = {true, true, false, true, true, false, false, true};
-        System.out.println(add.adder(byteA, byteB));
-        System.out.println(add.adder(byteC, byteD));
+        System.out.println(add.byteAdder(byteA, byteB));
+        System.out.println(add.byteAdder(byteC, byteD));
     }
 
     // 논리게이트
     // AND 게이트
     public boolean and(boolean bitA, boolean bitB) {
         if (bitA && bitB) {
-            return true;
+            return ONE;
         } else {
-            return false;
+            return ZERO;
         }
     }
     // OR게이트
     public boolean or(boolean bitA, boolean bitB) {
         if (!bitA && !bitB) {
-            return false;
+            return ZERO;
         } else {
-            return true;
+            return ONE;
         }
     }
     // NAND 게이트
@@ -40,38 +42,38 @@ public class BinaryAdder {
         return !or(bitA, bitB);
     }
 
-    // 합
-    public boolean sum(boolean bitA, boolean bitB) {
+    // Sum
+    public boolean getSum(boolean bitA, boolean bitB) {
         if (bitA && bitB) {
-            return false;
+            return ZERO;
         } else if (!bitA && !bitB) {
-            return false;
+            return ZERO;
         } else {
-            return true;
+            return ONE;
         }
     }
 
-    // 자리올림
-    public boolean carry(boolean bitA, boolean bitB) {
+    // Carry
+    public boolean getCarry(boolean bitA, boolean bitB) {
         if (bitA && bitB) {
-            return true;
+            return ONE;
         } else {
-            return false;
+            return ZERO;
         }
     }
 
-    // 반가산기. true = 1, false = 0, {carry, sum}
+    // 반가산기.
     public boolean[] halfAdder(boolean bitA, boolean bitB) {
-        boolean[] answer = {true, true};
+        boolean[] answer = {ONE, ONE};
         if (bitA && bitB) {
-            answer[0] = carry(bitA, bitB);
-            answer[1] = sum(bitA, bitB);
+            answer[0] = getCarry(bitA, bitB);
+            answer[1] = getSum(bitA, bitB);
         } else if (!bitA && !bitB) {
-            answer[0] = carry(bitA, bitB);
-            answer[1] = sum(bitA, bitB);
+            answer[0] = getCarry(bitA, bitB);
+            answer[1] = getSum(bitA, bitB);
         } else {
-            answer[0] = carry(bitA, bitB);
-            answer[1] = sum(bitA, bitB);
+            answer[0] = getCarry(bitA, bitB);
+            answer[1] = getSum(bitA, bitB);
         }
         return answer;
     }
@@ -97,10 +99,10 @@ public class BinaryAdder {
         return answer;
     }
 
-    // Adder, 8비트 덧셈기
-    public ArrayList<Boolean> adder(boolean[] byteA, boolean[] byteB) {
+    // byteAdder, 8비트 덧셈기
+    public ArrayList<Boolean> byteAdder(boolean[] byteA, boolean[] byteB) {
         ArrayList<Boolean> answer = new ArrayList<>();
-        boolean carry = false;
+        boolean carry = ZERO;
         boolean elements;
         boolean[] result;
         for (int i = 0; i < byteA.length; i++) {
@@ -109,7 +111,6 @@ public class BinaryAdder {
             elements = result[1];
             answer.add(elements);
         }
-        // 배열 다 순회하고 나올 때 carry가 1이면 배열에 더한다.
         answer.add(carry);
         return answer;
     }

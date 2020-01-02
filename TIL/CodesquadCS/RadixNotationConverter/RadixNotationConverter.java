@@ -5,29 +5,32 @@ import java.util.ArrayList;
 public class RadixNotationConverter {
     public static void main(String[] args) {
         RadixNotationConverter c = new RadixNotationConverter();
-        ArrayList<Boolean> result = c.dec2bin(0);
+        ArrayList<Boolean> result = c.dec2bin(173);
         ArrayList<Integer> result2 = c.bin2int(result);
         System.out.println(c.int2dec(result2));
     }
 
     // int를 boolean으로 변환하는 함수로 쪼개기
-    //
+    public boolean int2bool(int remainer) {
+        if (remainer == 0) {
+            return false;
+        } else {
+            return true;
+        }
+    }
 
     // 10진수를 2진수 배열로 변환하는 함수
     public ArrayList<Boolean> dec2bin(int decimal) {
-        ArrayList<Boolean> answer = new ArrayList<>();
+        ArrayList<Boolean> binaryArr = new ArrayList<>();
+        int remainer;
         boolean zero = false;
-        boolean one = true;
         while (decimal != 0) {
-            if (decimal % 2 == 0) {
-                answer.add(zero);
-            } else {
-                answer.add(one);
-            }
+            remainer = decimal % 2;
+            binaryArr.add(int2bool(remainer));
             decimal /= 2;
         }
-        answer.add(zero);
-        return answer;
+        binaryArr.add(zero);
+        return binaryArr;
     }
 
     // 2진수 배열 원소를 int로 변환하는 함수
