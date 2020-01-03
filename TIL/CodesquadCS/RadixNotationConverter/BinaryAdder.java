@@ -1,4 +1,5 @@
 package CodesquadCS.RadixNotationConverter;
+
 import java.util.ArrayList;
 
 public class BinaryAdder {
@@ -24,6 +25,7 @@ public class BinaryAdder {
             return ZERO;
         }
     }
+
     // OR게이트
     public boolean or(boolean bitA, boolean bitB) {
         if (!bitA && !bitB) {
@@ -32,6 +34,7 @@ public class BinaryAdder {
             return ONE;
         }
     }
+
     // NAND 게이트
     public boolean nAnd(boolean bitA, boolean bitB) {
         return !and(bitA, bitB);
@@ -63,18 +66,11 @@ public class BinaryAdder {
     }
 
     // 반가산기.
+
     public boolean[] halfAdder(boolean bitA, boolean bitB) {
         boolean[] answer = {ONE, ONE};
-        if (bitA && bitB) {
-            answer[0] = getCarry(bitA, bitB);
-            answer[1] = getSum(bitA, bitB);
-        } else if (!bitA && !bitB) {
-            answer[0] = getCarry(bitA, bitB);
-            answer[1] = getSum(bitA, bitB);
-        } else {
-            answer[0] = getCarry(bitA, bitB);
-            answer[1] = getSum(bitA, bitB);
-        }
+        answer[0] = getCarry(bitA, bitB);
+        answer[1] = getSum(bitA, bitB);
         return answer;
     }
 
@@ -83,7 +79,7 @@ public class BinaryAdder {
         boolean[] answer = new boolean[2];
 
         // 1. bitA와 bitB의 반가산기1
-        boolean[] result =halfAdder(bitA, bitB);
+        boolean[] result = halfAdder(bitA, bitB);
         boolean fisrtSum = result[1];
 
         // 2. 반가산기 합과 carry의 반가산기2
@@ -95,7 +91,7 @@ public class BinaryAdder {
         boolean secondCarry = halfAdder(fisrtSum, carry)[0];
 
         // 4. 반가산기2의 합과 or논리게이트 결과
-        answer[0]=or(fisrtCarry, secondCarry);
+        answer[0] = or(fisrtCarry, secondCarry);
         return answer;
     }
 
