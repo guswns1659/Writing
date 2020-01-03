@@ -2,6 +2,10 @@
 
 ## 핵심
 
+## 리눅스 미션 구현 요소 
+- root 계정말고 새로운 계정 만든다. 
+- 미션2의 셀 스크립트 개념 익히고 적용한다. 
+
 ## 가상머신
 - 하드웨어를 소프트웨어로 구현하는 프로그램을 말한다. 실제 하드웨어는 아니고 소프트웨어 위에 OS를 설치할 수 있다.
 - 왜 사용할까?
@@ -32,7 +36,19 @@
     - Telnet보다 암호화된 통신을 가능하게 한다. 예를 들어, 문자열을 식별 불가능한 문자로 바꿔서 출력한다. 이에 반해 Telnet은 문자열 그대로 출력한다.
 
 - 어떻게 연결하는가?
-    - root 계정으로 이동 : 터미널에서 sodo passwd root 입력
+    [리눅스 ssh 설치](https://jimnong.tistory.com/713)
+    [putty 설치](https://cupjoo.tistory.com/98)
+    [connection timed out 에러](https://suzxc2468.tistory.com/155)
+    
+    - root 계정으로 이동 : 터미널에서 sudo passwd root 입력 후 sudo -s 입력
+    - ssh 설치 : apt install openssh-server
+    - 22번 포트 허용 : ufw allow 22/tcp
+    - 시작 명령 : sudo service ssh start
+    - 실행 상태 확인 : service ssh status
+    - 프로세스 확인 : ps -ef |grep sshd
+    - 설정 -> 고급 -> 네트워크 -> 포드 포워딩 -> 호스트포트 + 게스트포트 22, 80 
+    - chmod -R 764 디렉토리 이름 : 확장자 764로 변경.
+    
 ## shell이란?
 
 ## shell 명령어

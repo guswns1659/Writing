@@ -11,69 +11,19 @@ curl "https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode?query={주소
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.json.JSONTokener;
-
-import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.net.URLEncoder;
 
 public class index {
     public static void main(String[] args) {
-        // 1. 요청할 API 주소 및 clinet id, serect 변수 설정
-        String apiUrl = "https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode?query=";
-        String clientId = "ishvyx2tqn";
-        String clientSecret = "hjhFUni1JcCIx2H0Bqjc8u66vbVpHqGoDjD8MLm2";
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("name" , "gildong");
+        jsonObject.put("address" , "광주");
 
-        // 2. 사용자에게 입력 받고 요청할 url주소에 붙이는 코드
-        InputStreamReader is = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(is);
-
-        try {
-            System.out.print("주소를 입력하세요.");
-            String address = br.readLine();
-            String encodeAddr = URLEncoder.encode(address, "UTF-8");
-            String reqUrl = apiUrl + encodeAddr;
-
-            // 3. API와 연결할 준비
-            URL url = new URL(reqUrl);
-            HttpURLConnection con = (HttpURLConnection) url.openConnection();
-            con.setRequestMethod("GET");
-            con.setRequestProperty("X-NCP-APIGW-API-KEY-ID", clientId);
-            con.setRequestProperty("X-NCP-APIGW-API-KEY", clientSecret);
-
-            // 4. 입력이 성공적이라면 서버가 보낸 정보 읽기
-            int responCode = con.getResponseCode();
-            BufferedReader br2;
-            if (responCode == 200) {
-                br2 = new BufferedReader(new InputStreamReader(con.getInputStream(), "UTF-8"));
-                System.out.println(br2);
-            } else {
-                br2 = new BufferedReader(new InputStreamReader(con.getErrorStream()));
-            }
-
-            // 5. 서버가 보낸 정보 한 줄씩 읽어오기
-            String line = "";
-            StringBuffer respon = new StringBuffer();
-            while ((line=br2.readLine()) != null){
-                respon.append(line);
-            }
-            br2.close();
-
-            // 6. 한 줄씩 읽어온 파일 json 형태로 만들기
-            JSONTokener jsonTokener = new JSONTokener(respon.toString());
-            JSONObject object = new JSONObject(jsonTokener);
-            JSONArray arr = object.getJSONArray("addresses");
-            for (int i = 0; i < arr.length(); i++) {
-                JSONObject addrInfo = arr.getJSONObject(i);
-                System.out.println(addrInfo.get("roadAddress"));
-                System.out.println(addrInfo.get("jibunAddress"));
-                System.out.println(addrInfo.get("x"));
-                System.out.println(addrInfo.get("y"));
-            }
-
-        } catch (IOException e) {
-            e.printStackTrace();
+        JSONArray arr = new JSONArray();
+        arr.put(jsonObject);
+        for (int i = 0; i < arr.length(); i++) {
+            JSONObject obj = arr.getJSONObject(i);
+            Object string = obj.get("address");
+            System.out.println(string.toString());
         }
     }
 }

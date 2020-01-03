@@ -1,12 +1,13 @@
 ## 형변환
 - int -> String : Integer.toString();
-- String -> int : Integer.parseInt();
-
+- String -> int : String.valueOf(); , Integer.toString();
+- 진법 변환 : Integer.parseInt("100", 16); -> 16진수 100을 계산해봐 : 16^2
 
 ## 자료형 확인
 객체 자료형에서 사용 가능하다.
 
 - str instanceof String : return값은 true or false
+- str.getClass() : return 값은 class java.lang.String
 
 ## Array 초기화 방법
 1. for문 사용
@@ -31,3 +32,15 @@ int[] days = {1,2,3,4,5,6,7,8,9,10,11,12};
     - charAt(str.length()-1) : 문자열의 끝 문자 반환.
 - charAt(1) : 인덱스 1번 문자 반환.
 - A.compareTo(B) : A와 B를 유니코드로 비교. 같으면 0, A < B 면 음수, A > B 면 양수 반환.
+
+## HashMap
+- value 전체 출력 하기 : keySet() 이용
+```java
+    for (Integer key : map.keySet()){
+        int value = map.get(key);
+        System.out.println("value : " + value);
+    }
+```
+
+## Math.pow(x, y)
+x의 y승

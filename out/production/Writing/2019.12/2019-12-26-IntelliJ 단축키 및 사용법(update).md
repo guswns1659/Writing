@@ -105,14 +105,14 @@
 - 현재 tab 삭제하기 : Ctrl + F4
 - 커밋할 때 "Non-ascii ~~" 또는 "Identifier contains symbols from~~" 나올 때 : settings -> inspections -> non-ascii character -> 체크박스 해제
 - jar 파일 추가할 때 : file -> project structure -> libraries -> '+' -> 경로 추가
+- 파일 위치 변경: F6
 
 ## 마크다운
 - 마크다운에서 코드블럭 에러날 때 : settings -> plugins -> Markdown Navigator 설치
 - 티스토리에 올릴 때 개행은 <br> 코드가 적절하다. <p>는 공백이 너무 큼.
 
 ## 나만의  단축키
-- split vertically : Shift + v
--
+
 ## 이클립스에서 사용하던 디렉토리 연동하기
 - File -> New -> project from existing Sources -> 디렉토리 연동
 - 깃과 연동  : 상단 VCS 클릭해서 `Enable ~~` 클릭하면 깃과 연동해준다.
