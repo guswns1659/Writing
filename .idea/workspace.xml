@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="20.01.02) Studying log">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-04-철학 - Feminism 1-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-01-03-책 리뷰 - 퍼센트, 내 삶을 바꾼 특별한 도구.md" afterDir="false" />
+    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-04-Linux - 기초.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - Linux.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +55,8 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020\01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01.codesquad" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="index" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="CodesquadCS.RadixNotationConverter" />
@@ -76,8 +72,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kr.tpc" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="index" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Codesquad" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020\01\Codesquad" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01.codesquad" />
     </key>
   </component>
   <component name="RunManager" selected="Application.BinaryAdder">
@@ -245,7 +245,8 @@
       <workItem from="1578057658590" duration="620000" />
       <workItem from="1578058866283" duration="341000" />
       <workItem from="1578059361126" duration="180000" />
-      <workItem from="1578094561104" duration="3886000" />
+      <workItem from="1578094561104" duration="4032000" />
+      <workItem from="1578103737085" duration="3960000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -345,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577411104845</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20.01.04) Studying log of Feminism philosophy">
+      <created>1578098855221</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578098855221</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +385,8 @@
     <MESSAGE value="19.12.24) Studying log" />
     <MESSAGE value="Fix wrong part of maze" />
     <MESSAGE value="20.01.02) Studying log" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.02) Studying log" />
+    <MESSAGE value="20.01.04) Studying log of Feminism philosophy" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.04) Studying log of Feminism philosophy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
@@ -429,9 +438,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1577071093641" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1577955370160">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1578098852064">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578098852064" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577955370160" />
     <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
@@ -486,14 +496,15 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577522258025" />
-    <state width="523" height="422" key="SwitcherDM" timestamp="1578059465208">
+    <state width="523" height="422" key="SwitcherDM" timestamp="1578110770639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1578059465208" />
+    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1578110770639" />
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1578020732800" />
-    <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577411108027">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1578098859994">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578098859994" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577411108027" />
     <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578021593472">
       <screen x="0" y="0" width="1280" height="720" />
@@ -519,10 +530,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1578098536347">
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1578103980506">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578098536347" />
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578103980506" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578038392591" />
   </component>
 </project>
