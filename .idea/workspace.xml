@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="20.01.02) Studying log">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - 추가학습요소.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-04-철학 - Feminism 1-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-01-03-책 리뷰 - 퍼센트, 내 삶을 바꾼 특별한 도구.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-01-Codesquad - Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - Linux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-01-Codesquad - 추가학습요소.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - codeReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - C.SReview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Programming - 공부할 거리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Programming - 공부할 거리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-22-Java - 정보은닉(Information Hiding).md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-22-Java - 정보은닉(Information Hiding).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-24-IntelliJ 단축키 및 사용법.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-23-Java - Inheritance.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-25-Java - Object.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/2019.12/Java/2019-12-25-Java - Object.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/2029.00/2029-00-00-Java - 유용한 메서드.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/TPC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/poly/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/poly/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/kr/tpc/Dog.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +42,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,8 +55,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="index" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Codesquad" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020\01\Codesquad" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01.codesquad" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="CodesquadCS.RadixNotationConverter" />
@@ -90,12 +76,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kr.tpc" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020\01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01.codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="index" />
     </key>
   </component>
   <component name="RunManager" selected="Application.BinaryAdder">
@@ -262,6 +244,8 @@
       <workItem from="1578053438688" duration="748000" />
       <workItem from="1578057658590" duration="620000" />
       <workItem from="1578058866283" duration="341000" />
+      <workItem from="1578059361126" duration="180000" />
+      <workItem from="1578094561104" duration="3886000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -408,9 +392,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1578038196008" />
-    <state x="565" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578021684501">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="565" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578094714706">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="565" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1578094714706" />
     <state x="565" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1578021684501" />
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576585685128">
       <screen x="0" y="0" width="1280" height="720" />
@@ -456,10 +441,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="235" y="53" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1577192776157" />
-    <state x="421" y="111" key="FileChooserDialogImpl" timestamp="1578058287084">
+    <state x="421" y="111" key="FileChooserDialogImpl" timestamp="1578094779322">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578058287084" />
+    <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578094779322" />
     <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578028070748" />
     <state width="595" height="185" key="GridCell.Tab.0.bottom" timestamp="1578028072032">
       <screen x="0" y="0" width="1280" height="720" />
@@ -501,9 +486,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577522258025" />
-    <state width="523" height="446" key="SwitcherDM" timestamp="1578020732800">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="523" height="422" key="SwitcherDM" timestamp="1578059465208">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1578059465208" />
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1578020732800" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2" timestamp="1577411108027">
       <screen x="0" y="0" width="1280" height="720" />
@@ -533,9 +519,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1578038392591">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1578098536347">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578098536347" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578038392591" />
   </component>
 </project>
