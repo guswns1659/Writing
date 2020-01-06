@@ -8,31 +8,20 @@ public class BinaryAdder {
 
     public static void main(String[] args) {
         BinaryAdder add = new BinaryAdder();
-        boolean[] byteA = {true, true, false, true, true, false, true, false};
-        boolean[] byteB = {true, false, true, true, false, false, true, true};
-        boolean[] byteC = {true, true, false, false, true, false, true, false};
-        boolean[] byteD = {true, true, false, true, true, false, false, true};
+        boolean[] byteA = {true, true};
+        boolean[] byteB = {true, false};
         System.out.println(add.byteAdder(byteA, byteB));
-        System.out.println(add.byteAdder(byteC, byteD));
     }
 
     // 논리게이트
     // AND 게이트
     public boolean and(boolean bitA, boolean bitB) {
-        if (bitA && bitB) {
-            return ONE;
-        } else {
-            return ZERO;
-        }
+        return bitA && bitB;
     }
 
     // OR게이트
     public boolean or(boolean bitA, boolean bitB) {
-        if (!bitA && !bitB) {
-            return ZERO;
-        } else {
-            return ONE;
-        }
+        return bitA || bitB;
     }
 
     // NAND 게이트
@@ -47,22 +36,12 @@ public class BinaryAdder {
 
     // Sum
     public boolean getSum(boolean bitA, boolean bitB) {
-        if (bitA && bitB) {
-            return ZERO;
-        } else if (!bitA && !bitB) {
-            return ZERO;
-        } else {
-            return ONE;
-        }
+        return bitA != bitB;
     }
 
     // Carry
     public boolean getCarry(boolean bitA, boolean bitB) {
-        if (bitA && bitB) {
-            return ONE;
-        } else {
-            return ZERO;
-        }
+        return bitA && bitB;
     }
 
     // 반가산기.
@@ -86,11 +65,9 @@ public class BinaryAdder {
         boolean secondSum = halfAdder(fisrtSum, carry)[1];
         answer[1] = secondSum;
 
-        // 3. 반가산기2의 carry와 or논리게이트
+        // 3. 반가산기1의 carry와 반가산기2의 carry의 or논리게이트 결과
         boolean fisrtCarry = result[0];
         boolean secondCarry = halfAdder(fisrtSum, carry)[0];
-
-        // 4. 반가산기2의 합과 or논리게이트 결과
         answer[0] = or(fisrtCarry, secondCarry);
         return answer;
     }

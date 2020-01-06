@@ -40,6 +40,10 @@ OR 게이트의 반대이다.
 <br>
 
 ```java
+public class Converter{
+    public static void main(String[] args){
+      dec2bin(1);
+    }
     public ArrayList<Boolean> dec2bin(int decimal) {
         ArrayList<Boolean> binaryArr = new ArrayList<>();
         int remainer;
@@ -52,6 +56,7 @@ OR 게이트의 반대이다.
         binaryArr.add(zero);
         return binaryArr;
     }
+}
 ```
 
 
