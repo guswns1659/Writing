@@ -1,10 +1,12 @@
 package CodesquadCS.LinkedList;
+
 public class LinkedList {
     VideoData head = new VideoData(-1);
     VideoData tail = new VideoData(-1);
 
     int count = 0;
 
+    // 양방향 연결리스트
     public LinkedList() {
         head.setNext(tail);
         tail.setPrev(head);
@@ -12,20 +14,26 @@ public class LinkedList {
 
     // 1. add
     public void add(VideoData newData) {
-        insertChangeLink(tail, newData);
+        VideoData isOverlap = traverse(newData.getId());
+        if (isOverlap == null) {
+            insertChangeLink(tail, newData);
+        }
     }
 
     // 2. insert
     public void insert(VideoData newData, int index) {
-        VideoData pointer = head;
+        VideoData isOverlap = traverse(newData.getId());
+        if (isOverlap == null) {
+            VideoData pointer = head.getNext();
 
-        if (count < index) {
-            add(newData);
-        } else {
-            for (int i = 0; i < index; ++i) {
-                pointer = pointer.getNext();
+            if (count < index) {
+                add(newData);
+            } else {
+                for (int i = 1; i < index; ++i) {
+                    pointer = pointer.getNext();
+                }
+                insertChangeLink(pointer, newData);
             }
-            insertChangeLink(pointer, newData);
         }
     }
 
@@ -50,13 +58,27 @@ public class LinkedList {
         System.out.printf("전체길이 : %dsec\n", total);
     }
 
+    // 5. traverse
+    public VideoData traverse(String id) {
+        VideoData pointer = head.getNext();
+        while (pointer != tail) {
+            if (id.equals(pointer.getId())) {
+                System.out.println("중복된 id입니다. 다시 입력해주세요.");
+                return pointer;
+            } else {
+                pointer = pointer.getNext();
+            }
+        }
+        return null;
+    }
+
     // 삽입될 때 링크 조절되는 메서드
-    private void insertChangeLink(VideoData oldData, VideoData newData) {
-        VideoData preData = oldData.getPrev();
+    private void insertChangeLink(VideoData pointer, VideoData newData) {
+        VideoData preData = pointer.getPrev();
         preData.setNext(newData);
         newData.setPrev(preData);
-        newData.setNext(oldData);
-        oldData.setPrev(newData);
+        newData.setNext(pointer);
+        pointer.setPrev(newData);
 
         ++count;
     }
@@ -72,11 +94,16 @@ public class LinkedList {
         --count;
     }
 
-    // 테스트 메서드
+    // 연결리스트를 출력하는 메서드
     public void showLinkedList() {
         VideoData pointer = head.getNext();
-        while (pointer.getRunningTime() != -1) {
-            System.out.printf("[%s, %dsec]---", pointer.getId(), pointer.getRunningTime());
+        String id = pointer.getId();
+        int runningTime = pointer.getRunningTime();
+
+        while (pointer != tail) {
+            id = pointer.getId();
+            runningTime = pointer.getRunningTime();
+            System.out.printf("[%s, %dsec]---", id, runningTime);
             pointer = pointer.getNext();
         }
         System.out.print("[end]\n\n");

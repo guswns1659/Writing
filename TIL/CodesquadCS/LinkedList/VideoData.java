@@ -2,8 +2,6 @@ package CodesquadCS.LinkedList;
 
 import java.util.Random;
 
-// 1. 랜덤 id 구현 필요
-// 2. 출력 형식 구현 필요
 public class VideoData {
     private String id;
     private String title;
@@ -13,6 +11,7 @@ public class VideoData {
 
     static int number = 1;
 
+    // LinkedList의 head와 tail 생성자
     public VideoData(int runningTime) {
         this.id = null;
         this.title = null;
@@ -21,6 +20,7 @@ public class VideoData {
         this.prev = null;
     }
 
+    // Video 만드는 생성자
     public VideoData() {
         this.id = randomId();
         this.title = "제목" + number++;
@@ -29,14 +29,15 @@ public class VideoData {
         this.prev = null;
     }
 
+    // Video의 id를 random으로 생성하는 메서드
     public String randomId() {
-        String id = "";
+        StringBuilder id = new StringBuilder();
         for (int i = 0; i < 4; i++) {
             Random rnd = new Random();
             String randomStr = String.valueOf((char) ((rnd.nextInt(26)) + 97));
-            id += randomStr;
+            id.append(randomStr);
         }
-        return id;
+        return id.toString();
     }
 
     public String getId() {

@@ -29,6 +29,7 @@ public class VideoInterface {
             String videoId = splitCommands[1];
             VideoData newData = findVideo(videoId);
             linkedList.add(newData);
+            System.out.println(newData);
             linkedList.showLinkedList();
         } else if (method.equals("insert")){
             String videoId = splitCommands[1];
