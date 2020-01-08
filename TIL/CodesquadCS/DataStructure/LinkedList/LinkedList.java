@@ -1,4 +1,4 @@
-package CodesquadCS.LinkedList;
+package CodesquadCS.DataStructure.LinkedList;
 
 public class LinkedList {
     VideoData head = new VideoData(-1);
@@ -25,7 +25,6 @@ public class LinkedList {
         VideoData isOverlap = traverse(newData.getId());
         if (isOverlap == null) {
             VideoData pointer = head.getNext();
-
             if (count < index) {
                 add(newData);
             } else {
@@ -97,8 +96,8 @@ public class LinkedList {
     // 연결리스트를 출력하는 메서드
     public void showLinkedList() {
         VideoData pointer = head.getNext();
-        String id = pointer.getId();
-        int runningTime = pointer.getRunningTime();
+        String id;
+        int runningTime;
 
         while (pointer != tail) {
             id = pointer.getId();

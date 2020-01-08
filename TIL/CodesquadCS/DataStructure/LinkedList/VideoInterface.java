@@ -1,4 +1,4 @@
-package CodesquadCS.LinkedList;
+package CodesquadCS.DataStructure.LinkedList;
 
 import java.util.Scanner;
 

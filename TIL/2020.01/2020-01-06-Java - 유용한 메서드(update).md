@@ -38,6 +38,7 @@ public class test{
 
 ## HashMap
 - value 전체 출력 하기 : keySet() 이용
+- getOrDefault(key, default) : 값이 있으면 가져오고 없다면 정해진 Default를 넣는다.
 ```java
 public class test {
     for (Integer key : map.keySet()){
@@ -70,4 +71,7 @@ public class test {
     }
 }
 ```
+
+## 배열 속 원소를 비교할 때 
+- Arrays로 sort하고 반복문 돌면서 각 원소를 equals()로 비교한다. 
 
