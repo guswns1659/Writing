@@ -30,7 +30,7 @@ public class test{
 
 ```
 ## String 메서드
-- subString(1) : 앞에서부터 매개변수만큼 문자열을 자른 뒤 반환.
+- subString(1) : 인덱스 1부터 끝까지 잘라서 반환.
     - subString(str.length()-1) : 문자열의 끝 문자열 앞까지 자르고 반환.
     - charAt(str.length()-1) : 문자열의 끝 문자 반환.
 - charAt(1) : 인덱스 1번 문자 반환.
