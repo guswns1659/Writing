@@ -7,7 +7,6 @@
 
 ## 자료형 확인
 객체 자료형에서 사용 가능하다.
-
 - str instanceof String : return값은 true or false
 - str.getClass() : return 값은 class java.lang.String
 
@@ -36,7 +35,8 @@ public class test{
 - charAt(1) : 인덱스 1번 문자 반환.
 - A.compareTo(B) : A와 B를 유니코드로 비교. 같으면 0, A < B 면 음수, A > B 면 양수 반환.
 
-## HashMap
+## Hash
+### 1. HashMap
 - value 전체 출력 하기 : keySet() 이용
 - getOrDefault(key, default) : 값이 있으면 가져오고 없다면 정해진 Default를 넣는다.
 ```java
@@ -48,8 +48,18 @@ public class test {
 }
 ```
 
-## Math.pow(x, y)
-x의 y승
+### 2. HashSet : 배열 속 중복된 값을 줄이는 클래스 
+- hashset contains unique elements only.
+```java
+import java.util.ArrayList;import java.util.HashSet;
+public class test {
+    String[] arr = {"a", "b", "c"};
+    ArrayList<Integer> arr = new ArrayList<>(new HashSet<>(arr));
+}
+```
+## Math 
+- Math.pow(x, y) : x의 y승
+- Math.sqrt() : 제곱근
 
 ## 랜덤으로 문자열 출력하는 코드 
 ### 1. Random의 nextInt() 
@@ -75,3 +85,5 @@ public class test {
 ## 배열 속 원소를 비교할 때 
 - Arrays로 sort하고 반복문 돌면서 각 원소를 equals()로 비교한다. 
 
+## List
+- List의 경우 그냥 System.out.println을 해도 배열 값이 출력된다.

@@ -20,7 +20,4 @@ public class Triangle extends Geometry{
         double area = Math.sqrt(result);
         return area;
     }
-
-
-
 }

@@ -15,12 +15,13 @@ public class Rectangle extends Geometry {
     }
     public ArrayList<Double> removeOverlap(ArrayList<Double> distances) {
         ArrayList<Double> uniqueItems = new ArrayList<Double>(new HashSet<Double>(distances));
+        ArrayList<Double> minimuns;
         if (uniqueItems.size() == 2){
-           ArrayList<Double> min  = getMinDistanceOfTwo(uniqueItems);
+           minimuns  = getMinDistanceOfTwo(uniqueItems);
         } else {
-            ArrayList<Double> twoDistances = getMinDistanceOfThree(uniqueItems);
+            minimuns = getMinDistanceOfThree(uniqueItems);
         }
-        return uniqueItems;
+        return minimuns;
     }
     public ArrayList<Double> getMinDistanceOfTwo(ArrayList<Double> uniqueItems) {
         double min1 = Math.min(uniqueItems.get(0), uniqueItems.get(1));
@@ -48,7 +49,7 @@ public class Rectangle extends Geometry {
         } else {
             double a = uniqueItems.get(0);
             double b = uniqueItems.get(1);
-            area = a * b * 0.5;
+            area = a * b;
         }
         return area;
     }

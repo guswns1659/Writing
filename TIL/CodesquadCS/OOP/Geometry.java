@@ -23,28 +23,6 @@ public class Geometry {
         return numArr;
     }
 
-    public void printCoordinate(int x, int y) {
-        for (int i = 24; i > y; i--) {
-            System.out.printf("%3d|\n", i);
-        }
-        System.out.printf("%3d|", y);
-
-        for (int i = 0; i < x; i++) {
-            System.out.print("   ");
-        }
-        System.out.println("●");
-        for (int i = y-1; i > 0; i--) {
-            System.out.printf("%3d|\n", i);
-        }
-        System.out.print("   +");
-        for (int i = 0; i < 95; i++) {
-            System.out.print("-");
-        }
-        System.out.println();
-        for (int i = 0; i < 25; i++) {
-            System.out.printf("%2d", i);
-        }
-    }
     public int[] singleCoordinate2Num(String coordinate) {
         String replaceStr = coordinate.replace("(", "");
         String replaceStr2 = replaceStr.replace(")", "");
@@ -130,4 +108,31 @@ public class Geometry {
         answer.add(distanceF);
         return answer;
     }
+
+
+    public void printCoordinate(int x, int y) {
+        for (int i = 24; i > y; i--) {
+            System.out.printf("%3d|\n", i);
+        }
+        System.out.printf("%3d|", y);
+
+        for (int i = 0; i < x; i++) {
+            System.out.print("   ");
+        }
+        System.out.println("●");
+        for (int i = y-1; i > 0; i--) {
+            System.out.printf("%3d|\n", i);
+        }
+        System.out.print("   +");
+        for (int i = 0; i < 95; i++) {
+            System.out.print("-");
+        }
+        System.out.println();
+        for (int i = 0; i < 25; i++) {
+            System.out.printf("%4d", i);
+        }
+    }
+
 }
+
+
