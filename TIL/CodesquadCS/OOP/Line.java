@@ -1,17 +1,30 @@
 package CodesquadCS.OOP;
 
-import java.util.ArrayList;
 import java.util.List;
 
-public class Triangle implements Shape {
+public class Line implements Shape {
     private Points points1;
     private Points points2;
-    private Points points3;
 
-    public Triangle(Points points1, Points points2, Points points3) {
+    public Line(Points points1, Points points2) {
         this.points1 = points1;
         this.points2 = points2;
-        this.points3 = points3;
+    }
+
+    public Points getPoints1() {
+        return points1;
+    }
+
+    public void setPoints1(Points points1) {
+        this.points1 = points1;
+    }
+
+    public Points getPoints2() {
+        return points2;
+    }
+
+    public void setPoints2(Points points2) {
+        this.points2 = points2;
     }
 
     @Override
@@ -27,12 +40,6 @@ public class Triangle implements Shape {
 
     @Override
     public double getArea() {
-        double line1 = getDistanceBWCoordinates(this.points1, this.points2);
-        double line2 = getDistanceBWCoordinates(this.points1, this.points3);
-        double line3 = getDistanceBWCoordinates(this.points2, this.points3);
-        double s = 0.5 *(line1 + line2 + line3);
-        double area = Math.sqrt(s * (s-line1) * (s-line2) * (s-line3));
-
-        return area;
+        return 0;
     }
 }

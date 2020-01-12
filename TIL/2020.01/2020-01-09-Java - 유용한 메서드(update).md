@@ -87,3 +87,12 @@ public class test {
 
 ## List
 - List의 경우 그냥 System.out.println을 해도 배열 값이 출력된다.
+
+## replaceAll()
+- java replaceAll()은 정규표현식 사용 가능. [] 안에 값을 넣는다. 
+- Collectors.joining() : 배열의 원소를 하나로 합쳐준다. 
+- joining(delimeter) : 문자 사이에 delimeter 넣고 합쳐준다.
+- joining(delimeter, prefix, surfix) : 문자 사이에 delimeter 넣고 맨 앞에는 prefix, 뒤에는 suffix를 합쳐준다.
+
+## String[]을 int[]로 한번에 바꾸는 메서드
+- Arrays.stream(splitCoordinates).mapToInt(Integer::parseInt).toArray();
