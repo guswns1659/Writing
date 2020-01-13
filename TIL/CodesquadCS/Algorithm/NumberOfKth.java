@@ -11,33 +11,22 @@ package CodesquadCS.Algorithm;
 import java.util.Arrays;
 
 public class NumberOfKth {
-    public int[] solution(int[] arrry, int[][] commands) {
-        int[] answer = {};
-        return answer;
-    }
-    public int[] slice(int[] array, int[][] commands) {
-        int sizeOfAnswerArr = commands.length;
-        int[] answerArr = new int[sizeOfAnswerArr];
-        for (int[] smallArray : commands) {
-            int start = smallArray[0]-1;
-            int end = smallArray[1]-1;
-            int sliceCount = end - start +1;
-            int pick = smallArray[2]-1;
-            int[] sliceArr = new int[end-start+1];
-            for (int i = 0; i < sliceCount; i++) {
-                sliceArr[i] = array[start++];
-            }
-            sort(sliceArr);
-            int answer = answer(sliceArr, pick);
-        }
+    public int[] solution(int[] array, int[][] commands) {
+        int[] answerList = makeAnswerList(commands);
+        for (int[] command : commands) {
 
-        return answerArr;
+        }
+        return answerList;
     }
-    public void sort(int[] sliceArr) {
-        Arrays.sort(sliceArr);
+    public int[] makeAnswerList(int[][] commands) {
+        int[] answerList = new int[commands.length];
+        return answerList;
     }
-    public int answer(int[] sliceArr, int pick) {
-        int answer = sliceArr[pick];
-        return answer;
+    public int[] commandsParser(int[] command) {
+        int[] 
+        return
     }
+
 }
+
+

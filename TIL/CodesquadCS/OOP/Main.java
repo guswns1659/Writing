@@ -9,6 +9,5 @@ public class Main {
         ShapeChecker shapeChecker = new ShapeChecker();
         double result = shapeChecker.calculate(pointsList);
         System.out.println(result);
-
     }
 }

@@ -1,4 +1,12 @@
 package CodesquadCS.DataStructure.LinkedList;
+/*
+리팩토링 요소
+-node class 만들기.
+-node에 video data 만들기.
+-Videointerface 기능 분리하기
+-Command는 따로 객체로로만들기
+ */
+
 
 public class LinkedList {
     VideoData head = new VideoData(-1);
