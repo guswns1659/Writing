@@ -22,10 +22,6 @@ public class NumberOfKth {
         int[] answerList = new int[commands.length];
         return answerList;
     }
-    public int[] commandsParser(int[] command) {
-        int[] 
-        return
-    }
 
 }
 
