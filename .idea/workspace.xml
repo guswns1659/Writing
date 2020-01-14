@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-04-Linux - 기초.md" afterDir="false" />
+    <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="20.01.07) Studying log of code review of LinkedList">
+      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/ParserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Codesquad/2020-01-03-Codesquad - Linux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-10-C.S기초 - 함수형프로그래밍.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-10-C.S기초 - 함수형프로그래밍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOPReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOPReview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2029.00/2019-12-29-티스토리 컨벤션.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2019.12/2019-12-22-Java - 정보은닉(Information Hiding).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2020.01/2020-01-02-Java - 유용한 메서드(update).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2020.01/Codesquad/2019-01-02-Codesquad - Orientation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2020.01/Codesquad/2020-01-01-Codesquad - 추가학습요소.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2020.01/Codesquad/2020-01-02-Codesquad - Radix Converter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/2020.01/Codesquad/2020-01-03-Codesquad - codeReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/CodesquadCS/RadixNotationConverter/BinaryAdder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/CodesquadCS/RadixNotationConverter/BinaryAdder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-01-13-창피할 게 무엇이 있는가.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-01-13-창피할 게 무엇이 있는가.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Writing" />
@@ -19,6 +47,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,11 +65,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -49,19 +85,34 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="index" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CodesquadCS.CPU" />
+      <recent name="CodesquadCS.OOP" />
+      <recent name="CodesquadCS.Algorithm" />
+      <recent name="CodesquadCS.HashMap" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CodesquadCS.FunctionalProgramming" />
+      <recent name="CodesquadCS.DataStructure" />
       <recent name="CodesquadCS.RadixNotationConverter" />
       <recent name="CodesquadCS" />
       <recent name="TPC1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2019.12\Java" />
+      <recent name="C:\Users\손현준\Documents\Writing\생각정리\2019년" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2029.00" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\손현준\Documents\Writing\도서\책 리뷰\2019년" />
@@ -72,21 +123,17 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kr.tpc" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020\01\Codesquad" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01.codesquad" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="index" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryAdder">
-    <configuration name="BinaryAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.RadixNotationConverter.BinaryAdder" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ClassifierAlpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.FunctionalProgramming.ClassifierAlpha" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.RadixNotationConverter.*" />
+          <option name="PATTERN" value="CodesquadCS.FunctionalProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Project01_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TPC2.Project01_C" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.OOP.Main" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TPC2.*" />
+          <option name="PATTERN" value="CodesquadCS.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,52 +154,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Project01_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TPC2.Project01_D" />
+    <configuration name="InputTest.askCoordinate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TPC2.*" />
+          <option name="PATTERN" value="CodesquadCS.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="CodesquadCS.OOP" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.OOP.InputTest" />
+      <option name="METHOD_NAME" value="askCoordinate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixNotationConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.RadixNotationConverter.RadixNotationConverter" />
+    <configuration name="InputTest.isVaildCoordinate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.RadixNotationConverter.*" />
+          <option name="PATTERN" value="CodesquadCS.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="CodesquadCS.OOP" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.OOP.InputTest" />
+      <option name="METHOD_NAME" value="isVaildCoordinate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="index.index" />
+    <configuration name="InputTest.isVaildCoordinats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TPC1.*" />
+          <option name="PATTERN" value="CodesquadCS.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="CodesquadCS.OOP" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.OOP.InputTest" />
+      <option name="METHOD_NAME" value="isVaildCoordinats" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryAdder" />
-        <item itemvalue="Application.RadixNotationConverter" />
-        <item itemvalue="Application.index" />
-        <item itemvalue="Application.Project01_D" />
-        <item itemvalue="Application.Project01_C" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.InputTest.isVaildCoordinate" />
+        <item itemvalue="JUnit.InputTest.isVaildCoordinats" />
+        <item itemvalue="JUnit.InputTest.askCoordinate" />
+        <item itemvalue="Application.ClassifierAlpha" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +302,41 @@
       <workItem from="1578058866283" duration="341000" />
       <workItem from="1578059361126" duration="180000" />
       <workItem from="1578094561104" duration="4032000" />
-      <workItem from="1578103737085" duration="3960000" />
+      <workItem from="1578103737085" duration="4238000" />
+      <workItem from="1578116176150" duration="6841000" />
+      <workItem from="1578129451002" duration="1874000" />
+      <workItem from="1578145242526" duration="110000" />
+      <workItem from="1578182189828" duration="7212000" />
+      <workItem from="1578192311588" duration="1375000" />
+      <workItem from="1578273494332" duration="25662000" />
+      <workItem from="1578307550544" duration="1910000" />
+      <workItem from="1578316850081" duration="2415000" />
+      <workItem from="1578358920543" duration="30890000" />
+      <workItem from="1578402626094" duration="3348000" />
+      <workItem from="1578444956500" duration="8633000" />
+      <workItem from="1578461358626" duration="8219000" />
+      <workItem from="1578490583655" duration="2273000" />
+      <workItem from="1578532244542" duration="28161000" />
+      <workItem from="1578572854449" duration="2461000" />
+      <workItem from="1578577377102" duration="477000" />
+      <workItem from="1578618527783" duration="9254000" />
+      <workItem from="1578631922039" duration="17981000" />
+      <workItem from="1578665740469" duration="188000" />
+      <workItem from="1578703131633" duration="78000" />
+      <workItem from="1578703457173" duration="3177000" />
+      <workItem from="1578709052702" duration="242000" />
+      <workItem from="1578689371930" duration="5707000" />
+      <workItem from="1578731428508" duration="1247000" />
+      <workItem from="1578738271692" duration="1785000" />
+      <workItem from="1578815933482" duration="12902000" />
+      <workItem from="1578831766229" duration="493000" />
+      <workItem from="1578836341304" duration="56000" />
+      <workItem from="1578877350711" duration="6681000" />
+      <workItem from="1578892060503" duration="3420000" />
+      <workItem from="1578908554348" duration="536000" />
+      <workItem from="1578921778270" duration="1803000" />
+      <workItem from="1578963464548" duration="7774000" />
+      <workItem from="1578978432726" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -353,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578098855221</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="20.01.04) Studying log of installation of ubuntu and connection of ssh">
+      <created>1578112558626</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578112558626</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,20 +483,24 @@
     <MESSAGE value="Fix wrong part of maze" />
     <MESSAGE value="20.01.02) Studying log" />
     <MESSAGE value="20.01.04) Studying log of Feminism philosophy" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.04) Studying log of Feminism philosophy" />
+    <MESSAGE value="20.01.04) Studying log of installation of ubuntu and connection of ssh" />
+    <MESSAGE value="20.01.07) Studying log of code review of LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.07) Studying log of code review of LinkedList" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="0" width="814" height="720" key="#Intentions/0.0.1280.720@0.0.1280.720" timestamp="1576586210854" />
-    <state x="233" y="18" key="#Notifications" timestamp="1576682725150">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="233" y="0" key="#Notifications" timestamp="1578183742342">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1578183742342" />
     <state x="233" y="18" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1576682725150" />
-    <state x="233" y="19" key="#Plugins" timestamp="1578038196008">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="233" y="0" key="#Plugins" timestamp="1578184534043">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1578184534043" />
     <state x="233" y="19" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1578038196008" />
     <state x="565" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578094714706">
       <screen x="0" y="0" width="1280" height="680" />
@@ -410,13 +511,15 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="277" y="53" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576585685128" />
-    <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1577438776624">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="766" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1578986602803">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="766" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1578986602803" />
     <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577438776624" />
-    <state x="692" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577942396564">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578640077613">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1578640077613" />
     <state x="692" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1577942396564" />
     <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576825933434">
       <screen x="0" y="0" width="1280" height="720" />
@@ -426,22 +529,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1576944042046" />
-    <state x="747" y="233" width="460" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577942397525">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="747" y="233" width="460" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1577942397525" />
-    <state x="747" y="261" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1577962092206">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="747" y="261" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.720@0.0.1280.720" timestamp="1577962092206" />
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577071093641">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1577071093641" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1578098852064">
+    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578640078633">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578098852064" />
+    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1578640078633" />
+    <state x="747" y="233" width="460" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1577942397525" />
+    <state x="747" y="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578449374720">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="747" y="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1578449374720" />
+    <state x="747" y="261" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.720@0.0.1280.720" timestamp="1577962092206" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578827397681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1578827397681" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1577071093641" />
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1578828153576">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578828153576" />
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1578368039777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578368039777" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577955370160" />
     <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
@@ -451,89 +561,118 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="235" y="53" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1577192776157" />
-    <state x="421" y="111" key="FileChooserDialogImpl" timestamp="1578094779322">
+    <state x="421" y="111" key="FileChooserDialogImpl" timestamp="1578884374214">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578094779322" />
+    <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578884374214" />
     <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578028070748" />
-    <state width="595" height="185" key="GridCell.Tab.0.bottom" timestamp="1578028072032">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="595" height="185" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="595" height="185" key="GridCell.Tab.0.center" timestamp="1578028072032">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.0.center" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="595" height="185" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="595" height="185" key="GridCell.Tab.0.left" timestamp="1578028072032">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.0.left" timestamp="1578831531031">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578831531031" />
     <state width="595" height="185" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="595" height="185" key="GridCell.Tab.0.right" timestamp="1578028072032">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.0.right" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="595" height="185" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="594" height="197" key="GridCell.Tab.1.bottom" timestamp="1577106181228">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1578831531033">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578831531033" />
     <state width="594" height="197" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="594" height="197" key="GridCell.Tab.1.center" timestamp="1577106181228">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.1.center" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="594" height="197" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="594" height="197" key="GridCell.Tab.1.left" timestamp="1577106181228">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.1.left" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="594" height="197" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="594" height="197" key="GridCell.Tab.1.right" timestamp="1577106181228">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1237" height="224" key="GridCell.Tab.1.right" timestamp="1578831531032">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1237" height="224" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578831531032" />
     <state width="594" height="197" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
     <state x="302" y="0" key="NewModule_or_Project.wizard" timestamp="1577427857234">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="302" y="0" key="NewModule_or_Project.wizard/0.0.1280.720@0.0.1280.720" timestamp="1577427857234" />
-    <state x="242" y="0" key="SettingsEditor" timestamp="1577522258025">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1578385321597">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578385321597" />
     <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577522258025" />
-    <state width="523" height="422" key="SwitcherDM" timestamp="1578110770639">
+    <state width="523" height="422" key="SwitcherDM" timestamp="1578987673160">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1578110770639" />
+    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1578987673160" />
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1578020732800" />
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1578098859994">
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1578112561890">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578098859994" />
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578112561890" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577411108027" />
-    <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578021593472">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="351" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578385526867">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="351" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1578385526867" />
+    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578473515726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1578473515726" />
     <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578021593472" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578987014395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1578987014395" />
     <state x="320" y="80" width="774" height="630" key="find.popup" timestamp="1577581042746">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="320" y="80" width="774" height="630" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577581042746" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1578019099981">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state width="600" height="440" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1578019099981" />
-    <state x="37" y="0" key="new project wizard" timestamp="1577517054856">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="37" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1577517054856" />
-    <state x="603" y="94" width="700" height="530" key="recent.locations.popup" timestamp="1577592269191">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="603" y="94" width="700" height="530" key="recent.locations.popup/0.0.1280.720@0.0.1280.720" timestamp="1577592269191" />
-    <state x="297" y="161" key="run.anything.popup" timestamp="1577524960761">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1578103980506">
+    <state width="600" height="416" key="javadoc.popup" timestamp="1578830096147">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578103980506" />
+    <state width="600" height="416" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1578830096147" />
+    <state width="600" height="440" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1578019099981" />
+    <state x="37" y="0" key="new project wizard" timestamp="1578448884681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1578448884681" />
+    <state x="37" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1577517054856" />
+    <state x="603" y="89" width="700" height="501" key="recent.locations.popup" timestamp="1578384489555">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="603" y="89" width="700" height="501" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1578384489555" />
+    <state x="603" y="94" width="700" height="530" key="recent.locations.popup/0.0.1280.720@0.0.1280.720" timestamp="1577592269191" />
+    <state x="297" y="152" key="run.anything.popup" timestamp="1578830891101">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="152" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1578830891101" />
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1578986963744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1578986963744" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578038392591" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="oldData" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
