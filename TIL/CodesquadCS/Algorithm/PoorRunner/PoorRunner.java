@@ -1,4 +1,4 @@
-package CodesquadCS.Algorithm;
+package CodesquadCS.Algorithm.PoorRunner;
 
 import java.util.Arrays;
 import java.util.HashMap;

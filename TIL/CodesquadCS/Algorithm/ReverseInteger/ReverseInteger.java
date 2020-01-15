@@ -1,4 +1,4 @@
-package CodesquadCS.Algorithm;
+package CodesquadCS.Algorithm.ReverseInteger;
 
 public class ReverseInteger {
     public int reverse(int number) {

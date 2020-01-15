@@ -1,4 +1,4 @@
-package CodesquadCS.Algorithm;
+package CodesquadCS.Algorithm.ReverseInteger;
 
 import org.junit.jupiter.api.Test;
 

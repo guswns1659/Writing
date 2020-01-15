@@ -1,4 +1,4 @@
-package CodesquadCS.Algorithm;
+package CodesquadCS.Algorithm.NumberOfKth;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

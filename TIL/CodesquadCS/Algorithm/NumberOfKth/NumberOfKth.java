@@ -1,4 +1,4 @@
-package CodesquadCS.Algorithm;
+package CodesquadCS.Algorithm.NumberOfKth;
 
 import java.util.Arrays;
 

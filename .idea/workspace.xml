@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-15-C.S기초 - Sorting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/QuickSort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-09-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/2020-01-15-Java - 유용한 메서드(update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/CpuTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2019-01-02-C.S기초 - Orientation.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-02-C.S기초 - Orientation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/index/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Writing/index/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Writing/index/index.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +44,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,11 +102,11 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CodesquadCS.Algorithm.ReverseInteger" />
+      <recent name="CodesquadCS.Algorithm" />
+      <recent name="CodesquadCS.Algorithm.PoorRunner" />
+      <recent name="CodesquadCS.Algorithm.NumberOfKth" />
       <recent name="CodesquadCS.FunctionalProgramming" />
-      <recent name="CodesquadCS.DataStructure" />
-      <recent name="CodesquadCS.RadixNotationConverter" />
-      <recent name="CodesquadCS" />
-      <recent name="TPC1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\손현준\Documents\Writing\도서\책 리뷰\2019년" />
@@ -117,19 +125,42 @@
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberOfKthTest.solution">
-    <configuration name="NumberOfKthTest.commandIndexModify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.QuickSort2">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.QuickSort.QuickSort" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.QuickSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
-      <option name="METHOD_NAME" value="commandIndexModify" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.QuickSort.QuickSort2" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodesquadCS.Algorithm.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="index.index" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="index.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,29 +169,13 @@
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.NumberOfKth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm.NumberOfKth" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKth.NumberOfKthTest" />
       <option name="METHOD_NAME" value="getNumberOfKth" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfKthTest.sliceArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
-      <option name="METHOD_NAME" value="sliceArr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,29 +185,13 @@
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.NumberOfKth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm.NumberOfKth" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKth.NumberOfKthTest" />
       <option name="METHOD_NAME" value="solution" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfKthTest.sortArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
-      <option name="METHOD_NAME" value="sortArr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort2" />
+        <item itemvalue="Application.index" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="JUnit.NumberOfKthTest.solution" />
         <item itemvalue="JUnit.NumberOfKthTest.getNumberOfKth" />
-        <item itemvalue="JUnit.NumberOfKthTest.sortArr" />
-        <item itemvalue="JUnit.NumberOfKthTest.sliceArr" />
-        <item itemvalue="JUnit.NumberOfKthTest.commandIndexModify" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +334,7 @@
       <workItem from="1578978432726" duration="11236000" />
       <workItem from="1579003236820" duration="3770000" />
       <workItem from="1579011371812" duration="499000" />
-      <workItem from="1579050910147" duration="10840000" />
+      <workItem from="1579050910147" duration="16994000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -470,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579059373466</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="20.01.15) Algorithm Number of Kth">
+      <created>1579068345209</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579068345209</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +514,8 @@
     <MESSAGE value="20.01.14) Implemnet layout of CPU" />
     <MESSAGE value="20.01.14) Implemnet layout of CPU2" />
     <MESSAGE value="20.01.15) Implemnet CPU" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.15) Implemnet CPU" />
+    <MESSAGE value="20.01.15) Algorithm Number of Kth" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.15) Algorithm Number of Kth" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
@@ -539,10 +546,10 @@
     </state>
     <state x="766" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579055350697" />
     <state x="766" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577438776624" />
-    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578640077613">
+    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579073435880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1578640077613" />
+    <state x="692" y="131" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1579073435880" />
     <state x="692" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1577942396564" />
     <state x="483" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576825933434">
       <screen x="0" y="0" width="1280" height="720" />
@@ -552,10 +559,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="641" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720@0.0.1280.720" timestamp="1576944042046" />
-    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578640078633">
+    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579073437839">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1578640078633" />
+    <state x="747" y="220" width="478" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579073437839" />
     <state x="747" y="233" width="460" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1577942397525" />
     <state x="747" y="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578449374720">
       <screen x="0" y="0" width="1280" height="680" />
@@ -571,10 +578,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578828153576" />
-    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1579068327480">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1579068342378">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579068327480" />
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579068342378" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577955370160" />
     <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
@@ -593,25 +600,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="471" y="237" width="363" height="207" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1579068277555" />
-    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1579068327550">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1579076981315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579076981315" />
     <state width="595" height="185" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1579068327550">
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1579076981315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579076981315" />
     <state width="595" height="185" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1579068327550">
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1579076981315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579076981315" />
     <state width="595" height="185" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1579068327550">
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1579076981315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579076981315" />
     <state width="595" height="185" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
     <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1579063536989">
       <screen x="0" y="0" width="1280" height="680" />
@@ -647,10 +654,10 @@
     </state>
     <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579064755817" />
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1578020732800" />
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1579059381307">
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1579068349941">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579059381307" />
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579068349941" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577411108027" />
     <state x="351" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578385526867">
       <screen x="0" y="0" width="1280" height="680" />
@@ -670,10 +677,10 @@
     </state>
     <state x="320" y="72" width="774" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1578994485971" />
     <state x="320" y="80" width="774" height="630" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1577581042746" />
-    <state width="600" height="416" key="javadoc.popup" timestamp="1579058147594">
+    <state width="600" height="416" key="javadoc.popup" timestamp="1579076952202">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="600" height="416" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1579058147594" />
+    <state width="600" height="416" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1579076952202" />
     <state width="600" height="440" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1578019099981" />
     <state x="37" y="0" key="new project wizard" timestamp="1578448884681">
       <screen x="0" y="0" width="1280" height="680" />
@@ -690,10 +697,10 @@
     </state>
     <state x="297" y="152" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1578830891101" />
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1579068144184">
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1579076642031">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579068144184" />
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579076642031" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578038392591" />
   </component>
   <component name="XDebuggerManager">
