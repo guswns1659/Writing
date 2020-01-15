@@ -3,13 +3,11 @@ package CodesquadCS.CPU;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class InstructionFactoryTest {
     static String[] binaryArr;
     static String expected;
     static Cpu cpu;
-    static InstructionFactory instructionFactory;
+    static Execute instructionFactory;
 
     @BeforeEach
     void beforeEach() {
@@ -23,8 +21,7 @@ class InstructionFactoryTest {
     @Test
     void InstructionFactory() {
         String hexNum = "0x1283";
-        instructionFactory = new InstructionFactory(hexNum);
-        System.out.println(instructionFactory.getTempResult());
+        instructionFactory = new Execute(hexNum);
         System.out.println(instructionFactory.getInstruction());
     }
 }

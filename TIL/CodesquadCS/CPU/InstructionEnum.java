@@ -1,6 +1,6 @@
 package CodesquadCS.CPU;
 
-enum Instruction{
+enum InstructionEnum {
     LOAD, STORE, AND, OR, ADD, SUB, MOV
 }
 
