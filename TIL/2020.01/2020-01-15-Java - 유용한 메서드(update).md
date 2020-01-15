@@ -96,3 +96,6 @@ public class test {
 
 ## String[]을 int[]로 한번에 바꾸는 메서드
 - Arrays.stream(splitCoordinates).mapToInt(Integer::parseInt).toArray();
+
+## 기본 배열을 자르는 코드 
+- int[] slicedArr = Arrays.copyOfRange(array, startIndex, endIndex + 1); 

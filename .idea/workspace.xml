@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d529d983-7981-4ede-b9f5-f31e01ce5924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - ParserReview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Execute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/CpuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/CpuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Instruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-09-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/2020-01-15-Java - 유용한 메서드(update).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/CpuTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionFactoryTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +36,8 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -87,9 +85,9 @@
       <recent name="index" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="CodesquadCS.Algorithm" />
       <recent name="CodesquadCS.CPU" />
       <recent name="CodesquadCS.OOP" />
-      <recent name="CodesquadCS.Algorithm" />
       <recent name="CodesquadCS.HashMap" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -119,82 +117,82 @@
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Cpu2Test.cpu2Test">
-    <configuration name="Cpu2Test.checkMemoryInit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NumberOfKthTest.solution">
+    <configuration name="NumberOfKthTest.commandIndexModify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.CPU.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.CPU" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.Cpu2Test" />
-      <option name="METHOD_NAME" value="checkMemoryInit" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="METHOD_NAME" value="commandIndexModify" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cpu2Test.checkRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfKthTest.getNumberOfKth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.CPU.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.CPU" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.Cpu2Test" />
-      <option name="METHOD_NAME" value="checkRegister" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="METHOD_NAME" value="getNumberOfKth" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cpu2Test.cpu2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfKthTest.sliceArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.CPU.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.CPU" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.Cpu2Test" />
-      <option name="METHOD_NAME" value="cpu2Test" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="METHOD_NAME" value="sliceArr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cpu2Test.hex2bin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfKthTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.CPU.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.CPU" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.Cpu2Test" />
-      <option name="METHOD_NAME" value="hex2bin" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstructionFactoryTest.InstructionFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfKthTest.sortArr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodesquadCS.CPU.*" />
+          <option name="PATTERN" value="CodesquadCS.Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CodesquadCS.CPU" />
-      <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.InstructionFactoryTest" />
-      <option name="METHOD_NAME" value="InstructionFactory" />
+      <option name="PACKAGE_NAME" value="CodesquadCS.Algorithm" />
+      <option name="MAIN_CLASS_NAME" value="CodesquadCS.Algorithm.NumberOfKthTest" />
+      <option name="METHOD_NAME" value="sortArr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Cpu2Test.cpu2Test" />
-        <item itemvalue="JUnit.Cpu2Test.hex2bin" />
-        <item itemvalue="JUnit.InstructionFactoryTest.InstructionFactory" />
-        <item itemvalue="JUnit.Cpu2Test.checkMemoryInit" />
-        <item itemvalue="JUnit.Cpu2Test.checkRegister" />
+        <item itemvalue="JUnit.NumberOfKthTest.solution" />
+        <item itemvalue="JUnit.NumberOfKthTest.getNumberOfKth" />
+        <item itemvalue="JUnit.NumberOfKthTest.sortArr" />
+        <item itemvalue="JUnit.NumberOfKthTest.sliceArr" />
+        <item itemvalue="JUnit.NumberOfKthTest.commandIndexModify" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +335,7 @@
       <workItem from="1578978432726" duration="11236000" />
       <workItem from="1579003236820" duration="3770000" />
       <workItem from="1579011371812" duration="499000" />
-      <workItem from="1579050910147" duration="6463000" />
+      <workItem from="1579050910147" duration="10840000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1576586720265</created>
@@ -465,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578995930935</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20.01.15) Implemnet CPU">
+      <created>1579059373466</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579059373466</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +507,8 @@
     <MESSAGE value="20.01.07) Studying log of code review of LinkedList" />
     <MESSAGE value="20.01.14) Implemnet layout of CPU" />
     <MESSAGE value="20.01.14) Implemnet layout of CPU2" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.14) Implemnet layout of CPU2" />
+    <MESSAGE value="20.01.15) Implemnet CPU" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.15) Implemnet CPU" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" width="814" height="720" key="#Intentions" timestamp="1576586210854">
@@ -565,10 +571,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578828153576" />
-    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1578995928737">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1579068327480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578995928737" />
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579068327480" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1577955370160" />
     <state x="516" y="64" key="DetectedRootsChooserDialog" timestamp="1577022339967">
       <screen x="0" y="0" width="1280" height="720" />
@@ -583,45 +589,49 @@
     </state>
     <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578884374214" />
     <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578028070748" />
-    <state width="1237" height="224" key="GridCell.Tab.0.bottom" timestamp="1579058836852">
+    <state x="471" y="237" width="363" height="207" key="Github.CreateGistDialog" timestamp="1579068277555">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579058836852" />
+    <state x="471" y="237" width="363" height="207" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1579068277555" />
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1579068327550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
     <state width="595" height="185" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="224" key="GridCell.Tab.0.center" timestamp="1579058836852">
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1579068327550">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579058836852" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
     <state width="595" height="185" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="224" key="GridCell.Tab.0.left" timestamp="1579058836852">
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1579068327550">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579058836852" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
     <state width="595" height="185" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="224" key="GridCell.Tab.0.right" timestamp="1579058836852">
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1579068327550">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579058836852" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579068327550" />
     <state width="595" height="185" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1578028072032" />
-    <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1579058839144">
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1579063536989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579058839144" />
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579063536989" />
     <state width="594" height="197" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="1237" height="224" key="GridCell.Tab.1.center" timestamp="1579058839144">
+    <state width="1237" height="224" key="GridCell.Tab.1.center" timestamp="1579063536988">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579058839144" />
+    <state width="1237" height="224" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579063536988" />
     <state width="594" height="197" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="1237" height="224" key="GridCell.Tab.1.left" timestamp="1579058839144">
+    <state width="1237" height="224" key="GridCell.Tab.1.left" timestamp="1579063536988">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579058839144" />
+    <state width="1237" height="224" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579063536988" />
     <state width="594" height="197" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
-    <state width="1237" height="224" key="GridCell.Tab.1.right" timestamp="1579058839144">
+    <state width="1237" height="224" key="GridCell.Tab.1.right" timestamp="1579063536989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="224" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579058839144" />
+    <state width="1237" height="224" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579063536989" />
     <state width="594" height="197" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1577106181228" />
     <state x="302" y="0" key="NewModule_or_Project.wizard" timestamp="1577427857234">
       <screen x="0" y="0" width="1280" height="720" />
@@ -632,29 +642,29 @@
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578385321597" />
     <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1577522258025" />
-    <state width="523" height="422" key="SwitcherDM" timestamp="1579006861012">
+    <state width="523" height="422" key="SwitcherDM" timestamp="1579064755817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579006861012" />
+    <state width="523" height="422" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579064755817" />
     <state width="523" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1578020732800" />
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1578995951891">
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2" timestamp="1579059381307">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578995951891" />
+    <state x="233" y="91" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579059381307" />
     <state x="233" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1577411108027" />
     <state x="351" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578385526867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="351" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1578385526867" />
-    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578473515726">
+    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579065783795">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1578473515726" />
+    <state x="763" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579065783795" />
     <state x="763" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578021593472" />
-    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579057322422">
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579065791417">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1579057322422" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1579065791417" />
     <state x="320" y="72" width="774" height="608" key="find.popup" timestamp="1578994485971">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -680,22 +690,13 @@
     </state>
     <state x="297" y="152" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1578830891101" />
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1577524960761" />
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1579057179808">
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup" timestamp="1579068144184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579057179808" />
+    <state x="303" y="39" width="672" height="641" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579068144184" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578038392591" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu2Test.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="oldData" />
