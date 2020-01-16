@@ -1,20 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="test commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리/2020년/2020-01-15-책 정리 - 객체 지향의 사실과 오해.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리/2020년/2020-01-15-책 정리 - 객체 지향의 사실과 오해.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WThzukgys7gXhkq13zdVDhHmfB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01/Java" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
+      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
+      <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
+      <recent name="C:\Users\손현준\Documents\Writing7\도서\책 리뷰\2020년" />
+      <recent name="C:\Users\손현준\Documents\Writing7\도서\책 정리" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="" />
+      <created>1579179757100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579179757100</updated>
+      <workItem from="1579179759117" duration="559000" />
+      <workItem from="1579181378274" duration="909000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1579179811008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579179811008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579081107491">
+    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579181556363">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579081107491" />
+    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579181556363" />
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579181634598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579181634598" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1579181408081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579181408081" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1579179816666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579179816666" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579181903392">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579181903392" />
   </component>
 </project>
