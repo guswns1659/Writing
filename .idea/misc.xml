@@ -84,5 +84,5 @@
       <cssUriHistory />
     </CssSettings>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK" />
 </project>
