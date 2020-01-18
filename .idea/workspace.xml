@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-11-Linux - 원도우 멀티부팅.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +180,7 @@
       <workItem from="1579350441343" duration="311000" />
       <workItem from="1579350781049" duration="94000" />
       <workItem from="1579353277722" duration="2538000" />
-      <workItem from="1579382637424" duration="2343000" />
+      <workItem from="1579382637424" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579355193934</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20.01.19) Organize order of installation of ubuntu in windows OS">
+      <created>1579385073354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579385073354</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +261,8 @@
     <MESSAGE value="20.01.18) Implement of development environmnet in ubuntu" />
     <MESSAGE value="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화" />
     <MESSAGE value="20.01.18) Updates of 자주 하는 실수 in Java and ubuntu 사용법 in Linux" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.18) Updates of 자주 하는 실수 in Java and ubuntu 사용법 in Linux" />
+    <MESSAGE value="20.01.19) Organize order of installation of ubuntu in windows OS" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.19) Organize order of installation of ubuntu in windows OS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -276,11 +282,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579355193754">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579385073125">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579355193754" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579385073125" />
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog" timestamp="1579312307852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -319,11 +325,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579355198159">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579385079225">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579347431756" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579355198159" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579385079225" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -340,10 +346,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579383009855">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579385710687">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579308739651" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579383009855" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579385710687" />
   </component>
 </project>
