@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - GitReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - GitReview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/MainTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01/Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -139,7 +139,7 @@
       <updated>1579179757100</updated>
       <workItem from="1579179759117" duration="559000" />
       <workItem from="1579181378274" duration="909000" />
-      <workItem from="1579224243313" duration="6834000" />
+      <workItem from="1579224243313" duration="8022000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579232179277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20.01.17) Organiztion of Git Review of hounx">
+      <created>1579235180129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579235180129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +171,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="20.01.17) Studying log of Git Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.17) Studying log of Git Review" />
+    <MESSAGE value="20.01.17) Organiztion of Git Review of hounx" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.17) Organiztion of Git Review of hounx" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Project_Structure" timestamp="1579224355507">
@@ -175,33 +183,37 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579181556363" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579232176582">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579235178286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579232176582" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1579181408081">
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579235178286" />
+    <state x="407" y="123" key="FileChooserDialogImpl" timestamp="1579235613876">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579181408081" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1579224424684">
+    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579235613876" />
+    <state x="302" y="38" key="NewModule_or_Project.wizard" timestamp="1579236168851">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579224424684" />
-    <state width="516" height="446" key="SwitcherDM" timestamp="1579230536980">
+    <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579236168851" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1579235907050">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579230536980" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1579232183414">
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579235907050" />
+    <state width="516" height="446" key="SwitcherDM" timestamp="1579235282573">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579232183414" />
+    <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1579235185791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579235185791" />
     <state x="37" y="0" key="new project wizard" timestamp="1579224314566">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579224314566" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579231248384">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579306895554">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579231248384" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579306895554" />
   </component>
 </project>
