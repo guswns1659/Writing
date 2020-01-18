@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-18-Java - 자주 하는 실수.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-18-Linux - ubuntu 사용법.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리/2020년/2020-01-15-책 정리 - 객체 지향의 사실과 오해.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리/2020년/2020-01-18-책 정리 - 객체 지향의 사실과 오해.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-16-Java - 자주 하는 실수.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -180,7 +182,7 @@
       <workItem from="1579347153509" duration="233000" />
       <workItem from="1579350441343" duration="311000" />
       <workItem from="1579350781049" duration="94000" />
-      <workItem from="1579353277722" duration="584000" />
+      <workItem from="1579353277722" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -224,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579350857728</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화">
+      <created>1579353917985</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579353917985</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +247,8 @@
     <MESSAGE value="20.01.18) Checking of whether git is working" />
     <MESSAGE value="20.01.18) Studying of Feminism lecture 1-3" />
     <MESSAGE value="20.01.18) Implement of development environmnet in ubuntu" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.18) Implement of development environmnet in ubuntu" />
+    <MESSAGE value="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -258,11 +268,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579350857390">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579353917724">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579350857390" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579353917724" />
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog" timestamp="1579312307852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -292,20 +302,20 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579350749583">
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579354823032">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579350749583" />
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579354823032" />
     <state width="516" height="446" key="SwitcherDM" timestamp="1579235282573">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579350862456">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579353923567">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579347431756" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579350862456" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579353923567" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -318,9 +328,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579224314566" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579308739651">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="1170" y="360" key="save.file.as.template.dialog" timestamp="1579354585804">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579354914614">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579308739651" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579354914614" />
   </component>
 </project>
