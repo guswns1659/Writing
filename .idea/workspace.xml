@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-11-철학 - Feminism 1-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-11-철학 - Feminism 1-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-18-철학 - Feminism 1-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-18-철학 - Feminism 1-3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +141,7 @@
       <workItem from="1579179759117" duration="559000" />
       <workItem from="1579181378274" duration="909000" />
       <workItem from="1579224243313" duration="8022000" />
+      <workItem from="1579306817483" duration="4409000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579235180129</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20.01.18) Checking of whether git is working">
+      <created>1579306940959</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579306940959</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +181,8 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="20.01.17) Studying log of Git Review" />
     <MESSAGE value="20.01.17) Organiztion of Git Review of hounx" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.17) Organiztion of Git Review of hounx" />
+    <MESSAGE value="20.01.18) Checking of whether git is working" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.18) Checking of whether git is working" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Project_Structure" timestamp="1579224355507">
@@ -183,10 +193,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579181556363" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579235178286">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1579306936915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579235178286" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579306936915" />
     <state x="407" y="123" key="FileChooserDialogImpl" timestamp="1579235613876">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -203,17 +213,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1579235185791">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1579306946136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579235185791" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579306946136" />
     <state x="37" y="0" key="new project wizard" timestamp="1579224314566">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579224314566" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579306895554">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579308739651">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579306895554" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579308739651" />
   </component>
 </project>
