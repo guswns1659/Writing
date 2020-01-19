@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-19-철학 - Ubuntu.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPUReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPUReview.md" afterDir="false" />
     </list>
@@ -185,7 +184,7 @@
       <workItem from="1579382637424" duration="2458000" />
       <workItem from="1579385695195" duration="117000" />
       <workItem from="1579393337917" duration="81000" />
-      <workItem from="1579407016233" duration="4473000" />
+      <workItem from="1579407016233" duration="8905000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -264,7 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579410964393</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20.01.19) Thinking of Ubuntu">
+      <created>1579412752466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579412752466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20.01.19) Thinking of Ubuntu">
+      <created>1579412911627</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579412911627</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +295,8 @@
     <MESSAGE value="20.01.18) Updates of 자주 하는 실수 in Java and ubuntu 사용법 in Linux" />
     <MESSAGE value="20.01.19) Organize order of installation of ubuntu in windows OS" />
     <MESSAGE value="20.01.19) Studying of CPU" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.19) Studying of CPU" />
+    <MESSAGE value="20.01.19) Thinking of Ubuntu" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.19) Thinking of Ubuntu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -302,11 +316,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579412752325">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579412911424">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579412752325" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579412911424" />
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog" timestamp="1579312307852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -341,15 +355,16 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579412435838" />
-    <state width="516" height="446" key="SwitcherDM" timestamp="1579235282573">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="747" height="691" key="SwitcherDM" timestamp="1579412921905">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579412755956">
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579412921905" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579412914106">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579347431756" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579412755956" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579412914106" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
