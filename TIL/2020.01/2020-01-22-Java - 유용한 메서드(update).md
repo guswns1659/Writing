@@ -19,8 +19,8 @@
 ```java
 public class test{
     int[] arr = new int[7];
-            Arrays.fill(arr, 3);
-            for(int i=0; i < arr.length; i++) {
+            Arrays.fill(arr, 3)
+            for(int i=0; i < arr.length i++) {
                 System.out.println(arr[i]);
             }
     
@@ -98,4 +98,8 @@ public class test {
 - Arrays.stream(splitCoordinates).mapToInt(Integer::parseInt).toArray();
 
 ## 기본 배열을 자르는 코드 
-- int[] slicedArr = Arrays.copyOfRange(array, startIndex, endIndex + 1); 
+- int[] slicedArr = Arrays.copyOfRange(array, startIndex, endIndex + 1);
+
+## 비트연산자 
+- 2<<2 : 2는 이진법으로 10이다. 10을 왼쪽으로 두번 민다. 00을 2번 더한다. 
+ 
