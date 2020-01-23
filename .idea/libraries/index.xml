@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="index">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/Writing/index/gson-2.8.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/out/production/Writing/index/json-20180813.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TIL/index/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TIL/index/json-20180813.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

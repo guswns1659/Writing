@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="20.01.24) Create 2020-01-24-장기목표를 달성하는 법.md">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/index1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CodingTest/2020-01-24-코딩테스트 준비.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Feedback" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01/Philosophy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,15 +64,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
       <recent name="$PROJECT_DIR$/도서/책 정리/2020년" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
-      <recent name="C:\Users\손현준\Documents\Writing7\도서\책 리뷰\2020년" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.index">
@@ -182,7 +187,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="" />
+      <changelist id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="" />
       <created>1579179757100</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -218,6 +223,8 @@
       <workItem from="1579757650331" duration="19000" />
       <workItem from="1579787777681" duration="310000" />
       <workItem from="1579828963731" duration="6326000" />
+      <workItem from="1579806136152" duration="17000" />
+      <workItem from="1579806328579" duration="1456000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -412,7 +419,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -453,28 +462,28 @@
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579347220591" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1579350732579" />
-    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579181556363">
+    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579804844253">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579181556363" />
+    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579804844253" />
     <state x="561" y="171" width="854" height="763" key="#index" timestamp="1579350804951">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579835775742">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="258" y="0" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579807888199">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807888199" />
     <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579835775742" />
     <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog" timestamp="1579836133999">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
     <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579836133999" />
-    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl" timestamp="1579833452102">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="407" y="123" width="963" height="519" key="FileChooserDialogImpl" timestamp="1579804852123">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579347389800" />
+    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
     <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579833452102" />
     <state width="1797" height="273" key="GridCell.Tab.0.bottom" timestamp="1579350874345">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -529,10 +538,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579831138723">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579807873805">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579308739651" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807873805" />
     <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579831138723" />
   </component>
 </project>
