@@ -9,19 +9,21 @@ import java.util.stream.Stream;
 
 public class LambdaMain {
     public static void main(String[] args) {
-        // map()
-        Stream<File> fileStream
-                = Stream.of(new File("Ex1.java"), new File("Ex1"), new File("Ex1.txt"), new File("Ex2.java"));
-        Stream<String> filenameStream = fileStream.map(File::getName);
-        filenameStream.forEach(System.out::println);
+        // flatMap() : Stream<String[]>을 Stream<String>으로 만들 때
+        Stream<String[]> stream
+                = Stream.of(new String[]{"a","b","c"},
+                new String[]{"d","e","f"});
+        Stream<String> strStream = stream.flatMap(Arrays::stream);
+        strStream.forEach(System.out::println);
 
-        Stream<File> fileStream2
-                = Stream.of(new File("Ex1.java"), new File("Ex1"), new File("Ex1.txt"), new File("Ex2.java"));
-        fileStream2.map(File::getName)
-                .filter(str -> str.indexOf(".") != -1)
-                .map(str -> str.substring(str.indexOf(".")+1))
-                .map(String::toUpperCase)
-                .distinct()
-                .forEach(System.out::println);
+        // 문장을 단어로 쪼개 Stream에 넣는 코드
+        String[] lineArr = {
+                "Belive or not It is true",
+                "Do or do not There is no try"
+        };
+        Stream<String> lineStream = Stream.of(lineArr);
+        Stream<String> strStream2 = lineStream
+                .flatMap(line -> Stream.of(line.split(" ")));
+        strStream2.forEach(System.out::println);
     }
 }

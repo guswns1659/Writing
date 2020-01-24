@@ -247,7 +247,7 @@
       <workItem from="1579806136152" duration="17000" />
       <workItem from="1579806328579" duration="1691000" />
       <workItem from="1579846205865" duration="40000" />
-      <workItem from="1579846276620" duration="8943000" />
+      <workItem from="1579846276620" duration="11469000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579850412987</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="20.01.24) Update Stream 생성, 중간연산 of 2020-01-24-Java - Lambda.md">
+      <created>1579855552860</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1579855552860</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +504,8 @@
     <MESSAGE value="20.01.24) Create 2020-01-24-철학 - Feminism 1-4.md" />
     <MESSAGE value="20.01.24) Create Code package" />
     <MESSAGE value="20.01.24) Create 2020-01-24-Java - Lambda.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.24) Create 2020-01-24-Java - Lambda.md" />
+    <MESSAGE value="20.01.24) Update Stream 생성, 중간연산 of 2020-01-24-Java - Lambda.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.24) Update Stream 생성, 중간연산 of 2020-01-24-Java - Lambda.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -522,37 +530,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579850412902">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579858337128">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579850412902" />
-    <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog" timestamp="1579836133999">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579858337128" />
+    <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
-    <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579836133999" />
+    <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1579851378251">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579851378251" />
-    <state width="1803" height="276" key="GridCell.Tab.0.bottom" timestamp="1579855184620">
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom" timestamp="1579858171245">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579855184620" />
-    <state width="1803" height="276" key="GridCell.Tab.0.center" timestamp="1579855184619">
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579858171245" />
+    <state width="1803" height="276" key="GridCell.Tab.0.center" timestamp="1579858171242">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579855184619" />
-    <state width="1803" height="276" key="GridCell.Tab.0.left" timestamp="1579855184619">
+    <state width="1803" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579858171242" />
+    <state width="1803" height="276" key="GridCell.Tab.0.left" timestamp="1579858171239">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579855184619" />
-    <state width="1803" height="276" key="GridCell.Tab.0.right" timestamp="1579855184620">
+    <state width="1803" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579858171239" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right" timestamp="1579858171244">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579855184619" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579858171244" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -568,11 +576,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579846675911" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579850414993">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579855555179">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579850414993" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579855555179" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
