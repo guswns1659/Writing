@@ -2,85 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/LambdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-24-Java - Lambda.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKthTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/QuickSort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseIntegerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Execute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Memory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/Entry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/VideoData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/VideoInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/ClassifierAlpha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/Factors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/PrimeAlpha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Git.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Init.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Local.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Output.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Prompt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/InputTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/InputUtilty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Inputer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Line.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Points.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/PointsChanger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/ShapeChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/Parser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/ParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/RadixNotationConverter/BinaryAdder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/RadixNotationConverter/RadixNotationConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC45.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC47.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC48.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/TPC2/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/gson-2.8.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/gson-2.8.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/index/json-20180813.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/json-20180813.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/Algorithm/CountingBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/Algorithm/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/RemoCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/LamdaMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +69,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TPC2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
       <recent name="$PROJECT_DIR$/도서/책 정리/2020년" />
@@ -151,11 +82,21 @@
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.index">
+  <component name="RunManager" selected="Application.LambdaMain">
+    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.LambdaMain" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodesquadCS.CPU.Main" />
       <module name="Writing" />
@@ -244,6 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaMain" />
         <item itemvalue="Application.index" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
@@ -306,7 +248,7 @@
       <workItem from="1579806136152" duration="17000" />
       <workItem from="1579806328579" duration="1691000" />
       <workItem from="1579846205865" duration="40000" />
-      <workItem from="1579846276620" duration="246000" />
+      <workItem from="1579846276620" duration="3866000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -497,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579807931237</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="20.01.24) Create Code package">
+      <created>1579846653875</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579846653875</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +489,8 @@
     <MESSAGE value="20.01.23) Create 2020-01-24-코딩테스트 준비.md" />
     <MESSAGE value="20.01.24) Create 2020-01-24-장기목표를 달성하는 법.md" />
     <MESSAGE value="20.01.24) Create 2020-01-24-철학 - Feminism 1-4.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.24) Create 2020-01-24-철학 - Feminism 1-4.md" />
+    <MESSAGE value="20.01.24) Create Code package" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.24) Create Code package" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -565,11 +515,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579846635190">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579846653628">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635190" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579846653628" />
     <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog" timestamp="1579836133999">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -580,42 +530,42 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579846482541" />
-    <state width="1803" height="276" key="GridCell.Tab.0.bottom" timestamp="1579846635670">
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom" timestamp="1579850164277">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
-    <state width="1803" height="276" key="GridCell.Tab.0.center" timestamp="1579846635670">
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579850164277" />
+    <state width="1803" height="276" key="GridCell.Tab.0.center" timestamp="1579850164277">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
-    <state width="1803" height="276" key="GridCell.Tab.0.left" timestamp="1579846635669">
+    <state width="1803" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579850164276" />
+    <state width="1803" height="276" key="GridCell.Tab.0.left" timestamp="1579850164276">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635669" />
-    <state width="1803" height="276" key="GridCell.Tab.0.right" timestamp="1579846635670">
+    <state width="1803" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579850164276" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right" timestamp="1579850164277">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579850164277" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579846497120">
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579849397334">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579846497120" />
-    <state width="516" height="446" key="SwitcherDM" timestamp="1579807956318">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579849397334" />
+    <state width="747" height="691" key="SwitcherDM" timestamp="1579846675911">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
-    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579830617390" />
-    <state x="233" y="74" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579807939834">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579846675911" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579846664875">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579833431831" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579846664875" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -624,11 +574,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="615" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579746894201">
+    <state x="710" y="427" width="615" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579847035320">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="615" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579746894201" />
+    <state x="710" y="427" width="615" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579847035320" />
     <state x="37" y="0" key="new project wizard" timestamp="1579224314566">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -637,10 +587,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579807963388">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579850330851">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579831138723" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579850330851" />
   </component>
 </project>
