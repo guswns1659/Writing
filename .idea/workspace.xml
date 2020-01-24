@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020.01/CodingTest/2020-01-24-코딩테스트 준비.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-01-24-장기목표를 달성하는 법.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-09-TDD(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-09-TDD(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-15-Java - Junit 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-15-Java - Junit 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/기타/2019-12-25-개발 공부 리스트업.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-01-24-장기목표를 달성하는 법.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-01-24-장기목표를 달성하는 법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +217,7 @@
       <workItem from="1579746893208" duration="623000" />
       <workItem from="1579757650331" duration="19000" />
       <workItem from="1579787777681" duration="310000" />
-      <workItem from="1579828963731" duration="1343000" />
+      <workItem from="1579828963731" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -384,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579788075207</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="20.01.23) Create 2020-01-24-코딩테스트 준비.md">
+      <created>1579830609345</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1579830609345</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +414,8 @@
     <MESSAGE value="20.01.22) Update of 2020-01-19-철학 - Ubuntu.md" />
     <MESSAGE value="20.01.23) Make 추천 책.md" />
     <MESSAGE value="20.01.23) Create 2020-01-23-책 정리 - Do it 알고리즘 입문.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.23) Create 2020-01-23-책 정리 - Do it 알고리즘 입문.md" />
+    <MESSAGE value="20.01.23) Create 2020-01-24-코딩테스트 준비.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.23) Create 2020-01-24-코딩테스트 준비.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -431,11 +435,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579788075049">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579830609027">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579788075049" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579830609027" />
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog" timestamp="1579312307852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -471,16 +475,16 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579829420483" />
-    <state width="747" height="691" key="SwitcherDM" timestamp="1579428198510">
+    <state width="747" height="691" key="SwitcherDM" timestamp="1579830617390">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
-    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579428198510" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579788077723">
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579830617390" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579830611696">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579347431756" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579788077723" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579830611696" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -498,10 +502,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579829423434">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579831138723">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579308739651" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579829423434" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579831138723" />
   </component>
 </project>
