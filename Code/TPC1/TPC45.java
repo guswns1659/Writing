@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class TPC45 {
     public static void main(java.lang.String[] args) {
         // 1. heap area에 만들어지는 String
-        String str1 = new java.lang.String("hello");
-        String str2 = new java.lang.String("hello");
+        String str1 = "hello";
+        String str2 = "hello";
 
         if (str1.equals(str2)) {
             System.out.println("YES");

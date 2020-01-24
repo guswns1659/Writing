@@ -2,8 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-24-철학 - Feminism 1-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/NumberOfKth/NumberOfKthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/PoorRunner/PoorRunnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/QuickSort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Algorithm/ReverseInteger/ReverseIntegerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Cpu2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Execute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/InstructionEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/Memory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/CPU/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/HashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/HashMap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/VideoData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/DataStructure/LinkedList/VideoInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/ClassifierAlpha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/Factors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/FunctionalProgramming/PrimeAlpha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Git.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Init.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Local.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Prompt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Git/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/InputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/InputUtilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Inputer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Points.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/PointsChanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/ShapeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/OOP/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/Parser/ParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/RadixNotationConverter/BinaryAdder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/CodesquadCS/RadixNotationConverter/RadixNotationConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC45.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC47.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC48.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC1/TPC50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC2/Project01_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/Project01_D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/TPC2/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC2/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/gson-2.8.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/gson-2.8.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/index/json-20180813.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Code/index/json-20180813.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/Algorithm/CountingBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/Algorithm/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/RemoCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/poly/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/kr/tpc/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Writing.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +100,13 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +130,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/2020.01/Philosophy" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Code" />
+    <property name="last_opened_file_path" value="$USER_HOME$/다운로드/json-20190722.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
@@ -99,7 +184,7 @@
     </configuration>
     <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="index.index" />
-      <module name="Writing77" />
+      <module name="Writing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="index.*" />
@@ -220,6 +305,8 @@
       <workItem from="1579828963731" duration="6326000" />
       <workItem from="1579806136152" duration="17000" />
       <workItem from="1579806328579" duration="1691000" />
+      <workItem from="1579846205865" duration="40000" />
+      <workItem from="1579846276620" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -465,55 +552,60 @@
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579347220591" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1579350732579" />
-    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579804844253">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579804844253" />
-    <state x="561" y="171" width="854" height="763" key="#index" timestamp="1579350804951">
+    <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579846392737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="258" y="0" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579807927368">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579804844253" />
+    <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846392737" />
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579846366327">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846366327" />
+    <state x="561" y="171" width="941" height="763" key="#index" timestamp="1579846407427">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579846635190">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579835775742" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635190" />
     <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog" timestamp="1579836133999">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
     <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579836133999" />
-    <state x="407" y="123" width="963" height="519" key="FileChooserDialogImpl" timestamp="1579804852123">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1579846482541">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
-    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579833452102" />
-    <state width="1797" height="273" key="GridCell.Tab.0.bottom" timestamp="1579350874345">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579846482541" />
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom" timestamp="1579846635670">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1797" height="273" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579350874345" />
-    <state width="1797" height="273" key="GridCell.Tab.0.center" timestamp="1579350874344">
+    <state width="1803" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
+    <state width="1803" height="276" key="GridCell.Tab.0.center" timestamp="1579846635670">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1797" height="273" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579350874344" />
-    <state width="1797" height="273" key="GridCell.Tab.0.left" timestamp="1579350874343">
+    <state width="1803" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
+    <state width="1803" height="276" key="GridCell.Tab.0.left" timestamp="1579846635669">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1797" height="273" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579350874343" />
-    <state width="1797" height="273" key="GridCell.Tab.0.right" timestamp="1579350874344">
+    <state width="1803" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635669" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right" timestamp="1579846635670">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1797" height="273" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579350874344" />
+    <state width="1803" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579846635670" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579829420483">
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor" timestamp="1579846497120">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579829420483" />
+    <state x="242" y="27" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579846497120" />
     <state width="516" height="446" key="SwitcherDM" timestamp="1579807956318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -524,6 +616,10 @@
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
     <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579833431831" />
+    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846373675" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

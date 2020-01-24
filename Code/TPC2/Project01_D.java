@@ -7,6 +7,7 @@ import org.json.JSONTokener;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.*;
+import java.nio.charset.StandardCharsets;
 
 public class Project01_D {
     public static void main(String[] args) {
@@ -21,7 +22,7 @@ public class Project01_D {
         try {
             System.out.print("주소를 입력하세요.");
             String address = io.readLine();
-            String addr = URLEncoder.encode(address, "UTF-8");
+            String addr = URLEncoder.encode(address, StandardCharsets.UTF_8);
             String reqUrl = apiURL + addr;
         // 3.  정확한 URL인지 검사 및 주소 값을 가지고 연결 URL 만들기
             URL url = new URL(reqUrl); // URL이 정확하지 않으면 에러 발생
@@ -33,7 +34,7 @@ public class Project01_D {
             BufferedReader br; // 서버와 Stream(통로)가 만들어짐.
             int responseCode = con.getResponseCode();
             if (responseCode == 200) {
-                br = new BufferedReader(new InputStreamReader(con.getInputStream(), "UTF-8"));
+                br = new BufferedReader(new InputStreamReader(con.getInputStream(), StandardCharsets.UTF_8));
             } else {
                 br = new BufferedReader(new InputStreamReader(con.getErrorStream()));
             }
