@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="">
+    <list default="true" id="084d2a5a-8638-4e36-9184-4deaf4e91978" name="Default Changelist" comment="20.01.24) Create 2020-01-24-장기목표를 달성하는 법.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-01-24-장기목표를 달성하는 법.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-01-24-장기목표를 달성하는 법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CodingTest/2020-01-24-코딩테스트 준비.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/도서/책 정리/2020년" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Feedback" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -217,7 +217,7 @@
       <workItem from="1579746893208" duration="623000" />
       <workItem from="1579757650331" duration="19000" />
       <workItem from="1579787777681" duration="310000" />
-      <workItem from="1579828963731" duration="3944000" />
+      <workItem from="1579828963731" duration="6326000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -394,11 +394,29 @@
       <option name="project" value="LOCAL" />
       <updated>1579833221250</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="20.01.24) Create 2020-01-24-장기목표를 달성하는 법.md">
+      <created>1579833429806</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1579833429806</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -443,20 +461,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="854" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579350804951" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579833221074">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579835775742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579347423887" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579833221074" />
-    <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog" timestamp="1579312307852">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579835775742" />
+    <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog" timestamp="1579836133999">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
-    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl" timestamp="1579830337316">
+    <state x="735" y="100" width="442" height="487" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579836133999" />
+    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl" timestamp="1579833452102">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579347389800" />
-    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579830337316" />
+    <state x="656" y="217" width="963" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579833452102" />
     <state width="1797" height="273" key="GridCell.Tab.0.bottom" timestamp="1579350874345">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -488,11 +507,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579235282573" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579830617390" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579833224334">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579833431831">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579347431756" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579833224334" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579833431831" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
