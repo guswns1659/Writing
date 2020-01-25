@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/EnumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Enum.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-10-C.S기초 - 함수형프로그래밍.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-25-C.S기초 - 함수형프로그래밍.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -249,7 +252,7 @@
       <workItem from="1579846276620" duration="11609000" />
       <workItem from="1579867793717" duration="200000" />
       <workItem from="1579928429499" duration="5926000" />
-      <workItem from="1579934621551" duration="967000" />
+      <workItem from="1579934621551" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -482,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579934398269</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="20.01.25) Update 2020-01-25-C.S기초 - 함수형프로그래밍.md">
+      <created>1579936515582</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1579936515582</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +513,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.18) Checking of whether git is working" />
     <MESSAGE value="20.01.18) Studying of Feminism lecture 1-3" />
     <MESSAGE value="20.01.18) Implement of development environmnet in ubuntu" />
     <MESSAGE value="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화" />
@@ -528,7 +537,8 @@
     <MESSAGE value="20.01.24) Update of 2020-01-24-Java - Lambda.md" />
     <MESSAGE value="20.01.24) Update of 2020-01-24-책 리뷰 - 객체 지향의 사실과 오해.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-Java - Lambda &amp; Stream.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.25) Update 2020-01-25-Java - Lambda &amp; Stream.md" />
+    <MESSAGE value="20.01.25) Update 2020-01-25-C.S기초 - 함수형프로그래밍.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.25) Update 2020-01-25-C.S기초 - 함수형프로그래밍.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -553,11 +563,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579934397960">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579936515330">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579934397960" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579936515330" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -599,11 +609,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579846675911" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579934403348">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579936518185">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579934403348" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579936518185" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
