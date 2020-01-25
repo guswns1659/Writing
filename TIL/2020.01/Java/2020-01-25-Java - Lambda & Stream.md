@@ -107,7 +107,7 @@ public class LambdaMain {
 ```
 
 - map()
-스트림의 요소 에 저장된 값 중에서 원하는 필드만 뽑아내거나 특정 형태로 변환해야 할 때 사용한다. 연산을 통해 스트림의 타입을 바꾸는 경우 바꾸는 타입을 지정해줘야 한다.<br>
+스트림의 요소 에 저장된 값 중에서 원하는 필드만 뽑아내거나 **특정 형태로 변환해야 할 때** 사용한다. 연산을 통해 스트림의 타입을 바꾸는 경우 바꾸는 타입을 지정해줘야 한다.<br>
 filter()는 람다식 조건에 맞는 애들만 남기지만 map()은 실제로 연산을 해서 Stream 내 데이터를 변경하기도 한다.
 
 ```java
@@ -155,4 +155,119 @@ public class LambdaMain {
         strStream2.forEach(System.out::println);
     }
 }
+```
+
+#### Optional<T>와 OptionalInt
+Optional<T>는 지네릭 클래스로 "T타입의 객체"를 감싸는 래퍼 클래스이다. 그래서 Optional타입의 객체에는 모든 타입의 참조변수를 담을 수 있다.
+최종 연산의 결과를 그냥 반환하는 것이 아니라 Optional객체에 담아서 반환하는 것이다. 이처럼 객체에 담아서 반환을 하면, 반환된 결과가 null인지 매번 if문으로 체크하는 대신 Optional에 정의된 메서드를 통해서 간단히 처리할 수 있다.
+
+```java
+public class LambdaMain {
+    public static void main(String[] args) {
+        Optional<String> optStr = Optional.of("abcde");
+        Optional<Integer> optInt = optStr.map(String::length);
+
+        System.out.println(optStr.get());
+        System.out.println(optInt.get());
+
+        int result = Optional.of("123")
+                .filter(num -> num.length() > 0)
+                .map(Integer::parseInt)
+                .get();
+
+        // orElse(-1) : 결과값이 null이라면 -1를 반환한다.
+        int result2 = Optional.of("")
+                .filter(num -> num.length() > 0)
+                .map(Integer::parseInt)
+                .orElse(-1);
+
+        System.out.println(result);
+        System.out.println(result2);
+    }
+}
+
+```
+
+
+
+#### 스트림의 최종 연산
+
+- allMatch(), anyMatch(), noneMatch(), findFirst(), findAny()
+Stream에 있는 요소에 대해 지정하는 조건에 모든 요소가 일치하는지 아닌지 확인하는 메서드다. 연산 결과로 boolean을 반환한다.
+
+```java
+public class LambdaMain {
+    public static void main(String[] args) {
+        String[] strArr = {
+                "Inheritance", "Java", "Lambda", "stream",
+                "OptionalDouble", "IntStream", "count", "sum"
+        };
+        Stream.of(strArr).forEach(System.out::println);
+
+        boolean noEmptyStr = Stream.of(strArr).noneMatch(s -> s.length() == 0);
+
+        Optional<String> sWord = Stream.of(strArr).filter(s -> s.charAt(0) == 's').findFirst();
+
+        System.out.println(noEmptyStr);
+        System.out.println(sWord.get());
+    }
+}
+
+```
+
+- reduce()
+이름대로 Stream 내 요소를 연산하며 줄여 나간다. 결국 하나의 연산만 남긴다.
+
+```java
+public class LambdaMain {
+    public static void main(String[] args) {
+        String[] strArr = {
+                "Inheritance", "Java", "Lambda", "stream",
+                "OptionalDouble", "IntStream", "count", "sum"
+        };
+
+        IntStream intStream1 = Stream.of(strArr).mapToInt(String::length);
+        IntStream intStream2 = Stream.of(strArr).mapToInt(String::length);
+        IntStream intStream3 = Stream.of(strArr).mapToInt(String::length);
+        IntStream intStream4 = Stream.of(strArr).mapToInt(String::length);
+
+        int count = intStream1.reduce(0, (a, b)-> a + 1);
+        int sum = intStream2.reduce(0, (a,b) -> a+b);
+
+        OptionalInt max = intStream3.reduce(Integer::max);
+        OptionalInt min = intStream4.reduce(Integer::min);
+
+        System.out.println(count);
+        System.out.println(sum);
+        System.out.println(max.getAsInt());
+        System.out.println(min.getAsInt());
+    }
+}
+
+```
+
+#### collect()
+스트림의의 요소를 수집하는 최종 연산으로 reducing과 유사하다.collect()가 스트림의 요소를 수집하려면 어떻게 수집할 것인가에 대한 방법이 정의되어 있어야 하는데, 이 방법을 정의한 것이 바로 collector이다.
+
+- 스트림을 컬렉션과 배열로 변환 : toList(), toSet(), toMap(), toCollection(), toArray()
+
+```java
+public class LambdaMain {
+    public static void main(String[] args) {
+        String[] names = {
+                "jun", "jack", "poogle", "jason",
+                "hidee", "crong", "honux", "JK"
+        };
+
+        Stream<String> namesStream = Stream.of(names);
+
+        ArrayList<String> arrayListNames = 
+                namesStream.collect(Collectors.toCollection(ArrayList::new));
+        arrayListNames.add("jun");
+        for (String name : arrayListNames) {
+            System.out.println(name);
+        }
+    }
+}
+
 ```
