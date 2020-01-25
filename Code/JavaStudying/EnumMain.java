@@ -1,32 +1,28 @@
 package JavaStudying;
 
-enum Fruit {
-    APPLE("red"), PEACH("pink"), BANANA("yellow");
+enum Transportation {
+    BUS(100) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
+        TRAIN(150) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
+        SHIP(100) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
+        AIRPLANE(300) { int calculateFare(int distance) {return distance * BASIC_FARE;}};
 
-    private final String color;
+    protected final int BASIC_FARE;
 
-    Fruit(String color) {
-        System.out.println("call constructor "+this);
-        this.color = color;
+    Transportation(int basicFare) {
+        this.BASIC_FARE = basicFare;
     }
-    public String getColor() {
-        return color;
+
+    abstract int calculateFare(int distance);
+
+    public int getBASIC_FARE() {
+        return BASIC_FARE;
     }
 }
 
 public class EnumMain {
     public static void main(String[] args) {
-        Fruit type = Fruit.APPLE;
-        switch (type) {
-            case APPLE:
-                System.out.println(57+"kcal, color : "+Fruit.APPLE.getColor());
-                break;
-            case PEACH:
-                System.out.println(34+"kcal, color : "+Fruit.PEACH.getColor());
-                break;
-            case BANANA:
-                System.out.println(93+"kcal, color : "+Fruit.BANANA.getColor());
-                break;
+        for (Transportation transportation : Transportation.values()){
+            System.out.println(transportation.calculateFare(100)+"원");
         }
     }
 }
