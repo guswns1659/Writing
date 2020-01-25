@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.01.25) Create 2020-01-25-Enum.md">
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-01-25-1억명이 사용한다 상상하라.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Direction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/JavaStudying/EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/EnumMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Enum.md" afterDir="false" />
     </list>
@@ -267,7 +265,8 @@
       <workItem from="1579846276620" duration="11609000" />
       <workItem from="1579867793717" duration="200000" />
       <workItem from="1579928429499" duration="5926000" />
-      <workItem from="1579934621551" duration="5654000" />
+      <workItem from="1579934621551" duration="5897000" />
+      <workItem from="1579951339772" duration="2183000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -514,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579937125331</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md">
+      <created>1579941711267</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1579941711267</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +541,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.18) Implement of development environmnet in ubuntu" />
     <MESSAGE value="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화" />
     <MESSAGE value="20.01.18) Updates of 자주 하는 실수 in Java and ubuntu 사용법 in Linux" />
     <MESSAGE value="20.01.19) Organize order of installation of ubuntu in windows OS" />
@@ -560,7 +565,8 @@
     <MESSAGE value="20.01.25) Update 2020-01-25-Java - Lambda &amp; Stream.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-C.S기초 - 함수형프로그래밍.md" />
     <MESSAGE value="20.01.25) Create 2020-01-25-Enum.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.25) Create 2020-01-25-Enum.md" />
+    <MESSAGE value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -589,11 +595,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579941688315">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1579941711130">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579941688315" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579941711130" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -604,22 +610,22 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579858472938" />
-    <state width="1803" height="275" key="GridCell.Tab.0.bottom" timestamp="1579940619750">
+    <state width="867" height="274" key="GridCell.Tab.0.bottom" timestamp="1579953266095">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579940619750" />
-    <state width="1803" height="275" key="GridCell.Tab.0.center" timestamp="1579940619748">
+    <state width="867" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579953266095" />
+    <state width="867" height="274" key="GridCell.Tab.0.center" timestamp="1579953266095">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579940619748" />
-    <state width="1803" height="275" key="GridCell.Tab.0.left" timestamp="1579940619748">
+    <state width="867" height="274" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579953266095" />
+    <state width="867" height="274" key="GridCell.Tab.0.left" timestamp="1579953266094">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579940619748" />
-    <state width="1803" height="275" key="GridCell.Tab.0.right" timestamp="1579940619749">
+    <state width="867" height="274" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579953266094" />
+    <state width="867" height="274" key="GridCell.Tab.0.right" timestamp="1579953266095">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579940619749" />
+    <state width="867" height="274" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579953266095" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -630,16 +636,16 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="875" y="77" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579853179606" />
-    <state width="747" height="691" key="SwitcherDM" timestamp="1579938205700">
+    <state width="747" height="691" key="SwitcherDM" timestamp="1579953064265">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
-    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579938205700" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579937128465">
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1579953064265" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1579941712923">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579937128465" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579941712923" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -653,6 +659,10 @@
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
     <state x="710" y="427" width="615" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579847035320" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579952997305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579952997305" />
     <state x="37" y="0" key="new project wizard" timestamp="1579224314566">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -661,10 +671,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579941078183">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1579951576740">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579941078183" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579951576740" />
   </component>
 </project>
