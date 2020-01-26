@@ -4,13 +4,7 @@ import java.util.*;
 
 public class OOPMain {
     public static void main(String[] args) {
-        List<MenuItem> items= new ArrayList<>();
-        items.add(new MenuItem("americano", 1000));
-        items.add(new MenuItem("cafelatte", 2000));
-        items.add(new MenuItem("cappucino", 3000));
-        items.add(new MenuItem("espresso", 4000));
-
-        Menu menu = new Menu(items);
+        Menu menu = new Menu();
 
         Barista barista = new Barista();
 
@@ -48,8 +42,12 @@ class MenuItem {
 class Menu {
     private List<MenuItem> items;
 
-    public Menu(List<MenuItem> items) {
-        this.items = items;
+    public Menu() {
+        items= new ArrayList<>();
+        items.add(new MenuItem("americano", 1000));
+        items.add(new MenuItem("cafelatte", 2000));
+        items.add(new MenuItem("cappuccino", 3000));
+        items.add(new MenuItem("espresso", 4000));
     }
 
     public MenuItem choose(String menuName) {
