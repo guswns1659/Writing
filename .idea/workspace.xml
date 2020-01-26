@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/도서/책 정리/2020-01-26-책 정리 순서.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/CSstudying/OOPMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/CSstudying/OOPMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리/2020년/2020-01-22-책 정리 - 객체 지향의 사실과 오해.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리/2020년/객체지향의 사실과 오해/2020-01-22-책 정리 - 객체 지향의 사실과 오해.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/추천 책.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/2020-01-24-추천 책.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +70,6 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TPC2" />
     </key>
@@ -80,6 +79,10 @@
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/도서/책 정리/2020년/객체지향의 사실과 오해" />
+      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.OOPMain">
@@ -266,7 +269,7 @@
       <workItem from="1579928429499" duration="5926000" />
       <workItem from="1579934621551" duration="5897000" />
       <workItem from="1579951339772" duration="4869000" />
-      <workItem from="1580007367426" duration="2557000" />
+      <workItem from="1580007367426" duration="4975000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -541,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580009304861</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'">
+      <created>1580009939106</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1580009939107</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +572,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.19) Organize order of installation of ubuntu in windows OS" />
     <MESSAGE value="20.01.19) Thinking of Ubuntu" />
     <MESSAGE value="20.01.19) Studying of CPU" />
     <MESSAGE value="20.01.19) Studying of Linux lecture of 양주종" />
@@ -587,7 +596,8 @@
     <MESSAGE value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.26) Create OOPMain.java for studying of '객체지향의 사실과 오해'" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.26) Create OOPMain.java for studying of '객체지향의 사실과 오해'" />
+    <MESSAGE value="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -616,11 +626,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580009304720">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580009938958">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580009304720" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580009938958" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -631,22 +641,22 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580008660539" />
-    <state width="1803" height="274" key="GridCell.Tab.0.bottom" timestamp="1580009685769">
+    <state width="1803" height="274" key="GridCell.Tab.0.bottom" timestamp="1580011002552">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580009685769" />
-    <state width="1803" height="274" key="GridCell.Tab.0.center" timestamp="1580009685768">
+    <state width="1803" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580011002552" />
+    <state width="1803" height="274" key="GridCell.Tab.0.center" timestamp="1580011002548">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="274" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580009685768" />
-    <state width="1803" height="274" key="GridCell.Tab.0.left" timestamp="1580009685768">
+    <state width="1803" height="274" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580011002548" />
+    <state width="1803" height="274" key="GridCell.Tab.0.left" timestamp="1580011002544">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="274" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580009685768" />
-    <state width="1803" height="274" key="GridCell.Tab.0.right" timestamp="1580009685769">
+    <state width="1803" height="274" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580011002544" />
+    <state width="1803" height="274" key="GridCell.Tab.0.right" timestamp="1580011002550">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="274" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580009685769" />
+    <state width="1803" height="274" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580011002550" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -662,11 +672,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580008633805" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580009308788">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580009944980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580009308788" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580009944980" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -692,10 +702,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580008651381">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580010031957">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580008651381" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580010031957" />
   </component>
 </project>
