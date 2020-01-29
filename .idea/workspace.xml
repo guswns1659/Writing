@@ -278,7 +278,7 @@
       <workItem from="1580193168501" duration="1421000" />
       <workItem from="1580215976609" duration="658000" />
       <workItem from="1580223151656" duration="27000" />
-      <workItem from="1580265579264" duration="2845000" />
+      <workItem from="1580265579264" duration="3574000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1579179811008</created>
@@ -602,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580268715994</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="20.01.29) Update Ch.2 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
+      <created>1580272767439</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1580272767439</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +630,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.22) Update of 2020-01-22-Java - 유용한 메서드(update).md" />
     <MESSAGE value="20.01.22) Update of 2020-01-19-철학 - Ubuntu.md" />
     <MESSAGE value="20.01.23) Make 추천 책.md" />
     <MESSAGE value="20.01.23) Create 2020-01-23-책 정리 - Do it 알고리즘 입문.md" />
@@ -648,7 +654,8 @@
     <MESSAGE value="20.01.28) Create Lambda1.java" />
     <MESSAGE value="20.01.28) Update recent files" />
     <MESSAGE value="20.01.29) Update 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.29) Update 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
+    <MESSAGE value="20.01.29) Update Ch.2 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.29) Update Ch.2 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -677,11 +684,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580268715853">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580272767252">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580268715853" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580272767252" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -723,11 +730,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580008633805" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580268718764">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580272770053">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580268718763" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580272770053" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
