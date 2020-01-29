@@ -1,4 +1,4 @@
-package JavaStudying;
+package JavaStudying.Lambda;
 
 interface Printable {
     void print(String s);

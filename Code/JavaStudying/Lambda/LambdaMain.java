@@ -1,4 +1,4 @@
-package JavaStudying;
+package JavaStudying.Lambda;
 
 import java.io.File;
 import java.util.*;

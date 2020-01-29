@@ -1,4 +1,4 @@
-package JavaStudying;
+package JavaStudying.Enum;
 
 enum Transportation {
     BUS(100) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
