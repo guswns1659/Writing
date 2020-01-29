@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/ObjectOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/SBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/SimpleWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/StringWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/TextReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-29-Java - Input&amp;Output.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-29-Java - Input&amp;Output.md" afterDir="false" />
     </list>
@@ -289,28 +284,7 @@
       <workItem from="1580193168501" duration="1421000" />
       <workItem from="1580215976609" duration="658000" />
       <workItem from="1580223151656" duration="27000" />
-      <workItem from="1580265579264" duration="14635000" />
-    </task>
-    <task id="LOCAL-00005" summary="20.01.18) Studying of Feminism lecture 1-3">
-      <created>1579311751657</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1579311751657</updated>
-    </task>
-    <task id="LOCAL-00006" summary="20.01.18) Implement of development environmnet in ubuntu">
-      <created>1579350857728</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1579350857728</updated>
-    </task>
-    <task id="LOCAL-00007" summary="20.01.18) Highlights of 객체 지향의 사실과 오해 3장, 타입과 추상화">
-      <created>1579353917985</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1579353917985</updated>
+      <workItem from="1580265579264" duration="14924000" />
     </task>
     <task id="LOCAL-00008" summary="20.01.18) Updates of 자주 하는 실수 in Java and ubuntu 사용법 in Linux">
       <created>1579355193934</created>
@@ -634,7 +608,28 @@
       <option name="project" value="LOCAL" />
       <updated>1580286235198</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="20.01.29) Update 2020-01-29-Java - Input&amp;Output.md">
+      <created>1580290024788</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1580290024788</updated>
+    </task>
+    <task id="LOCAL-00055" summary="20.01.29) Update 2020-01-29-Linux - ubuntu 사용법.md">
+      <created>1580290098830</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1580290098830</updated>
+    </task>
+    <task id="LOCAL-00056" summary="20.01.29) Update 2020-01-25-Java - Enum.md">
+      <created>1580290135736</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1580290135736</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,9 +650,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.24) Create 2020-01-24-철학 - Feminism 1-4.md" />
-    <MESSAGE value="20.01.24) Create Code package" />
-    <MESSAGE value="20.01.24) Create 2020-01-24-Java - Lambda.md" />
     <MESSAGE value="20.01.24) Update Stream 생성, 중간연산 of 2020-01-24-Java - Lambda.md" />
     <MESSAGE value="20.01.24) Update of 2020-01-24-Java - Lambda.md" />
     <MESSAGE value="20.01.24) Update of 2020-01-24-책 리뷰 - 객체 지향의 사실과 오해.md" />
@@ -680,7 +672,10 @@
     <MESSAGE value="20.01.29) Test of non-ASCII commit" />
     <MESSAGE value="20.01.29) Delete test.md" />
     <MESSAGE value="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md" />
+    <MESSAGE value="20.01.29) Update 2020-01-29-Java - Input&amp;Output.md" />
+    <MESSAGE value="20.01.29) Update 2020-01-29-Linux - ubuntu 사용법.md" />
+    <MESSAGE value="20.01.29) Update 2020-01-25-Java - Enum.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.29) Update 2020-01-25-Java - Enum.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -721,11 +716,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580290098664">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580290135496">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580290098664" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580290135496" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -767,11 +762,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580290100735">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580290138130">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580290100735" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580290138130" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
