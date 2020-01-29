@@ -163,3 +163,154 @@ public class BufferedDataOutputStream {
 ## 문자 스트림의 이해와 활용
 입출력 과정에서 '데이터의 변화 없이'바이트 단위로 데이터를 입력 및 출력하는 것이 입출력의 기본이다. 그러나 문자를 입출력할 때에는 약간의 데이터 수정이 필요하다. 자바에서는 이를 위해서 문자 스트림을 제공한다. 그런데 왜 문자를 처리할 때 따로 문자 스트림을 만들었을까?<br>
 이는 문자가 각 운영체제에서 저장되는 방식이 다르기 때문이다. 문자는 기본적으로 유니코드 형식으로 저장된다. 자바에서 작성한 문자를 출력해 메모장에 옮기려면 각 운영체제에 맞는 유니코드로 변경해서 보내야 한다. 하지만 이건 너무 번거로운 일이다. 그래서 자바가 대신 운영 체제에 맞게 변환해주는 것이다.
+
+```java
+public class SimpleWriter {
+    public static void main(String[] args) {
+        simpleWriter();
+        simpleReader();
+    }
+
+    private static void simpleReader() {
+        try(Reader in = new FileReader("data.md")) {
+            System.out.println(in.read());
+        }catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void simpleWriter() {
+        try(Writer out = new FileWriter("data.md")) {
+            out.write("abc");
+            out.write("def");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}
+```
+
+### FileReader & FileWriter
+문자 스트림의 가장 부모 클래스는 Reader, Writer이다. 직관적으로 잘 지었다. 이를 기본으로 각 객체의 역할에 따라 부모 클래스를 상속한다. 구현은 객체에게 자율로 맡겨진다. 이게 객체지향 프로그래밍의 핵심이다.
+
+```java
+public class TextReader {
+    public static void main(String[] args) {
+        textReader();
+    }
+
+    private static void textReader() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("읽을 파일 : ");
+        String source = scanner.nextLine();
+
+        try (BufferedReader in =
+                     new BufferedReader(new FileReader(source))) {
+            String ch;
+            while (true) {
+                ch = in.readLine();
+                if (ch == null) {
+                    break;
+                }
+                System.out.println(ch);
+            }
+        }catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}
+```
+
+### BufferedReader & BufferedWriter
+input & output 스트림에도 BufferedInputStream & BufferedOutputStream 있는 것처럼 문자 스트림에도 BufferedReader & BufferedWriter가 존재한다. 한번에 훨씬 많은 양을 읽고 쓸 수 있다.
+
+```java
+public class StringWriter {
+    public static void main(String[] args) {
+        stringWriter();
+        stringReader();
+    }
+    
+    private static void stringWriter() {
+        String string1 = "공부에 있어서 돈이 꼭 필요한 것은 아니다.";
+        String string2 = "Life is long if you know how to use it.";
+
+        try (BufferedWriter br =
+                     new BufferedWriter(new FileWriter("data.md"))){
+            br.write(string1, 0, string1.length());
+            br.newLine();
+            br.write(string2, 0, string1.length());
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    
+        private static void stringReader() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("읽을 파일 : ");
+        String source = scanner.nextLine();
+
+        try (BufferedReader br =
+                new BufferedReader(new FileReader(source))) {
+            String line;
+            while(true) {
+                line = br.readLine();
+                if (line == null) {
+                    break;
+                }
+                System.out.println(line);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+}
+```
+
+## IO 스트림 기반의 인스턴스 저장
+IO 스트림을 이용하면 객체의 인스턴스도 저장할 수 있다. 이렇게 객체를 저장하는 것을 객체 직렬화(Object Serialization)이라고 한다. 반대로 꺼내는 것을 역 객체 직렬화라고 한다. 이 과정은 ObjectInputStream & ObjectOutputStream을 통해 이루어진다. 이 둘은 필터 스트림으로 기본 스트림에 연결해서 사용한다. <br>
+입출력의 대상이 되는 인스턴스의 클래스는 java.io.Serializable을 구현해야 한다. 따로 오버라이딩할 메서드는 없다.
+
+```java
+public class ObjectOutput {
+    public static void main(String[] args) {
+        objectOutput();
+        objectInput();
+    }
+
+    private static void objectOutput() {
+        SBox sBox1 = new SBox("Robot");
+        SBox sBox2 = new SBox("Strawberry");
+
+        try (ObjectOutputStream oo =
+                new ObjectOutputStream(
+                        new FileOutputStream("object.bin"))) {
+            oo.writeObject(sBox1);
+            oo.writeObject(sBox2);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    private static void objectInput() {
+        try (ObjectInputStream oi =
+                new ObjectInputStream(new FileInputStream("object.bin"))) {
+
+            SBox sBox1 = (SBox) oi.readObject();
+            System.out.println(sBox1.getS());
+            SBox sBox2 = (SBox) oi.readObject();
+            System.out.println(sBox2.getS());
+
+
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+```
