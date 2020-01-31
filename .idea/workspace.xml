@@ -3,9 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-08-Linux - vim(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-08-Linux - vim(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-08-Linux - 양주종의 리눅스 공부 순서.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-31-Linux - 양주종 강의.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-19-Linux - 양주종강의.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-22-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/2020-01-22-Java - 유용한 메서드(update).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-02-C.S기초 - Radix Converter.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-02-C.S기초 - Radix Converter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-03-C.S기초 - RadixReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-05-C.S기초 - Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-05-C.S기초 - Linux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-06-C.S기초 - LinuxReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - HashMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - HashMap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - LinkedReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - LinkedList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-08-C.S기초 - 알고리즘(K번째수).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-08-C.S기초 - 알고리즘(PoorRunner, ReverseInteger).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CodingTest/2020-01-08-C.S기초 - 알고리즘(PoorRunner, ReverseInteger).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-09-C.S기초 - HashMapReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOPReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - ParserReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - Parser.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-15-C.S기초 - CPUReview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - GitReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - Git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPUReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPU.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-09-TDD(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - TDD &amp; Junit(ongoing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-15-Java - Junit 사용법.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-18-Java - 자주 하는 실수.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-18-Java - 자주 하는 실수.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Java - Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Enum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Java - Lambda &amp; Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Lambda &amp; Stream.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-29-Java - Input&amp;Output.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-29-Java - Input&amp;Output.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - Docker(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - Docker(ongoing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - File System(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - File System(ongoing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - 기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - 기초.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-08-Linux - vim(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-08-Linux - vim(ongoing).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-29-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-31-Linux - 양주종 강의.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-31-Linux - 양주종 강의.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-09-철학 - Feminism 1-1(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-09-철학 - Feminism 1-1(update).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-11-철학 - Feminism 1-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-11-철학 - Feminism 1-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-18-철학 - Feminism 1-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-18-철학 - Feminism 1-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-19-철학 - Ubuntu.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-19-철학 - Ubuntu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-24-철학 - Feminism 1-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +103,6 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/" />
-      <recent name="$PROJECT_DIR$/도서/책 정리/2020년/객체지향의 사실과 오해" />
-      <recent name="$PROJECT_DIR$/TIL/2020.01/Java" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JavaStudying.InputOuput" />
       <recent name="JavaStudying.Lambda" />
@@ -89,6 +117,13 @@
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TPC2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/2019.12" />
+      <recent name="$PROJECT_DIR$/TIL/2019.02" />
+      <recent name="$PROJECT_DIR$/TIL/2020.02" />
+      <recent name="$PROJECT_DIR$/TIL" />
+      <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ObjectOutput">
@@ -294,14 +329,7 @@
       <workItem from="1580431486735" duration="743000" />
       <workItem from="1580436683362" duration="1351000" />
       <workItem from="1580445691241" duration="1303000" />
-      <workItem from="1580461011150" duration="1046000" />
-    </task>
-    <task id="LOCAL-00016" summary="20.01.19) Studying of Linux lecture of 양주종">
-      <created>1579429388882</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1579429388882</updated>
+      <workItem from="1580461011150" duration="2946000" />
     </task>
     <task id="LOCAL-00017" summary="20.01.19) Organize Linux markdown file">
       <created>1579441169097</created>
@@ -639,7 +667,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580461184362</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md">
+      <created>1580462419815</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1580462419815</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,7 +695,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.25) Update 2020-01-25-C.S기초 - 함수형프로그래밍.md" />
     <MESSAGE value="20.01.25) Create 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-Enum.md" />
@@ -685,7 +719,8 @@
     <MESSAGE value="20.01.31) Update 2020-01-29-Java - Input&amp;Output.md" />
     <MESSAGE value="20.01.31) 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
+    <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -710,10 +745,10 @@
     </state>
     <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579804844253" />
     <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846392737" />
-    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579846366327">
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580463173154">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846366327" />
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580463173154" />
     <state x="663" y="408" width="660" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580282124882">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -726,11 +761,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580461184013">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580464347366">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580461184013" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580464347366" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -772,11 +807,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580461189961">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580462424433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580461189961" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580462424433" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

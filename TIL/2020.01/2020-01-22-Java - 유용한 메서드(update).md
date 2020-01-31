@@ -18,15 +18,15 @@
 
 ```java
 public class test{
-    int[] arr = new int[7];
-            Arrays.fill(arr, 3)
-            for(int i=0; i < arr.length i++) {
-                System.out.println(arr[i]);
-            }
-    
-    int[] days = {1,2,3,4,5,6,7,8,9,10,11,12};
+    public static void Main(String[] args) {
+        int[] arr = new int[7];
+        Arrays.fill(arr, 3)
+        for(int i=0; i < arr.length; i++) {
+            System.out.println(arr[i]);
+        }
+        int[] days = {1,2,3,4,5,6,7,8,9,10,11,12};        
+    }
 }
-
 ```
 ## String 메서드
 - subString(1) : 인덱스 1부터 끝까지 잘라서 반환.
