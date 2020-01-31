@@ -23,15 +23,6 @@ public class Write7ToFile3 {
         input();
     }
 
-    private static void input() {
-        try (InputStream in = new FileInputStream("data.dat")){
-            int dat = in.read();
-            System.out.println(dat);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     private static void output() {
         try(OutputStream out = new FileOutputStream("data.dat")) {
             out.write(7);
@@ -40,12 +31,21 @@ public class Write7ToFile3 {
             e.printStackTrace();
         }
     }
+    
+    private static void input() {
+        try (InputStream in = new FileInputStream("data.dat")){
+            int dat = in.read();
+            System.out.println(dat);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
 ```
 
 
 ## FileInputStream, FileOutputStream의 read()와 write()
-- read()는 파일로부터 읽어 들인 1바이트 유요한 데이터에 3바이트의 0을 채워서 4바이트 int형 데이터로 반환한다. 반면 스트림의 끝에 도달해서 더 이상 읽어 들일 데이터가 없는 경우 -1을 반환한다.
+- read()는 파일로부터 읽어 들인 1바이트 유효한 데이터에 3바이트의 0을 채워서 4바이트 int형 데이터로 반환한다. 반면 스트림의 끝에 도달해서 더 이상 읽어 들일 데이터가 없는 경우 -1을 반환한다.
 - write()는 인자로 전달되는 int형 데이터의 첫 번째 바이트만을 파일에 저장한다.
 
 ```java
@@ -238,7 +238,7 @@ public class StringWriter {
         String string1 = "공부에 있어서 돈이 꼭 필요한 것은 아니다.";
         String string2 = "Life is long if you know how to use it.";
 
-        try (BufferedWriter br =
+        try (BufferedWriter bw =
                      new BufferedWriter(new FileWriter("data.md"))){
             br.write(string1, 0, string1.length());
             br.newLine();
