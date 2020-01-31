@@ -14,7 +14,7 @@
 ## locate 활용해서 file 찾는 방법
 - sudo apt-get install locate
 - sudo updatedb
-- locate [fileName]
+- locate [fileName
 
 ## file 확장자 찾는 법
 - file [fileName]
