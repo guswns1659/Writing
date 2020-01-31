@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/철학/2020-02-01-철학 - Feminism 2-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/철학/2020-01-24-철학 - Feminism 1-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/철학/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/철학/2020-02-01-철학 - Feminism 2-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/철학/2020-02-01-철학 - Feminism 2-1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,6 +301,7 @@
       <workItem from="1580474380160" duration="177000" />
       <workItem from="1580480746561" duration="64000" />
       <workItem from="1580516807892" duration="344000" />
+      <workItem from="1580485739006" duration="818000" />
     </task>
     <task id="LOCAL-00019" summary="20.01.19) Highlights of 객체 지향의 사실과 오해 cp.5, 책임과 메세지">
       <created>1579656826979</created>
@@ -742,15 +742,15 @@
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
     <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580516988553" />
-    <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
+    <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580480807060">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="407" y="123" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580485629689">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
+    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580480807060" />
     <state width="1803" height="274" key="GridCell.Tab.0.bottom" timestamp="1580290543071">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -805,9 +805,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580473964801">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="347" y="64" width="750" height="608" key="find.popup" timestamp="1580489912332">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="347" y="64" width="750" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489912332" />
     <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580473964801" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1579952997305">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -821,10 +822,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580517002839">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580489852731">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
     <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580517002839" />
   </component>
 </project>
