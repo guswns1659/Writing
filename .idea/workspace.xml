@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.01.31) Update">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/철학/2020-02-01-철학 - Feminism 2-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-26-IntelliJ 단축키 및 사용법(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/2020-02-01-IntelliJ 단축키 및 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/철학/2020-01-24-철학 - Feminism 1-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/철학/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,13 +301,7 @@
       <workItem from="1580474165543" duration="171000" />
       <workItem from="1580474380160" duration="177000" />
       <workItem from="1580480746561" duration="64000" />
-    </task>
-    <task id="LOCAL-00018" summary="20.01.19) Highlights of 객체 지향의 사실과 오해 cp.4, 역할, 책임, 협력">
-      <created>1579482486078</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1579482486078</updated>
+      <workItem from="1580516807892" duration="344000" />
     </task>
     <task id="LOCAL-00019" summary="20.01.19) Highlights of 객체 지향의 사실과 오해 cp.5, 책임과 메세지">
       <created>1579656826979</created>
@@ -645,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580464474321</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="20.02.01) Move 철학 directory">
+      <created>1580516988899</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1580516988900</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +667,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.26) Create OOPMain.java for studying of '객체지향의 사실과 오해'" />
     <MESSAGE value="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'" />
@@ -691,7 +691,8 @@
     <MESSAGE value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
     <MESSAGE value="20.01.31) Update folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.31) Update folder" />
+    <MESSAGE value="20.02.01) Move 철학 directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Move 철학 directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -736,11 +737,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580474430078">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580516988553">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580474430078" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580516988553" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -782,11 +783,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580464476944">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580516991389">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580464476944" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580516991389" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -820,10 +821,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580474293921">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580517002839">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580474293921" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580517002839" />
   </component>
 </project>
