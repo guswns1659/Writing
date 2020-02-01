@@ -8,7 +8,7 @@
 - Click Additional Layout Options button
 - Expand Switching to another layout
 - Select Ctrl + Shift here
-
+[출처 : https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
 
 ## 마우스 오른쪽 클릭 안될 때 
 - 우분투의 기본 설정은 터치 패드에 두 손가락으로 클릭하면 된다. 
