@@ -22,6 +22,8 @@
 스트림을 생성하면 참조 변수가 생기는데, 모든 메서드가 같은 참조변수로 활용하기 때문이다.
 
 ### 생성
+배열은 Arrays.stream()으로 생성한다.
+컬렉션 인스턴스는 stream()이 컬렉션의 디폴트 메서드이기에 메서드로 사용하면 된다. ex) list.stream();
 
 #### 컬렉션(List, Set)
 
@@ -37,12 +39,19 @@ public class LambdaMain {
 ```
 
 #### 배열
-- 배열은 Stream으로 생성하려면 Arrays or Stream (IntStream, LongStream)을 이용
+- 배열은 Stream으로 생성하려면 Arrays.stream() 이용
+- IntStream.stream(int[] array, int startInclusive, int endExclusive)
 - IntStream의 range(), rangeClosed()는 연속된 정수를 Stream으로 만들 수 있다.
 
 ```java
 public class LambdaMain {
     public static void main(String[] args) {
+        
+        // 인덱스 지정해서 스트림 만들 수 있다. 
+        int[] intArr = {1, 2, 3, 4, 5};
+        Arrays.stream(intArr, 0, 3)
+                .forEach(System.out::println);
+    
         String[] strArr = {"a", "b", "c"};
         Stream<String> Stream1 = Stream.of(strArr);
         Stream<String> Stream2 = Stream.of("a", "b", "d"); // 가변인자
@@ -140,6 +149,8 @@ public class LambdaMain {
 }
 ```
 
+- mapToInt(), mapToLong(), mapToDouble()
+map()을 사용하면 들어오는 값과 나오는 값의 타입이 모두 제네릭이기 때문에 만약 int라면 integer로 boxing이 된다. 이를 피하기 위해선 mapToInt()를 사용하면 바로 int형(정확히는 IntStream)이 반환된다.
 - flatMap() : Stream<String[]>을 Stream<String>으로 만들 때
 
 ```java
@@ -224,7 +235,7 @@ public class LambdaMain {
 ```
 
 - reduce()
-이름대로 Stream 내 요소를 연산하며 줄여 나간다. 결국 하나의 연산만 남긴다.
+여러개의 데이터를 연산을 통해 1개의 값으로 줄인다. 대표적으로 sum()이 있다. reduce()는 데이터를 줄이는 연산을 내가 정할 수 있다. reduce()의 첫 번째 인자는 스트림의 0번째 인덱스로 들어가서 연산을 적용받는다. 스트림이 비었을 경우 첫 번째 인자가 반환되지만 값을 처리할 땐 주의해야 한다.
 
 ```java
 public class LambdaMain {
@@ -254,8 +265,29 @@ public class LambdaMain {
 
 ```
 
+#### 병렬스트림
+병렬처리는 하나의 일을 나눠서 처리하는 것을 의미한다. 항상 병렬처리가 빠른 것은 아니다. 병렬처리를 하기 위해 일을 나누고 병렬처리 후에 일을 취합하는 과정이 생각보다 복잡하다. 그런데 자바에서 이젠 병렬처리를 할 수 있는 병렬 스트림을 지원한다.
+
+```java
+class ReduceMain {
+    public String getMaxLengthString() {
+        List<String> strArr = Arrays.asList("Box","Simple","Complex","Robot");
+
+        BinaryOperator<String> lc = (s1, s2) -> {
+            if (s1.length() > s2.length()) return s1;
+            else return s2;
+        };
+
+        String result = strArr.parallelStream()
+                .reduce("", lc);
+        return result;
+    }
+}
+```
+
+
 #### collect()
-스트림의의 요소를 수집하는 최종 연산으로 reducing과 유사하다.collect()가 스트림의 요소를 수집하려면 어떻게 수집할 것인가에 대한 방법이 정의되어 있어야 하는데, 이 방법을 정의한 것이 바로 collector이다.
+스트림의 요소를 수집하는 최종 연산으로 reducing과 유사하다.collect()가 스트림의 요소를 수집하려면 어떻게 수집할 것인가에 대한 방법이 정의되어 있어야 하는데, 이 방법을 정의한 것이 바로 collector이다.
 
 - 스트림을 컬렉션과 배열로 변환 : toList(), toSet(), toMap(), toCollection(), toArray()
 
@@ -277,5 +309,4 @@ public class LambdaMain {
         }
     }
 }
-
 ```
