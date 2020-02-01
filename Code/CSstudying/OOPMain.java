@@ -1,60 +1,67 @@
 package CSstudying;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+
+/*
+커피 주문해라(커피 이름) -> 손님
+메뉴 항목 찾아라(커피 이름) -> 메뉴판 -> return 메뉴항목
+커피 제조해라(메뉴항목) -> 바리스타 -> return 커피
+커피 생성해라(메뉴항목) -> 커피 -> return 커피
+ */
 
 public class OOPMain {
     public static void main(String[] args) {
         Menu menu = new Menu();
-
         Barista barista = new Barista();
 
         Customer customer = new Customer();
-        customer.order("cafelatte", menu, barista);
+        System.out.println(customer.orderCoffee("americano", menu, barista));
     }
 }
 
 class Customer {
-    public void order(String menuName, Menu menu, Barista barista) {
-        MenuItem menuItem = menu.choose(menuName);
+    public Coffee orderCoffee(String menuName, Menu menu, Barista barista) {
+        MenuItem menuItem = menu.findMenuItem(menuName);
         Coffee coffee = barista.makeCoffee(menuItem);
-        System.out.println(coffee.toString());
+        return coffee;
     }
 }
 
 class MenuItem {
-    private String name;
+    private String menuName;
     private int price;
 
-    public MenuItem(String name, int price) {
-        this.name = name;
+    public MenuItem(String menuName, int price) {
+        this.menuName = menuName;
         this.price = price;
     }
 
     public String getName() {
-        return name;
+        return menuName;
     }
 
     public int getPrice() {
-        return price;
+        return this.price;
     }
 }
 
 class Menu {
-    private List<MenuItem> items;
+    private List<MenuItem> menuItems;
 
     public Menu() {
-        items= new ArrayList<>();
-        items.add(new MenuItem("americano", 1000));
-        items.add(new MenuItem("cafelatte", 2000));
-        items.add(new MenuItem("cappuccino", 3000));
-        items.add(new MenuItem("espresso", 4000));
+        this.menuItems = new ArrayList<>();
+        this.menuItems.add(new MenuItem("americano", 1000));
+        this.menuItems.add(new MenuItem("latte", 2000));
     }
 
-    public MenuItem choose(String menuName) {
-        for (MenuItem each : items) {
-            if(each.getName().equals(menuName)) {
-                return each;
-            }
+    public List<MenuItem> getMenuItems() {
+        return menuItems;
+    }
+
+    public MenuItem findMenuItem(String menuName) {
+        for (MenuItem each : menuItems) {
+            if (each.getName().equals(menuName)) return each;
         }
         return null;
     }

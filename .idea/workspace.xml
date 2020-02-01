@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/CSstudying/OOPMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/CSstudying/OOPMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/JavaStudying" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/도서/책 리뷰/2020년" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,13 +101,13 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamClassTest.getMaxLengthString">
-    <configuration name="StreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClass" />
+  <component name="RunManager" selected="Application.OOPMain">
+    <configuration name="OOPMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSstudying.OOPMain" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudying.*" />
+          <option name="PATTERN" value="CSstudying.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOPMain" />
         <item itemvalue="JUnit.StreamClassTest.getMaxLengthString" />
         <item itemvalue="JUnit.StreamClassTest.getToyPriceUnder500" />
         <item itemvalue="JUnit.StreamClassTest.splitedIntStream" />
         <item itemvalue="JUnit.StreamClassTest.StringStream" />
-        <item itemvalue="Application.StreamClass" />
       </list>
     </recent_temporary>
   </component>
@@ -325,14 +325,9 @@
       <workItem from="1580516807892" duration="344000" />
       <workItem from="1580485739006" duration="818000" />
       <workItem from="1580524807786" duration="10031000" />
-      <workItem from="1580538508465" duration="4559000" />
-    </task>
-    <task id="LOCAL-00024" summary="20.01.23) Create 2020-01-24-코딩테스트 준비.md">
-      <created>1579830609345</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1579830609345</updated>
+      <workItem from="1580538508465" duration="4600000" />
+      <workItem from="1580546050172" duration="37000" />
+      <workItem from="1580554519243" duration="1546000" />
     </task>
     <task id="LOCAL-00025" summary="20.01.24) Create 2020-01-24-장기목표를 달성하는 법.md">
       <created>1579833221250</created>
@@ -670,7 +665,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580542218381</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="20.02.01) Update StreamClassTest.java">
+      <created>1580545068951</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1580545068952</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,7 +693,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.28) Create Lambda1.java" />
     <MESSAGE value="20.01.28) Update recent files" />
     <MESSAGE value="20.01.29) Update Ch.2 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.29) Update Ch.3 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
@@ -716,7 +717,8 @@
     <MESSAGE value="20.02.01) Create 2020-02-01-Java - Stream.md" />
     <MESSAGE value="20.02.01) Update 2020-02-01-Java - Stream.md" />
     <MESSAGE value="20.02.01) Update StreamClass.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Update StreamClass.java" />
+    <MESSAGE value="20.02.01) Update StreamClassTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Update StreamClassTest.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -736,10 +738,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580290069596" />
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1580538019844">
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1580556064947">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580538019844" />
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580556064947" />
     <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579846392737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -761,37 +763,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580542218236">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580545068802">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580542218236" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580545068802" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580525666695">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580546085287">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580525666695" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580541962431">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580546085287" />
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580545083745">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580541962431" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580541962430">
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580545083745" />
+    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580545083741">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580541962430" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580541962430">
+    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580545083741" />
+    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580545083739">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580541962430" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580541962431">
+    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580545083739" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580545083743">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580541962431" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580545083743" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -807,11 +809,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580542221320">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580545073695">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580542221320" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580545073695" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -820,11 +822,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="625" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580007369743">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580554527868">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580007369743" />
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580554527868" />
     <state x="1190" y="243" width="522" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580535518480">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
