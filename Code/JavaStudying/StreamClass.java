@@ -2,11 +2,9 @@ package JavaStudying;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 import java.util.function.BinaryOperator;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class StreamClass {
     private static StreamClass streamClass;
@@ -64,7 +62,6 @@ class ToyMain {
 }
 
 class ReduceMain {
-
     public String getMaxLengthString() {
         List<String> strArr = Arrays.asList("Box","Simple","Complex","Robot");
 

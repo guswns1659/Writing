@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.01) Create 2020-02-01-Java - Stream.md">
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.01) Update 2020-02-01-Java - Stream.md">
+      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Stream.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,14 +326,7 @@
       <workItem from="1580516807892" duration="344000" />
       <workItem from="1580485739006" duration="818000" />
       <workItem from="1580524807786" duration="10031000" />
-      <workItem from="1580538508465" duration="3431000" />
-    </task>
-    <task id="LOCAL-00023" summary="20.01.23) Create 2020-01-23-책 정리 - Do it 알고리즘 입문.md">
-      <created>1579788075207</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1579788075207</updated>
+      <workItem from="1580538508465" duration="3674000" />
     </task>
     <task id="LOCAL-00024" summary="20.01.23) Create 2020-01-24-코딩테스트 준비.md">
       <created>1579830609345</created>
@@ -671,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580530621659</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="20.02.01) Update 2020-02-01-Java - Stream.md">
+      <created>1580542130502</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1580542130503</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,7 +692,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.26) Update 2020-01-27-책 리뷰 - 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.28) Create 2020-01-28-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.28) Create Lambda1.java" />
     <MESSAGE value="20.01.28) Update recent files" />
@@ -717,7 +716,8 @@
     <MESSAGE value="20.02.01) Update 2020-02-01-Linux - ubuntu 사용법.md" />
     <MESSAGE value="20.02.01) Create 2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" />
     <MESSAGE value="20.02.01) Create 2020-02-01-Java - Stream.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Create 2020-02-01-Java - Stream.md" />
+    <MESSAGE value="20.02.01) Update 2020-02-01-Java - Stream.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Update 2020-02-01-Java - Stream.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -762,11 +762,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580530700498">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580542178649">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580530700498" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580542178649" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -808,11 +808,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580530624198">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580542133378">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580530624198" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580542133378" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
