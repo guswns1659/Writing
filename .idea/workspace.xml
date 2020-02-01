@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-02-01-정말로 사랑한다면.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-01-책 정리 - 팀 개발을 위한 Git &amp; GitHub 시작하기.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,27 +69,27 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JavaStudying.InputOuput" />
+      <recent name="JavaStudying.Lambda" />
+      <recent name="JavaStudying.Enum" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/도서/책 리뷰/2020년" />
+      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
+      <recent name="$PROJECT_DIR$/도서/책 정리/2020년" />
+      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
+      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TPC2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TIL/2020.02" />
       <recent name="$PROJECT_DIR$/TIL/2019.12" />
       <recent name="$PROJECT_DIR$/TIL/2019.02" />
       <recent name="$PROJECT_DIR$/TIL" />
       <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="JavaStudying.InputOuput" />
-      <recent name="JavaStudying.Lambda" />
-      <recent name="JavaStudying.Enum" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="TPC2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
-      <recent name="$PROJECT_DIR$/도서/책 정리/2020년" />
-      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
-      <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
-      <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ObjectOutput">
@@ -302,14 +303,7 @@
       <workItem from="1580480746561" duration="64000" />
       <workItem from="1580516807892" duration="344000" />
       <workItem from="1580485739006" duration="818000" />
-      <workItem from="1580524807786" duration="1159000" />
-    </task>
-    <task id="LOCAL-00019" summary="20.01.19) Highlights of 객체 지향의 사실과 오해 cp.5, 책임과 메세지">
-      <created>1579656826979</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1579656826979</updated>
+      <workItem from="1580524807786" duration="1688000" />
     </task>
     <task id="LOCAL-00020" summary="20.01.22) Update of 2020-01-22-Java - 유용한 메서드(update).md">
       <created>1579677599512</created>
@@ -647,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580516988900</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="20.02.01) Create 2020-02-01-정말로 사랑한다면.md">
+      <created>1580526068494</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1580526068495</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +669,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.25) Update 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.26) Create OOPMain.java for studying of '객체지향의 사실과 오해'" />
     <MESSAGE value="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'" />
     <MESSAGE value="20.01.26) Update 2020-01-26-책 정리 - 객체 지향의 사실과 오해.md" />
@@ -693,7 +693,8 @@
     <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
     <MESSAGE value="20.01.31) Update folder" />
     <MESSAGE value="20.02.01) Move 철학 directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Move 철학 directory" />
+    <MESSAGE value="20.02.01) Create 2020-02-01-정말로 사랑한다면.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Create 2020-02-01-정말로 사랑한다면.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -738,11 +739,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580516988553">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580526068350">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580516988553" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526068350" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -784,11 +785,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580516991389">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580526070860">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580516991389" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526070860" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

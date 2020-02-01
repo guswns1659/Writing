@@ -2,6 +2,13 @@
 - language support에 들어가서 자동으로 필요한 파일을 다운 받는다. 
 - region & language에 들어가서 input sources에 korean(Hangul)을 추가한다. 
 - keyboard에 들어가서 switch to next input source에서 한/영 키로 변경한다.
+### tweak 사용
+- Then open GNOME Tweaks (gnome-tweaks).
+- Select Keyboard & Mouse tab
+- Click Additional Layout Options button
+- Expand Switching to another layout
+- Select Ctrl + Shift here
+
 
 ## 마우스 오른쪽 클릭 안될 때 
 - 우분투의 기본 설정은 터치 패드에 두 손가락으로 클릭하면 된다. 
