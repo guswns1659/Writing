@@ -1,44 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.01.31) Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-22-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/2020-01-22-Java - 유용한 메서드(update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-02-C.S기초 - Radix Converter.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-02-C.S기초 - Radix Converter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-03-C.S기초 - RadixReview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-05-C.S기초 - Linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-05-C.S기초 - Linux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-06-C.S기초 - LinuxReview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - HashMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - HashMap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - LinkedReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-07-C.S기초 - LinkedList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-08-C.S기초 - 알고리즘(K번째수).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-08-C.S기초 - 알고리즘(PoorRunner, ReverseInteger).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CodingTest/2020-01-08-C.S기초 - 알고리즘(PoorRunner, ReverseInteger).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-09-C.S기초 - HashMapReview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOPReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-11-C.S기초 - OOP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - ParserReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - Parser.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-13-C.S기초 - 추가학습요소.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-15-C.S기초 - CPUReview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - GitReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-17-C.S기초 - Git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPUReview.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-19-C.S기초 - CPU.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-09-TDD(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - TDD &amp; Junit(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-15-Java - Junit 사용법.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-18-Java - 자주 하는 실수.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-18-Java - 자주 하는 실수.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Java - Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Enum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-25-Java - Lambda &amp; Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Lambda &amp; Stream.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Java/2020-01-29-Java - Input&amp;Output.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-29-Java - Input&amp;Output.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - Docker(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - Docker(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - File System(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - File System(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-06-Linux - 기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - 기초.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-08-Linux - vim(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-08-Linux - vim(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-29-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Linux/2020-01-31-Linux - 양주종 강의.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-31-Linux - 양주종 강의.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-09-철학 - Feminism 1-1(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-09-철학 - Feminism 1-1(update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-11-철학 - Feminism 1-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-11-철학 - Feminism 1-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-18-철학 - Feminism 1-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-18-철학 - Feminism 1-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-19-철학 - Ubuntu.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-19-철학 - Ubuntu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Philosophy/2020-01-24-철학 - Feminism 1-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Philosophy/2020-01-24-철학 - Feminism 1-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-26-IntelliJ 단축키 및 사용법(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/2020-02-01-IntelliJ 단축키 및 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-29-Linux - ubuntu 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +66,23 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/2020.02" />
+      <recent name="$PROJECT_DIR$/TIL/2019.12" />
+      <recent name="$PROJECT_DIR$/TIL/2019.02" />
+      <recent name="$PROJECT_DIR$/TIL" />
+      <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JavaStudying.InputOuput" />
       <recent name="JavaStudying.Lambda" />
       <recent name="JavaStudying.Enum" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TPC2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
@@ -114,16 +90,6 @@
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\Java" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\2020.01\CS기초" />
       <recent name="C:\Users\손현준\Documents\Writing7\TIL\CodesquadCS" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="TPC2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TIL/2019.12" />
-      <recent name="$PROJECT_DIR$/TIL/2019.02" />
-      <recent name="$PROJECT_DIR$/TIL/2020.02" />
-      <recent name="$PROJECT_DIR$/TIL" />
-      <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ObjectOutput">
@@ -329,14 +295,12 @@
       <workItem from="1580431486735" duration="743000" />
       <workItem from="1580436683362" duration="1351000" />
       <workItem from="1580445691241" duration="1303000" />
-      <workItem from="1580461011150" duration="2946000" />
-    </task>
-    <task id="LOCAL-00017" summary="20.01.19) Organize Linux markdown file">
-      <created>1579441169097</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1579441169098</updated>
+      <workItem from="1580461011150" duration="3153000" />
+      <workItem from="1580472175253" duration="1276000" />
+      <workItem from="1580473638598" duration="479000" />
+      <workItem from="1580474165543" duration="171000" />
+      <workItem from="1580474380160" duration="177000" />
+      <workItem from="1580480746561" duration="64000" />
     </task>
     <task id="LOCAL-00018" summary="20.01.19) Highlights of 객체 지향의 사실과 오해 cp.4, 역할, 책임, 협력">
       <created>1579482486078</created>
@@ -674,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580462419815</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="20.01.31) Update folder">
+      <created>1580464474321</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1580464474321</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -695,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.25) Create 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.25) Create 2020-01-25-1억명이 사용한다 상상하라.md" />
     <MESSAGE value="20.01.25) Update 2020-01-25-Enum.md" />
     <MESSAGE value="20.01.26) Create OOPMain.java for studying of '객체지향의 사실과 오해'" />
@@ -720,13 +690,18 @@
     <MESSAGE value="20.01.31) 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
+    <MESSAGE value="20.01.31) Update folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.01.31) Update folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="0" width="588" height="680" key="#Main/0.0.1280.680@0.0.1280.680" timestamp="1579347207417" />
+    <state x="125" y="214" width="800" height="677" key="#Plugins" timestamp="1580474084782">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1580474084782" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1579350732579">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -745,10 +720,10 @@
     </state>
     <state x="810" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1579804844253" />
     <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579846392737" />
-    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580463173154">
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580516950748">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580463173154" />
+    <state x="690" y="468" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580516950748" />
     <state x="663" y="408" width="660" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580282124882">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -761,21 +736,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580464347366">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580474430078">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580464347366" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580474430078" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1579855536037">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1579312307852" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580438219429">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580480807060">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579804852123" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580438219429" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580480807060" />
     <state width="1803" height="274" key="GridCell.Tab.0.bottom" timestamp="1580290543071">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -797,21 +772,21 @@
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="183" y="50" width="1670" height="937" key="SettingsEditor" timestamp="1580279734612">
+    <state x="129" y="110" width="1670" height="937" key="SettingsEditor" timestamp="1580474330523">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="183" y="50" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580279734612" />
+    <state x="129" y="110" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580474330523" />
     <state width="747" height="691" key="SwitcherDM" timestamp="1580288912624">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580462424433">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580464476944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580462424433" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580464476944" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -829,10 +804,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580286174964">
+    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580473964801">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580286174964" />
+    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580473964801" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1579952997305">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -845,10 +820,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580462217335">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580474293921">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579807963388" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580462217335" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580474293921" />
   </component>
 </project>

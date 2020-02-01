@@ -11,10 +11,13 @@
 ## java 설치 및 JAVA_HOME, PATH 지정
 [영상 참고: 5분 짜리 영상](https://www.theserverside.com/video/5-steps-for-an-easy-JDK-13-install-on-Ubuntu) 
 
-## locate 활용해서 file 찾는 방법
+## file 찾는 방법
 - sudo apt-get install locate
 - sudo updatedb
 - locate [fileName
+### whereis 파일명
+
 
 ## file 확장자 찾는 법
 - file [fileName]
+
