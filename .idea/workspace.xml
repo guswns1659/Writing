@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Lambda.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-02-01-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-02-01-Linux - ubuntu 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.02/2020-02-01-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/2020-02-01-IntelliJ 단축키 및 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Lambda &amp; Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Stream.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -92,20 +93,7 @@
       <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectOutput">
-    <configuration name="BufferedDataOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.InputOuput.BufferedDataOutputStream" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudying.InputOuput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamClass">
     <configuration name="ObjectOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudying.InputOuput.ObjectOutput" />
       <module name="Writing" />
@@ -125,6 +113,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaStudying.InputOuput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClass" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudying.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamClass" />
         <item itemvalue="Application.ObjectOutput" />
         <item itemvalue="Application.StringWriter" />
         <item itemvalue="Application.TextReader" />
         <item itemvalue="Application.SimpleWriter" />
-        <item itemvalue="Application.BufferedDataOutputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -303,14 +304,7 @@
       <workItem from="1580480746561" duration="64000" />
       <workItem from="1580516807892" duration="344000" />
       <workItem from="1580485739006" duration="818000" />
-      <workItem from="1580524807786" duration="1969000" />
-    </task>
-    <task id="LOCAL-00021" summary="20.01.22) Update of 2020-01-19-철학 - Ubuntu.md">
-      <created>1579697925626</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1579697925626</updated>
+      <workItem from="1580524807786" duration="5693000" />
     </task>
     <task id="LOCAL-00022" summary="20.01.23) Make 추천 책.md">
       <created>1579746666178</created>
@@ -648,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580526578301</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="20.02.01) Create 2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md">
+      <created>1580526801267</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1580526801267</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,7 +670,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'" />
     <MESSAGE value="20.01.26) Update 2020-01-26-책 정리 - 객체 지향의 사실과 오해.md" />
     <MESSAGE value="20.01.26) Update 2020-01-27-책 리뷰 - 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.28) Create 2020-01-28-책 정리 - 2독 객체지향의 사실과 오해.md" />
@@ -694,7 +694,8 @@
     <MESSAGE value="20.02.01) Move 철학 directory" />
     <MESSAGE value="20.02.01) Create 2020-02-01-정말로 사랑한다면.md" />
     <MESSAGE value="20.02.01) Update 2020-02-01-Linux - ubuntu 사용법.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Update 2020-02-01-Linux - ubuntu 사용법.md" />
+    <MESSAGE value="20.02.01) Create 2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.01) Create 2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="0" width="588" height="680" key="#Main" timestamp="1579347207417">
@@ -739,11 +740,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580526578079">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580526801122">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526578079" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526801122" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -775,21 +776,21 @@
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="129" y="110" width="1670" height="937" key="SettingsEditor" timestamp="1580525315737">
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1580530546427">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="129" y="110" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580525315737" />
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580530546427" />
     <state width="747" height="691" key="SwitcherDM" timestamp="1580288912624">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580288912623" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580526583341">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580526803439">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526583341" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580526803439" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1579846373675">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -807,11 +808,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="347" y="64" width="750" height="608" key="find.popup" timestamp="1580489912332">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580530508702">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="347" y="64" width="750" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489912332" />
-    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580473964801" />
+    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580530508702" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1579952997305">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -824,10 +825,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580525727927">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580530158900">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580525727927" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580530158900" />
   </component>
 </project>
