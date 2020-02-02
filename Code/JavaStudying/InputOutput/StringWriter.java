@@ -1,4 +1,4 @@
-package JavaStudying.InputOuput;
+package JavaStudying.InputOutput;
 
 import java.io.*;
 import java.util.Scanner;

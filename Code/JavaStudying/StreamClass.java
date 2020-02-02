@@ -63,7 +63,8 @@ class ToyMain {
 
 class ReduceMain {
     public String getMaxLengthString() {
-        List<String> strArr = Arrays.asList("Box","Simple","Complex","Robot");
+        List<String> strArr = Arrays.asList("Box", "Simple", "Complex", "Robot");
+        List<String> strArr2 = Arrays.asList("Box", "Simple", "Complex", "Robot");
 
         BinaryOperator<String> lc = (s1, s2) -> {
             if (s1.length() > s2.length()) return s1;
@@ -72,6 +73,7 @@ class ReduceMain {
 
         String result = strArr.parallelStream()
                 .reduce("", lc);
+
         return result;
     }
 }

@@ -1,4 +1,4 @@
-package JavaStudying.InputOuput;
+package JavaStudying.InputOutput;
 
 public class SBox implements java.io.Serializable {
     String s;
