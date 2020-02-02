@@ -5,12 +5,16 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
 import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 public class StreamClass {
     private static StreamClass streamClass;
+    private static Concat concat;
 
     public static void main(String[] args) {
-        streamClass.intStreamSumTest();
+//        streamClass.intStreamSumTest();
+        concat = new Concat();
+        concat.concatTest();
     }
 
     public void intStreamSumTest() {
@@ -24,7 +28,7 @@ public class StreamClass {
     public void stringStream() {
         List<String> strList = Arrays.asList("a", "b", "c");
         strList
-        .forEach(System.out::println);
+                .forEach(System.out::println);
     }
 
     public void splitedIntStream() {
@@ -33,6 +37,25 @@ public class StreamClass {
                 .forEach(System.out::println);
     }
 }
+
+class Concat {
+    public void concatTest() {
+        Stream<String> stringStream1 = Stream.of("a", "b", "c");
+        Stream<String> stringStream2 = Stream.of("aa", "bb", "cc");
+
+        Stream.concat(stringStream1, stringStream2)
+                .forEach(System.out::println);
+
+        String[] strArr = {"a", "b", "c"};
+        List<String> strArr2 = Arrays.asList("A", "B", "C");
+        Stream.of(strArr)
+                .forEach(System.out::println);
+        Stream.of(strArr2)
+                .forEach(System.out::println);
+
+    }
+}
+
 
 class ToyPriceInfo {
     private String model;
@@ -73,7 +96,7 @@ class ReduceMain {
 
         String result = strArr.parallelStream()
                 .reduce("", lc);
-
         return result;
     }
 }
+

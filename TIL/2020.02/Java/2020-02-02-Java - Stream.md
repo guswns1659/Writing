@@ -1,8 +1,6 @@
 ## Stream
 신기술은 어렵다. 배우는 과정은 힘들다. 그냥 익숙한 지식을 쓰고 싶을 뿐이다. 하지만 신기술을 배운다면 무척 유용하다. 시간도 단축되고 무엇보다 "이걸 안 배웠으면 정말 멍청했겠다"라는 반응이 나온다. 지금 Stream은 나에게 신기술이다. java라는 언어 자체가 익숙하지 않지만 Stream을 배워야 좀 더 효율적으로 사용할 수 있다.
 배열이나 컬렉션에 데이터를 담고 원하는 결과를 얻기 위해선 for문이나 Iterator를 사용했지만 Stream을 통해서 간편하게 사용 가능해졌다. 배열을 Stream으로 만들고 Stream의 메서드를 사용한다.
-- String은 Stream<String>으로 만들어서 사용한다.
-- int[]는 IntStream으로 만들어서 사용한다.
 
 ## 스트림의 필요성
 우리가 콜렉션 인스턴스를 만들면 보통 그 안에 데이터를 사용하기 위함이다. 예를 들어, ArrayList에 1~10까지 숫자가 있을 때, 홀수만 꺼내서 합을 구하려면 보통 for문을 쓴다.
@@ -22,8 +20,12 @@
 스트림을 생성하면 참조 변수가 생기는데, 모든 메서드가 같은 참조변수로 활용하기 때문이다.
 
 ### 생성
-배열은 Arrays.stream()으로 생성한다.
-컬렉션 인스턴스는 stream()이 컬렉션의 디폴트 메서드이기에 메서드로 사용하면 된다. ex) list.stream();
+- 배열은 Arrays.stream()으로 생성한다.
+- 컬렉션 인스턴스는 stream()이 컬렉션의 디폴트 메서드이기에 메서드로 사용하면 된다. ex) list.stream();
+- Stream.of(가변인자)는 위 2가지 방법과는 차이가 있다. 기존에 존재하지 않는 데이터로 바로 스트림을 만들 수 있다. 또한 만약 of()의 인자로 컬렉션 인스턴스가 오면 그 인스턴스가 들어간 스트림이 만들어진다. 컬렉션 속 데이터가 담기는 것이 아니다. 배열은 상관없다.
+
+#### concat
+Stream.concat(stream1, stream2)를 통해서 두 개의 스트림을 하나로 합칠 수 있다.
 
 #### 컬렉션(List, Set)
 
@@ -151,7 +153,7 @@ public class LambdaMain {
 
 - mapToInt(), mapToLong(), mapToDouble()
 map()을 사용하면 들어오는 값과 나오는 값의 타입이 모두 제네릭이기 때문에 만약 int라면 integer로 boxing이 된다. 이를 피하기 위해선 mapToInt()를 사용하면 바로 int형(정확히는 IntStream)이 반환된다.
-- flatMap() : Stream<String[]>을 Stream<String>으로 만들 때
+- flatMap() : map()은 1:1로 매핑되지만 flatMap()은 1 : *로 매핑된다. 리턴값이 스트림이다. 예를들어, 하나의 단어가 입력으로 들어가서 split되서 결과로 2개의 단어가 담긴 스트림이 나올 수 있다. 안에서 자동으로 concat()을 한다.
 
 ```java
 public class LambdaMain {
@@ -175,6 +177,10 @@ public class LambdaMain {
     }
 }
 ```
+
+- peek() : foreach처럼 데이터 하나에 연산을 할 수 있지만 중간연산이기에 최종 연산이 있어야 활용 가능하다.
+
+
 
 #### Optional<T>와 OptionalInt
 Optional<T>는 지네릭 클래스로 "T타입의 객체"를 감싸는 래퍼 클래스이다. 그래서 Optional타입의 객체에는 모든 타입의 참조변수를 담을 수 있다.
@@ -212,7 +218,7 @@ public class LambdaMain {
 #### 스트림의 최종 연산
 
 - allMatch(), anyMatch(), noneMatch(), findFirst(), findAny()
-Stream에 있는 요소에 대해 지정하는 조건에 모든 요소가 일치하는지 아닌지 확인하는 메서드다. 연산 결과로 boolean을 반환한다.
+메서드의 이름이 어떤 일을 하는 지 알려준다. 람다식 조건에 따라 결과를 반환한다. allMatch()는 조건에 모두 참이니?, anyMatch()는 조건에 하나라도 만족하니?, noneMatch()는 조건 모두가 false니?
 
 ```java
 public class LambdaMain {
@@ -265,6 +271,9 @@ public class LambdaMain {
 
 ```
 
+- sum(), count(), average(), max(), min()
+최종 연산 중 대표적인 연산들이다. 이름에서 메서드가 무슨 일을 하는 지 명확하게 파악이 된다. 그런데 average(), max(), min()의 반환 값은 Optional형태이다. 값이 감싸져서 나오는다. 복잡해 보이지만 Optional의 ifPresent() 같은 메서드를 유용하게 사용할 수 있다.
+
 #### 병렬스트림
 병렬처리는 하나의 일을 나눠서 처리하는 것을 의미한다. 항상 병렬처리가 빠른 것은 아니다. 병렬처리를 하기 위해 일을 나누고 병렬처리 후에 일을 취합하는 과정이 생각보다 복잡하다. 그런데 자바에서 이젠 병렬처리를 할 수 있는 병렬 스트림을 지원한다.
 
@@ -287,7 +296,7 @@ class ReduceMain {
 
 
 #### collect()
-스트림의 요소를 수집하는 최종 연산으로 reducing과 유사하다.collect()가 스트림의 요소를 수집하려면 어떻게 수집할 것인가에 대한 방법이 정의되어 있어야 하는데, 이 방법을 정의한 것이 바로 collector이다.
+스트림의 요소를 수집하는 최종 연산이다. 우리는 스트림을 사용하고 연산된 값을 가지고 싶을 때가 있다. 그럴 때 collect()가 도와준다. 스트림은 한번 사용하면 다시 사용할 수 없기 때문에 collect()의 기능은 중요하다.
 
 - 스트림을 컬렉션과 배열로 변환 : toList(), toSet(), toMap(), toCollection(), toArray()
 
@@ -307,6 +316,29 @@ public class LambdaMain {
         for (String name : arrayListNames) {
             System.out.println(name);
         }
+    }
+}
+```
+
+- 병렬 스트림에서의 collect
+병렬 스트림에서는 어떻게 collect가 작동할까???
+
+```java
+public class StreamClass2 {
+    public static void main(String[] args) {
+        flatMapTest();
+    }
+
+    private static void flatMapTest() {
+        // parallel(), collect(), filter()
+        List<String> list = Arrays.asList("Hello", "box", "robot", "toy");
+        List<String> list2 = list.parallelStream()
+                .filter( s-> s.length() < 5)
+                .collect(() -> new ArrayList<>()
+                        ,(c, s) -> c.add(s)
+                        ,(lit1, lit2) -> lit1.addAll(lit2));
+
+        for (String each : list2) System.out.println(each);
     }
 }
 ```

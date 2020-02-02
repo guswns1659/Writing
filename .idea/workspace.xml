@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/BufferedDataOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BufferedDataOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/BytesFileCopier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BytesFileCopier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/DataFilterOuputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/DataFilterOuputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/ObjectOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/ObjectOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/SBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/SimpleWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SimpleWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/StringWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/StringWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/TextReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOuput/Write7ToFile3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/Write7ToFile3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-02-Java - Stream.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +102,7 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileCopyMain">
+  <component name="RunManager" selected="Application.StreamClass2">
     <configuration name="FileCopyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudying.InputOutput2.FileCopyMain" />
       <module name="Writing" />
@@ -137,6 +129,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClass" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.Lambda.StreamClass2" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudying.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamClassTest.getMaxLengthString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Writing" />
       <extension name="coverage">
@@ -148,38 +166,6 @@
       <option name="PACKAGE_NAME" value="JavaStudying" />
       <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClassTest" />
       <option name="METHOD_NAME" value="getMaxLengthString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamClassTest.getToyPriceUnder500" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudying.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaStudying" />
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClassTest" />
-      <option name="METHOD_NAME" value="getToyPriceUnder500" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamClassTest.splitedIntStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudying.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaStudying" />
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.StreamClassTest" />
-      <option name="METHOD_NAME" value="splitedIntStream" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamClass2" />
+        <item itemvalue="Application.StreamClass" />
         <item itemvalue="Application.FileCopyMain" />
         <item itemvalue="Application.OOPMain" />
         <item itemvalue="JUnit.StreamClassTest.getMaxLengthString" />
-        <item itemvalue="JUnit.StreamClassTest.getToyPriceUnder500" />
-        <item itemvalue="JUnit.StreamClassTest.splitedIntStream" />
       </list>
     </recent_temporary>
   </component>
@@ -337,14 +323,7 @@
       <workItem from="1580560397151" duration="640000" />
       <workItem from="1580600649598" duration="186000" />
       <workItem from="1580603750900" duration="1002000" />
-      <workItem from="1580621324489" duration="3633000" />
-    </task>
-    <task id="LOCAL-00031" summary="20.01.24) Update of 2020-01-24-Java - Lambda.md">
-      <created>1579858429644</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1579858429644</updated>
+      <workItem from="1580621324489" duration="10951000" />
     </task>
     <task id="LOCAL-00032" summary="20.01.24) Update of 2020-01-24-책 리뷰 - 객체 지향의 사실과 오해.md">
       <created>1579867964224</created>
@@ -682,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580622335136</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="20.02.02) Update InputOutput package">
+      <created>1580625203659</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1580625203659</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +689,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.29) Test of non-ASCII commit" />
     <MESSAGE value="20.01.29) Delete test.md" />
     <MESSAGE value="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md" />
     <MESSAGE value="20.01.29) Update 2020-01-29-Linux - ubuntu 사용법.md" />
@@ -728,7 +713,8 @@
     <MESSAGE value="20.02.01) Update 2020-02-01-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Update 2020-02-02-장기목표를 달성하는 법.md" />
     <MESSAGE value="20.02.02) Update 2020-02-02-Java - Input&amp;Output.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.02) Update 2020-02-02-Java - Input&amp;Output.md" />
+    <MESSAGE value="20.02.02) Update InputOutput package" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.02) Update InputOutput package" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -775,11 +761,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580622334965">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580625203374">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580622334965" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580625203374" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -790,22 +776,22 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580610813309" />
-    <state width="1803" height="316" key="GridCell.Tab.0.bottom" timestamp="1580623407847">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom" timestamp="1580633497182">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580623407847" />
-    <state width="1803" height="316" key="GridCell.Tab.0.center" timestamp="1580623407846">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580633497182" />
+    <state width="877" height="248" key="GridCell.Tab.0.center" timestamp="1580633497178">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580623407846" />
-    <state width="1803" height="316" key="GridCell.Tab.0.left" timestamp="1580623407845">
+    <state width="877" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580633497178" />
+    <state width="877" height="248" key="GridCell.Tab.0.left" timestamp="1580633497176">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580623407845" />
-    <state width="1803" height="316" key="GridCell.Tab.0.right" timestamp="1580623407847">
+    <state width="877" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580633497176" />
+    <state width="877" height="248" key="GridCell.Tab.0.right" timestamp="1580633497180">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580623407847" />
+    <state width="877" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580633497180" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580623407848">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -837,11 +823,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580622337119">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580625206328">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580622337119" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580625206328" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
