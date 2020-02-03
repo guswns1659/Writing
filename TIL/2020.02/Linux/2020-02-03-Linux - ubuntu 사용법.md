@@ -28,3 +28,5 @@
 ## file 확장자 찾는 법
 - file [fileName]
 
+## Terminal에 oh-my-zsh 추가하기
+[https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4](https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4)
