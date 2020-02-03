@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Practice1to3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Practice1to3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-16-C.S기초 - Git.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.01/CS기초/2020-01-16-C.S기초 - Git.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +60,14 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/JavaStudying" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/JavaStudying/InputOutput2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -321,14 +323,8 @@
       <workItem from="1580621324489" duration="14064000" />
       <workItem from="1580647923240" duration="933000" />
       <workItem from="1580650594318" duration="206000" />
-      <workItem from="1580692899451" duration="565000" />
-    </task>
-    <task id="LOCAL-00037" summary="20.01.25) Update 2020-01-25-Enum.md">
-      <created>1579953835869</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1579953835869</updated>
+      <workItem from="1580692899451" duration="1238000" />
+      <workItem from="1580706419650" duration="238000" />
     </task>
     <task id="LOCAL-00038" summary="20.01.25) Update 2020-01-25-Enum.md">
       <created>1579955405435</created>
@@ -666,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580648257238</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="20.02.03) Practice Practice1to3.java">
+      <created>1580693627665</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1580693627666</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,7 +690,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.29) Update 2020-01-29-Java - Input&amp;Output.md" />
     <MESSAGE value="20.01.29) Update 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.30) Update Ch.4 of 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) Update 2020-01-29-Java - Input&amp;Output.md" />
@@ -712,7 +714,8 @@
     <MESSAGE value="20.02.02) Create 2020-02-02-2020년 도서목록.md" />
     <MESSAGE value="20.02.02) Complete 2020-02-02-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Create 2019-05-11-책 정리 - 여덟단어.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.02) Create 2019-05-11-책 정리 - 여덟단어.md" />
+    <MESSAGE value="20.02.03) Practice Practice1to3.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.03) Practice Practice1to3.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -759,37 +762,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580693597414">
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2" timestamp="1580693627438">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580693597414" />
+    <state x="440" y="27" width="1175" height="851" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580693627438" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580610813309">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580706655620">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580610813309" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580693573595">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580706655620" />
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580694139723">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580693573595" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580693573594">
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580694139723" />
+    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580694139720">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580693573594" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580693573593">
+    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580694139720" />
+    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580694139713">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580693573593" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580693573594">
+    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580694139713" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580694139721">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580693573594" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580694139721" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580640647486">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -811,21 +814,21 @@
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1580648224292">
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1580719496753">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580648224292" />
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580719496753" />
     <state width="747" height="691" key="SwitcherDM" timestamp="1580539702730">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580648259588">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580693629902">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580648259588" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580693629902" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -834,11 +837,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580554527868">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580706598573">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580554527868" />
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580706598573" />
     <state x="1190" y="243" width="522" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580535518480">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -847,11 +850,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580693271288">
+    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580719416766">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="347" y="64" width="750" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489912332" />
-    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580693271288" />
+    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580719416766" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1580538800527">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -864,11 +867,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580623446771">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580706461190">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580623446771" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580706461190" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

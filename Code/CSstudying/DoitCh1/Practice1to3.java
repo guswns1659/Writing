@@ -28,8 +28,6 @@ public class Practice1to3 {
         return min;
 
     }
-
-
     private static int max4() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("3개의 값 중 최댓값을 구하는 메서드입니다.");
@@ -46,6 +44,4 @@ public class Practice1to3 {
         if (num3 > max) max = num3;
         return max;
     }
-
-
 }
