@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md">
-      <change afterPath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Practice15to17.java" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020.01/2020-01-22-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-22-Java - 유용한 메서드(update).md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +84,11 @@
       <recent name="JavaStudying.Enum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/2020.02/Java" />
       <recent name="$PROJECT_DIR$/TIL/2020.02" />
       <recent name="$PROJECT_DIR$/TIL/2019.12" />
       <recent name="$PROJECT_DIR$/TIL/2019.02" />
       <recent name="$PROJECT_DIR$/TIL" />
-      <recent name="$PROJECT_DIR$/TIL/2020.01/CodingTest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Code/JavaStudying/InputOutput2" />
@@ -329,13 +329,8 @@
       <workItem from="1580738184841" duration="45000" />
       <workItem from="1580778374007" duration="303000" />
       <workItem from="1580778728545" duration="2067000" />
-    </task>
-    <task id="LOCAL-00040" summary="20.01.26) Refactor OOPMain.java for studying of '객체지향의 사실과 오해'">
-      <created>1580009939106</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1580009939107</updated>
+      <workItem from="1580783400783" duration="47000" />
+      <workItem from="1580792090937" duration="111000" />
     </task>
     <task id="LOCAL-00041" summary="20.01.26) Update 2020-01-26-책 정리 - 객체 지향의 사실과 오해.md">
       <created>1580012972643</created>
@@ -673,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580734279672</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="20.02.04) Update .gitignore">
+      <created>1580783421647</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1580783421648</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,7 +696,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.31) Update 2020-01-29-Java - Input&amp;Output.md" />
     <MESSAGE value="20.01.31) 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
@@ -719,7 +720,8 @@
     <MESSAGE value="20.02.03) Practice Practice1to3.java" />
     <MESSAGE value="20.02.03) Update 2020-02-01-IntelliJ 단축키 및 사용법.md" />
     <MESSAGE value="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md" />
+    <MESSAGE value="20.02.04) Update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.04) Update .gitignore" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -766,21 +768,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580780752076">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580792436424">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580780752076" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580792436424" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580780793959">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580792200184">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580780793959" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580792200184" />
     <state width="1803" height="316" key="GridCell.Tab.0.bottom" timestamp="1580780795467">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -828,11 +830,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580734282204">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580783423757">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580734282204" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580783423757" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -854,11 +856,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580719416766">
+    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1580792116524">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="347" y="64" width="750" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489912332" />
-    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580719416766" />
+    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580792116524" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1580538800527">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
