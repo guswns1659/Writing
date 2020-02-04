@@ -16,6 +16,7 @@
 
 ### 예시<br>
 ```java
+```java
 public interface RemoCon {
     int MAXCH =100;
     int MINCH = 1;
@@ -25,10 +26,10 @@ public interface RemoCon {
     void internet();
     
     RemoCon r = new TV();
-    r.chDown();
-    r.chUp();
-    r.internet();
-    System.out.println(RemoCon.MAXCH);
+    r.chDown()
+    r.chUp()
+    r.internet()
+    System.out.println(RemoCon.MAXCH)
 }
 ```
 ## 상수가 올 수 있다.
@@ -39,11 +40,12 @@ RemoCon.MAXCH // 인터페이스 RemoCon의 상수 MAXCH
 ## 인터페이스와 인터페이스의 상속 관계
 인터페이스끼리도 상속을 할 수 있다. 그 때 extends 키워드를 사용한다. 만약 다른 인터페이스를 상속받은 인터페이스가 있다고 하자. 이 인터페이스 implements하는 클래스는 모든 인터페이스의 메서드를 override 해야한다.<br>
 ```java
+```java
 public interface A {
-    public void x();
+    void x();
 }
 public interface B extends A {
-    public void y();
+    void y();
 }
 public class C implements B {
     public void x() {
