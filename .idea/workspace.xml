@@ -1,73 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.04) Reorganize project directories">
+      <change afterPath="$PROJECT_DIR$/TIL/기타/2020-01-17-컴퓨터 위키 백과.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/2019-12-12-Git - 개념정립.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-23-Algorithm - Recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-23-Algorithm - Recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-24-Algorithm - recursive thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-24-Algorithm - recursive thinking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-25-Algorithm - Design recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-25-Algorithm - Design recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Blob.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-25-Algorithm - Recursive Blob.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-25-Algorithm - Recursive Maze.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Algorithm/2019-12-26-Algorithm - NQueens.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Algorithm/2019-12-26-Algorithm - NQueens.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-14-Java - 이클립스 단축키.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-14-Java - 이클립스 단축키.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-15-Java - 구구단 프로그램.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-15-Java - 구구단 프로그램.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-16-Java - Calendar 프로젝트.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-16-Java - Calendar 프로젝트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - Calendar 프로젝트2.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-17-Java - Calendar 프로젝트2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - 개발환경구축(Update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-17-Java - 개발환경구축(Update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-17-Java - 구동방식.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-17-Java - 구동방식.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-18-Java - Calendar 프로젝트.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-18-Java - Calendar 프로젝트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-18-Java - 변수, 자료형, 선언.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-18-Java - 변수, 자료형, 선언.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-20-Java - JVM 메모리 모델.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-20-Java - JVM 메모리 모델.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-20-Java - 객체.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-20-Java - 객체.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - Class 정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - Class 정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - class, object, instance의 차이.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - class, object, instance의 차이.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - private constructor.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - private constructor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - 메서드 오버로딩(Method Overloading).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - 메서드 오버로딩(Method Overloading).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - 배열과 객체.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - 배열과 객체.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-22-Java - 정보은닉(Information Hiding).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-22-Java - 정보은닉(Information Hiding).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-23-Java - Override.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-23-Java - Override.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - Object Casting(객체 형 변환).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-24-Java - Object Casting(객체 형 변환).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - abstract class VS interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-24-Java - abstract class VS interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - abstract class.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-24-Java - abstract class.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-24-Java - message polymorphism(다형성).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-24-Java - message polymorphism(다형성).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-25-Java - Interface &amp; JDBC.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-25-Java - Interface &amp; JDBC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-25-Java - Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-25-Java - Interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-25-Java - Object.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-25-Java - Object.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - Inheritance(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - Inheritance(update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - ObjectList 만들기.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - ObjectList 만들기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - Package.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - Package.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - 기본 API &amp; String Class .md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - 기본 API &amp; String Class .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - 나만의 API 만들기(IntArray).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - 나만의 API 만들기(IntArray).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-26-Java - 유레카.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-26-Java - 유레카.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-27-Java - ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-27-Java - ArrayList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-27-Java - Wrapper Class.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-27-Java - Wrapper Class.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-28-Java - Json &amp; Gson.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-28-Java - Json &amp; Gson.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-28-Java - org.json.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-28-Java - org.json.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-29-Java - Geocoding(경도, 위도 추출).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-29-Java - Geocoding(경도, 위도 추출).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2019.12/Java/2019-12-29-Java - I.O(입력 &amp; 출력).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/TCPJava/2019-12-29-Java - I.O(입력 &amp; 출력).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Structure &amp; Algorithm/2020-01-06-DataStructure - LinkedList(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/DataStructure/2020-01-06-DataStructure - LinkedList(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.01/Structure &amp; Algorithm/2020-01-07-DataStructure - HashMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/DataStructure/2020-01-07-DataStructure - HashMap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/2020-02-01-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-02-01-IntelliJ 단축키 및 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - TDD &amp; Junit(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-01-09-Java - TDD &amp; Junit(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-01-09-Java - 멀티쓰레드(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-18-Java - 자주 하는 실수.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-01-18-Java - 자주 하는 실수.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-22-Java - 유용한 메서드(update).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-01-22-Java - 유용한 메서드(update).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-01-25-Java - Enum.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-01-25-Java - Enum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-01-Java - Lambda.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-01-Java - Lambda.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-02-Java - Input&amp;Output.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-02-Java - Input&amp;Output.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Java/2020-02-02-Java - Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-02-Java - Stream.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - Docker(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-06-Linux - Docker(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - File System(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-06-Linux - File System(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-06-Linux - 기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-06-Linux - 기초.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-08-Linux - vim(ongoing).md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-08-Linux - vim(ongoing).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-10-Linux - 만화로 배우는 리눅스 시스템 관리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-19-Linux - 원도우에 멀티부팅으로 설치.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-01-31-Linux - 양주종 강의.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-01-31-Linux - 양주종 강의.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020.02/Linux/2020-02-03-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-02-03-Linux - ubuntu 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Programming - 공부할 거리.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2029.00/2029-00-00-Ubuntu - 단축키.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +59,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/JavaStudying" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL/기타" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,18 +84,18 @@
       <recent name="JavaStudying.Enum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL" />
+      <recent name="$PROJECT_DIR$/TIL/기타" />
       <recent name="$PROJECT_DIR$/TIL/" />
       <recent name="$PROJECT_DIR$/TIL/2020.02/Java" />
       <recent name="$PROJECT_DIR$/TIL/2020.02" />
-      <recent name="$PROJECT_DIR$/TIL/2019.12" />
-      <recent name="$PROJECT_DIR$/TIL/2019.02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL/기타" />
       <recent name="$PROJECT_DIR$/Code/JavaStudying/InputOutput2" />
       <recent name="$PROJECT_DIR$/Code/JavaStudying/InputOuput2" />
       <recent name="$PROJECT_DIR$/도서/책 리뷰/2020년" />
       <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
-      <recent name="$PROJECT_DIR$/도서/책 정리/2020년" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TPC2" />
@@ -395,14 +331,7 @@
       <workItem from="1580778728545" duration="2067000" />
       <workItem from="1580783400783" duration="47000" />
       <workItem from="1580792090937" duration="111000" />
-      <workItem from="1580792347369" duration="863000" />
-    </task>
-    <task id="LOCAL-00042" summary="20.01.26) Update 2020-01-27-책 리뷰 - 객체지향의 사실과 오해.md">
-      <created>1580127994434</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1580127994434</updated>
+      <workItem from="1580792347369" duration="1141000" />
     </task>
     <task id="LOCAL-00043" summary="20.01.28) Create 2020-01-28-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580174053833</created>
@@ -740,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580792454840</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="20.02.04) Reorganize project directories">
+      <created>1580793402157</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1580793402157</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,7 +697,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md" />
     <MESSAGE value="20.01.31) Update folder" />
     <MESSAGE value="20.02.01) Move 철학 directory" />
@@ -786,7 +721,8 @@
     <MESSAGE value="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md" />
     <MESSAGE value="20.02.04) Update .gitignore" />
     <MESSAGE value="20.02.04) Delete C.S기초 Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.04) Delete C.S기초 Directory" />
+    <MESSAGE value="20.02.04) Reorganize project directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.04) Reorganize project directories" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -833,11 +769,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580793367453">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580793423852">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580793367453" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580793423852" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -895,11 +831,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580792457287">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580793406234">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580792457287" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580793406234" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
