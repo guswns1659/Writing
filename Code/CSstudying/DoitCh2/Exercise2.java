@@ -2,7 +2,7 @@ package CSstudying.DoitCh2;
 
 import java.util.Arrays;
 
-public class Practice2 {
+public class Exercise2 {
     public static void main(String[] args) {
         int[] intArr = {10, 30, 40, 50, 60};
         reverse(intArr);

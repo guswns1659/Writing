@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
+      <change afterPath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Exercise15to17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Exercise1to3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/CSstudying/DoitCh2/Exercise2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/Java/2020-02-05-Java - 예외처리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-05-Java - 예외처리(noUpload).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Practice15to17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/CSstudying/DoitCh1/Practice1to3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/CSstudying/DoitCh2/Practice2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +106,20 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice2">
+  <component name="RunManager" selected="Application.Practice8">
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Exercise2" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CSstudying.DoitCh2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudying.Lambda.LambdaMain" />
       <module name="Writing" />
@@ -128,21 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice15to17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh1.Practice15to17" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CSstudying.DoitCh1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Practice2" />
+    <configuration name="Practice8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Practice8" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
@@ -216,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice8" />
+        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.OOPMain" />
         <item itemvalue="Application.LambdaMain" />
         <item itemvalue="Application.index" />
-        <item itemvalue="Application.Practice15to17" />
       </list>
     </recent_temporary>
   </component>
@@ -333,14 +338,9 @@
       <workItem from="1580792090937" duration="111000" />
       <workItem from="1580792347369" duration="1173000" />
       <workItem from="1580821440338" duration="984000" />
-      <workItem from="1580865763097" duration="8372000" />
-    </task>
-    <task id="LOCAL-00048" summary="20.01.29) Update Ch.3 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580278851058</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1580278851058</updated>
+      <workItem from="1580865763097" duration="9430000" />
+      <workItem from="1580897640069" duration="950000" />
+      <workItem from="1580898957499" duration="1579000" />
     </task>
     <task id="LOCAL-00049" summary="20.01.29) Create 2020-01-29-Java - Input&amp;Output.md">
       <created>1580279642557</created>
@@ -678,7 +678,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580884912570</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
+      <created>1580885073662</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1580885073662</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,10 +753,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580290069596" />
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1580556064947">
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1580900327338">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580556064947" />
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580900327338" />
     <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579846392737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -771,11 +778,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580884912470">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580900607462">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580884912470" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580900607462" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -786,38 +793,38 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580867345790" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580884897433">
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580900576127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580884897433" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580884897433">
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580900576127" />
+    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580900576127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580884897433" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580884897433">
+    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580900576127" />
+    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580900576126">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580884897433" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580884897433">
+    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580900576126" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580900576127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580884897433" />
-    <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580780795469">
+    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580900576127" />
+    <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580900186628">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580780795469" />
-    <state width="1803" height="316" key="GridCell.Tab.1.center" timestamp="1580780795468">
+    <state width="1803" height="316" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186628" />
+    <state width="1803" height="316" key="GridCell.Tab.1.center" timestamp="1580900186627">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580780795468" />
-    <state width="1803" height="316" key="GridCell.Tab.1.left" timestamp="1580780795468">
+    <state width="1803" height="316" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186627" />
+    <state width="1803" height="316" key="GridCell.Tab.1.left" timestamp="1580900186626">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580780795468" />
-    <state width="1803" height="316" key="GridCell.Tab.1.right" timestamp="1580780795469">
+    <state width="1803" height="316" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186626" />
+    <state width="1803" height="316" key="GridCell.Tab.1.right" timestamp="1580900186627">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580780795469" />
+    <state width="1803" height="316" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186627" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -833,11 +840,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580885044970">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580897656060">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580885044970" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580897656060" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -846,11 +853,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580867885576">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580900609247">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580867885576" />
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580900609247" />
     <state x="1190" y="243" width="522" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580535518480">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

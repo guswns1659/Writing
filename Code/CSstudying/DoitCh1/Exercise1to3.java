@@ -2,7 +2,7 @@ package CSstudying.DoitCh1;
 
 import java.util.Scanner;
 
-public class Practice1to3 {
+public class Exercise1to3 {
     public static void main(String[] args) {
         System.out.println(max4());
         System.out.println(min4());
@@ -28,6 +28,7 @@ public class Practice1to3 {
         return min;
 
     }
+
     private static int max4() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("3개의 값 중 최댓값을 구하는 메서드입니다.");

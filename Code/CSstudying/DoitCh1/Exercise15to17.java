@@ -1,6 +1,6 @@
 package CSstudying.DoitCh1;
 
-public class Practice15to17 {
+public class Exercise15to17 {
     public static void main(String[] args) {
 //        triangleLB(5);
 //        triangleLU(5);
