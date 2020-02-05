@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/Java/2020-02-05-Java - 예외처리.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-05-Java - 예외처리(noUpload).md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,14 +333,7 @@
       <workItem from="1580792090937" duration="111000" />
       <workItem from="1580792347369" duration="1173000" />
       <workItem from="1580821440338" duration="984000" />
-      <workItem from="1580865763097" duration="8121000" />
-    </task>
-    <task id="LOCAL-00047" summary="20.01.29) Update Ch.2 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580272767439</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1580272767439</updated>
+      <workItem from="1580865763097" duration="8372000" />
     </task>
     <task id="LOCAL-00048" summary="20.01.29) Update Ch.3 of 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580278851058</created>
@@ -677,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580877373203</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
+      <created>1580884912570</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1580884912570</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,7 +699,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.01) Create 2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" />
     <MESSAGE value="20.02.01) Create 2020-02-01-Java - Stream.md" />
     <MESSAGE value="20.02.01) Update 2020-02-01-Java - Stream.md" />
     <MESSAGE value="20.02.01) Update StreamClass.java" />
@@ -723,7 +723,8 @@
     <MESSAGE value="20.02.05) Create 2020-02-05-책 정리 - Do it 알고리즘 입문.md" />
     <MESSAGE value="20.02.05) Practice 연습문제2 of Do it ch.2" />
     <MESSAGE value="20.02.05) Implement 연습문제2~3 of Do it ch.2 &#10;&#10;Create 2020-02-05-책 정리 - Do it 알고리즘 입문.md for Studying Do it 알고리즘 입문 until page 61" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Implement 연습문제2~3 of Do it ch.2 &#10;&#10;Create 2020-02-05-책 정리 - Do it 알고리즘 입문.md for Studying Do it 알고리즘 입문 until page 61" />
+    <MESSAGE value="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -770,11 +771,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580884897356">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580884912470">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580884897356" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580884912470" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -832,11 +833,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580877375483">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580885044970">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580877375483" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580885044970" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
