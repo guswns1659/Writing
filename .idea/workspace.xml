@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다.">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -334,14 +334,7 @@
       <workItem from="1580821440338" duration="984000" />
       <workItem from="1580865763097" duration="9430000" />
       <workItem from="1580897640069" duration="950000" />
-      <workItem from="1580898957499" duration="3413000" />
-    </task>
-    <task id="LOCAL-00050" summary="20.01.29) Create 2020-01-29-Java - Input&amp;Output.md">
-      <created>1580279740635</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1580279740635</updated>
+      <workItem from="1580898957499" duration="4104000" />
     </task>
     <task id="LOCAL-00051" summary="20.01.29) Test of non-ASCII commit">
       <created>1580279801424</created>
@@ -679,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580900776285</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다.">
+      <created>1580908415704</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1580908415704</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,7 +700,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.01) Update 2020-02-01-Java - Stream.md" />
     <MESSAGE value="20.02.01) Update StreamClass.java" />
     <MESSAGE value="20.02.01) Update StreamClassTest.java" />
     <MESSAGE value="20.02.01) Update OOPMain.java" />
@@ -725,7 +724,8 @@
     <MESSAGE value="20.02.05) Implement 연습문제2~3 of Do it ch.2 &#10;&#10;Create 2020-02-05-책 정리 - Do it 알고리즘 입문.md for Studying Do it 알고리즘 입문 until page 61" />
     <MESSAGE value="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다." />
     <MESSAGE value="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다." />
+    <MESSAGE value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -772,53 +772,53 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580908298938">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580908415526">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580908298938" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580908415526" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580907978643">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580908984670">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580907978643" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1580900788298">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580908984670" />
+    <state width="1803" height="316" key="GridCell.Tab.0.bottom" timestamp="1580908985374">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580900788298" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1580900788297">
+    <state width="1803" height="316" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985374" />
+    <state width="1803" height="316" key="GridCell.Tab.0.center" timestamp="1580908985372">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580900788297" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1580900788297">
+    <state width="1803" height="316" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985372" />
+    <state width="1803" height="316" key="GridCell.Tab.0.left" timestamp="1580908985371">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580900788297" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1580900788297">
+    <state width="1803" height="316" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985371" />
+    <state width="1803" height="316" key="GridCell.Tab.0.right" timestamp="1580908985373">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580900788297" />
-    <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580900186628">
+    <state width="1803" height="316" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985373" />
+    <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186628" />
-    <state width="1803" height="316" key="GridCell.Tab.1.center" timestamp="1580900186627">
+    <state width="1803" height="316" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985379" />
+    <state width="1803" height="316" key="GridCell.Tab.1.center" timestamp="1580908985376">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186627" />
-    <state width="1803" height="316" key="GridCell.Tab.1.left" timestamp="1580900186626">
+    <state width="1803" height="316" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985376" />
+    <state width="1803" height="316" key="GridCell.Tab.1.left" timestamp="1580908985375">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186626" />
-    <state width="1803" height="316" key="GridCell.Tab.1.right" timestamp="1580900186627">
+    <state width="1803" height="316" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985375" />
+    <state width="1803" height="316" key="GridCell.Tab.1.right" timestamp="1580908985378">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580900186627" />
+    <state width="1803" height="316" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985378" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard" timestamp="1579419507263">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -834,11 +834,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580900786759">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580908418498">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580900786759" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580908418498" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
