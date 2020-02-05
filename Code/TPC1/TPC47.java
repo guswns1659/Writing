@@ -1,7 +1,7 @@
 package TPC1;
 
-import kr.tpc.*;
-import kr.tpc.ObjectArray;
+import kr.tpc.A;
+import kr.tpc.B;
 
 import java.util.ArrayList;
 
