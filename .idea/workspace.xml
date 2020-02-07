@@ -100,7 +100,7 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice8">
+  <component name="RunManager" selected="Application.NullPointerCaseStudy">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Exercise2" />
       <module name="Writing" />
@@ -127,6 +127,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NullPointerCaseStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.NullPointerCaseStudy" />
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OOPMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSstudying.OOPMain" />
       <module name="Writing" />
@@ -146,19 +159,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSstudying.DoitCh2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.index.index" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.index.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullPointerCaseStudy" />
         <item itemvalue="Application.Practice8" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.OOPMain" />
         <item itemvalue="Application.LambdaMain" />
-        <item itemvalue="Application.index" />
       </list>
     </recent_temporary>
   </component>
@@ -335,13 +335,10 @@
       <workItem from="1580865763097" duration="9430000" />
       <workItem from="1580897640069" duration="950000" />
       <workItem from="1580898957499" duration="4104000" />
-    </task>
-    <task id="LOCAL-00051" summary="20.01.29) Test of non-ASCII commit">
-      <created>1580279801424</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1580279801424</updated>
+      <workItem from="1580909473152" duration="331000" />
+      <workItem from="1580951603973" duration="46000" />
+      <workItem from="1580995353071" duration="107000" />
+      <workItem from="1581037177391" duration="3135000" />
     </task>
     <task id="LOCAL-00052" summary="20.01.29) Delete test.md">
       <created>1580279825478</created>
@@ -679,7 +676,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580908415704</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경.">
+      <created>1580909710116</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1580909710117</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,7 +704,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.01) Update StreamClass.java" />
     <MESSAGE value="20.02.01) Update StreamClassTest.java" />
     <MESSAGE value="20.02.01) Update OOPMain.java" />
     <MESSAGE value="20.02.01) Update 2020-02-01-책 정리 - 2독 객체지향의 사실과 오해.md" />
@@ -725,7 +728,8 @@
     <MESSAGE value="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다." />
     <MESSAGE value="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다." />
     <MESSAGE value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
+    <MESSAGE value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -738,19 +742,23 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1580524839712" />
-    <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1580881855633">
+    <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1581037632955">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579347220591" />
-    <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1580881855633" />
+    <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1581037632955" />
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580290069596">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580290069596" />
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1580900327338">
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1581038036514">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580900327338" />
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581038036514" />
+    <state x="726" y="329" width="524" height="446" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581037889952">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="329" width="524" height="446" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581037889952" />
     <state x="1240" y="388" width="362" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579846392737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -772,37 +780,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1580908415526">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581040496561">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580908415526" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581040496561" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580908984670">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580995457165">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580908984670" />
-    <state width="1803" height="316" key="GridCell.Tab.0.bottom" timestamp="1580908985374">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580995457165" />
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581038298005">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985374" />
-    <state width="1803" height="316" key="GridCell.Tab.0.center" timestamp="1580908985372">
+    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298005" />
+    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1581038298002">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985372" />
-    <state width="1803" height="316" key="GridCell.Tab.0.left" timestamp="1580908985371">
+    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298002" />
+    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1581038298000">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985371" />
-    <state width="1803" height="316" key="GridCell.Tab.0.right" timestamp="1580908985373">
+    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298000" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1581038298004">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="316" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580908985373" />
+    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298004" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -834,11 +842,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580908418498">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580909712148">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580908418498" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580909712148" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -877,11 +885,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1580908055126">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581037572080">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580908055126" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581037572080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
