@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java.">
-      <change afterPath="$PROJECT_DIR$/Code/JavaStudying/NullPointerCaseStudy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-05-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-08-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Writing" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -344,7 +347,7 @@
       <workItem from="1580951603973" duration="46000" />
       <workItem from="1580995353071" duration="107000" />
       <workItem from="1581037177391" duration="3986000" />
-      <workItem from="1581124480930" duration="3539000" />
+      <workItem from="1581124480930" duration="7681000" />
     </task>
     <task id="LOCAL-00053" summary="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md">
       <created>1580286235198</created>
@@ -801,22 +804,22 @@
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581127227474" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581126099511">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom" timestamp="1581129527587">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581126099511" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1581126099511">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527587" />
+    <state width="877" height="248" key="GridCell.Tab.0.center" timestamp="1581129527586">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581126099510" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1581126099510">
+    <state width="877" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
+    <state width="877" height="248" key="GridCell.Tab.0.left" timestamp="1581129527585">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581126099510" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1581126099511">
+    <state width="877" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527585" />
+    <state width="877" height="248" key="GridCell.Tab.0.right" timestamp="1581129527586">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581126099511" />
+    <state width="877" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -861,11 +864,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580900609247">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581129680575">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580900609247" />
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581129680575" />
     <state x="1190" y="243" width="536" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581124890404">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
