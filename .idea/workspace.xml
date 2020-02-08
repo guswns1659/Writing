@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-02-09-과거의 나를 보는 기분.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -339,6 +340,8 @@
       <workItem from="1580951603973" duration="46000" />
       <workItem from="1580995353071" duration="107000" />
       <workItem from="1581037177391" duration="3135000" />
+      <workItem from="1581185321966" duration="43000" />
+      <workItem from="1581187039195" duration="969000" />
     </task>
     <task id="LOCAL-00052" summary="20.01.29) Delete test.md">
       <created>1580279825478</created>
@@ -790,10 +793,10 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1580995457165">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="407" y="123" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581187232015">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
+    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581187232015" />
     <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580995457165" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581038298005">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -885,10 +888,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581037572080">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581187915287">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581187915287" />
     <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581037572080" />
   </component>
   <component name="XDebuggerManager">
