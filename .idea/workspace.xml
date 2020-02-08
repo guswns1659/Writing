@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-02-09-과거의 나를 보는 기분.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-05-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-08-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +24,15 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Writing" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -58,8 +61,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Code/JavaStudying" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Code/CSstudying/DoitCh2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-algorithm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +76,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="CSstudying.DoitCh2" />
       <recent name="JavaStudying" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -101,26 +105,13 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NullPointerCaseStudy">
+  <component name="RunManager" selected="JUnit.Practice9Test.testIsPrime">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Exercise2" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSstudying.DoitCh2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.Lambda.LambdaMain" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudying.Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,6 +154,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice9Test.testIsPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Writing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CSstudying.DoitCh2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CSstudying.DoitCh2" />
+      <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Practice9Test" />
+      <option name="METHOD_NAME" value="testIsPrime" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Practice9Test.testIsPrime" />
         <item itemvalue="Application.NullPointerCaseStudy" />
         <item itemvalue="Application.Practice8" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.OOPMain" />
-        <item itemvalue="Application.LambdaMain" />
       </list>
     </recent_temporary>
   </component>
@@ -339,16 +346,8 @@
       <workItem from="1580909473152" duration="331000" />
       <workItem from="1580951603973" duration="46000" />
       <workItem from="1580995353071" duration="107000" />
-      <workItem from="1581037177391" duration="3135000" />
-      <workItem from="1581185321966" duration="43000" />
-      <workItem from="1581187039195" duration="969000" />
-    </task>
-    <task id="LOCAL-00052" summary="20.01.29) Delete test.md">
-      <created>1580279825478</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1580279825478</updated>
+      <workItem from="1581037177391" duration="3986000" />
+      <workItem from="1581124480930" duration="7681000" />
     </task>
     <task id="LOCAL-00053" summary="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md">
       <created>1580286235198</created>
@@ -686,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580909710117</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java.">
+      <created>1581040508506</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1581040508507</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,7 +713,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.01) Update StreamClassTest.java" />
     <MESSAGE value="20.02.01) Update OOPMain.java" />
     <MESSAGE value="20.02.01) Update 2020-02-01-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Update 2020-02-02-장기목표를 달성하는 법.md" />
@@ -732,7 +737,8 @@
     <MESSAGE value="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다." />
     <MESSAGE value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
     <MESSAGE value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
+    <MESSAGE value="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -783,37 +789,37 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581040496561">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581041877596">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581040496561" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581041877596" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="407" y="123" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581187232015">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581187232015" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580995457165" />
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581038298005">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581127227474">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298005" />
-    <state width="1803" height="248" key="GridCell.Tab.0.center" timestamp="1581038298002">
+    <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581127227474" />
+    <state width="877" height="248" key="GridCell.Tab.0.bottom" timestamp="1581129527587">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298002" />
-    <state width="1803" height="248" key="GridCell.Tab.0.left" timestamp="1581038298000">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527587" />
+    <state width="877" height="248" key="GridCell.Tab.0.center" timestamp="1581129527586">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298000" />
-    <state width="1803" height="248" key="GridCell.Tab.0.right" timestamp="1581038298004">
+    <state width="877" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
+    <state width="877" height="248" key="GridCell.Tab.0.left" timestamp="1581129527585">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1803" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581038298004" />
+    <state width="877" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527585" />
+    <state width="877" height="248" key="GridCell.Tab.0.right" timestamp="1581129527586">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="877" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -845,28 +851,28 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1580909712148">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581040511855">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580909712148" />
-    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1580535518433">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581040511855" />
+    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580535518433" />
+    <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581124890347" />
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579350610227">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1579350610227" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580900609247">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581129680575">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1580900609247" />
-    <state x="1190" y="243" width="522" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580535518480">
+    <state x="710" y="427" width="625" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581129680575" />
+    <state x="1190" y="243" width="536" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581124890404">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1190" y="243" width="522" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580535518480" />
+    <state x="1190" y="243" width="536" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581124890404" />
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog" timestamp="1580288885530">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -888,11 +894,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581187915287">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581124592468">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581187915287" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581037572080" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581124592468" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
