@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java.">
+      <change afterPath="$PROJECT_DIR$/TIL/Java/2020-02-09-Java - Lambda.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-05-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-08-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Lambda/LambdaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Lambda/LambdaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/Java/2020-02-01-Java - Lambda.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +64,14 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/CSstudying/DoitCh2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -105,7 +107,7 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Practice9Test.testIsPrime">
+  <component name="RunManager" selected="Application.LambdaMain">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSstudying.DoitCh2.Exercise2" />
       <module name="Writing" />
@@ -119,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullPointerCaseStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.NullPointerCaseStudy" />
+    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.Lambda.LambdaMain" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudying.*" />
+          <option name="PATTERN" value="JavaStudying.Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSstudying.OOPMain" />
+    <configuration name="NullPointerCaseStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudying.NullPointerCaseStudy" />
       <module name="Writing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSstudying.*" />
+          <option name="PATTERN" value="JavaStudying.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaMain" />
         <item itemvalue="JUnit.Practice9Test.testIsPrime" />
         <item itemvalue="Application.NullPointerCaseStudy" />
         <item itemvalue="Application.Practice8" />
         <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.OOPMain" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +349,11 @@
       <workItem from="1580951603973" duration="46000" />
       <workItem from="1580995353071" duration="107000" />
       <workItem from="1581037177391" duration="3986000" />
-      <workItem from="1581124480930" duration="7681000" />
+      <workItem from="1581124480930" duration="8191000" />
+      <workItem from="1581172988317" duration="817000" />
+      <workItem from="1581207956499" duration="29000" />
+      <workItem from="1581208142148" duration="18000" />
+      <workItem from="1581235813953" duration="4774000" />
     </task>
     <task id="LOCAL-00053" summary="20.01.29) Update 2020-01-19-Linux - ubuntu 사용법.md">
       <created>1580286235198</created>
@@ -751,11 +757,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1580524839712" />
-    <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1581037632955">
+    <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1581238615300">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579347220591" />
-    <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1581037632955" />
+    <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1581238615300" />
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580290069596">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -799,27 +805,27 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581127227474">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581208158109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581127227474" />
-    <state width="877" height="248" key="GridCell.Tab.0.bottom" timestamp="1581129527587">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581208158109" />
+    <state width="877" height="248" key="GridCell.Tab.0.bottom" timestamp="1581239280739">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="877" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527587" />
-    <state width="877" height="248" key="GridCell.Tab.0.center" timestamp="1581129527586">
+    <state width="877" height="248" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581239280739" />
+    <state width="877" height="248" key="GridCell.Tab.0.center" timestamp="1581239280736">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="877" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
-    <state width="877" height="248" key="GridCell.Tab.0.left" timestamp="1581129527585">
+    <state width="877" height="248" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581239280736" />
+    <state width="877" height="248" key="GridCell.Tab.0.left" timestamp="1581239280732">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="877" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527585" />
-    <state width="877" height="248" key="GridCell.Tab.0.right" timestamp="1581129527586">
+    <state width="877" height="248" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581239280732" />
+    <state width="877" height="248" key="GridCell.Tab.0.right" timestamp="1581239280737">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="877" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581129527586" />
+    <state width="877" height="248" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581239280737" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -846,11 +852,11 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580876705112" />
-    <state width="747" height="691" key="SwitcherDM" timestamp="1580539702730">
+    <state width="747" height="691" key="SwitcherDM" timestamp="1581238973594">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
-    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580539702730" />
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1581238973594" />
     <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581040511855">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -894,11 +900,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581124592468">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581236129674">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581124592468" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581236129674" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
