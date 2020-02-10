@@ -19,6 +19,7 @@ public class LambdaMain {
     }
 
     private static void printTest(Printable printable) {
+
         printable.print("string");
     }
 }
