@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/2020-02-10-목표관리는 TDD다.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/Linux/2020-02-03-Linux - ubuntu 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Linux/2020-02-11-Linux - ubuntu 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,21 +356,8 @@
       <workItem from="1581297129156" duration="9000" />
       <workItem from="1581297423095" duration="654000" />
       <workItem from="1581325658213" duration="3589000" />
-      <workItem from="1581338132614" duration="421000" />
-    </task>
-    <task id="LOCAL-00054" summary="20.01.29) Update 2020-01-29-Java - Input&amp;Output.md">
-      <created>1580290024788</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1580290024788</updated>
-    </task>
-    <task id="LOCAL-00055" summary="20.01.29) Update 2020-01-29-Linux - ubuntu 사용법.md">
-      <created>1580290098830</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1580290098830</updated>
+      <workItem from="1581338132614" duration="1258000" />
+      <workItem from="1581404001950" duration="2182000" />
     </task>
     <task id="LOCAL-00056" summary="20.01.29) Update 2020-01-25-Java - Enum.md">
       <created>1580290135736</created>
@@ -701,7 +688,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581329749111</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD.">
+      <created>1581339118340</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1581339118341</updated>
+    </task>
+    <task id="LOCAL-00104" summary="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD.">
+      <created>1581339315652</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1581339315652</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -722,7 +723,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.01) Update 2020-02-01-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Update 2020-02-02-장기목표를 달성하는 법.md" />
     <MESSAGE value="20.02.02) Update 2020-02-02-Java - Input&amp;Output.md" />
     <MESSAGE value="20.02.02) Update InputOutput package" />
@@ -747,7 +747,8 @@
     <MESSAGE value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
     <MESSAGE value="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java." />
     <MESSAGE value="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture." />
+    <MESSAGE value="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -798,21 +799,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581329748928">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581339315329">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581329748928" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581339315329" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581329769801">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581339393908">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581329769801" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581339393908" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581329770406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -860,11 +861,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1581238973594" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581329753813">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581339120006">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581329753813" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581339120006" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -903,11 +904,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581338298136">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581406440403">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581338298136" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581406440403" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

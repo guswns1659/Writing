@@ -41,3 +41,25 @@ Ctrl + Shift + F : 터미널내에 문자열검색
 Alt + 숫자 : 탭간에 이동
 Ctrl + PageUp/PageDown : 다음/이전 탭으로 이동
 
+## oh.my.zsh 테마 설정
+- cd ~
+- cd .oh-my-zsh/themes 
+- vim agnoster.zsh-theme 들어간 뒤 필요한 테마 설정
+
+### agnoster new line 
+
+```shell script
+prompt_end() {
+  if [[ -n $CURRENT_BG ]]; then
+      print -n "%{%k%F{$CURRENT_BG}%}$SEGMENT_SEPARATOR"
+  else
+      print -n "%{%k%}"
+  fi
+
+  print -n "%{%f%}"
+  CURRENT_BG='' 
+
+  #Adds the new line and ➜ as the start character.
+  printf "\n ➜";
+}
+```
