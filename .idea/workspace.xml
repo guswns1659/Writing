@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-12-책 정리 - 팀 개발을 위한 Git &amp; GitHub 시작하기.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-01-책 정리 - 팀 개발을 위한 Git &amp; GitHub 시작하기.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-08-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-12-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-02-01-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-02-14-책 리뷰 - 팀개발을 위한 Git &amp; GitHub 시작하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-12-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-12-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/CSstudying/DoitCh2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeSquadC.S" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -361,14 +360,12 @@
       <workItem from="1581338132614" duration="1258000" />
       <workItem from="1581404001950" duration="2251000" />
       <workItem from="1581421795946" duration="1243000" />
-      <workItem from="1581481971411" duration="2688000" />
-    </task>
-    <task id="LOCAL-00057" summary="20.01.29) Update 2020-01-29-Java - Input&amp;Output.md">
-      <created>1580290372582</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1580290372582</updated>
+      <workItem from="1581481971411" duration="3478000" />
+      <workItem from="1581513401498" duration="31000" />
+      <workItem from="1581513705896" duration="487000" />
+      <workItem from="1581559754644" duration="1981000" />
+      <workItem from="1581660119219" duration="1116000" />
+      <workItem from="1581673431299" duration="238000" />
     </task>
     <task id="LOCAL-00058" summary="20.01.29) Update 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580290763964</created>
@@ -706,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581413918539</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue">
+      <created>1581485297398</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1581485297399</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,7 +731,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.02) Update 2020-02-02-Java - Input&amp;Output.md" />
     <MESSAGE value="20.02.02) Update InputOutput package" />
     <MESSAGE value="20.02.02) Update 2020-02-02-Java - Stream.md" />
     <MESSAGE value="20.02.02) Create 2020-02-02-2020년 도서목록.md" />
@@ -752,7 +755,8 @@
     <MESSAGE value="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture." />
     <MESSAGE value="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD." />
     <MESSAGE value="20.02.11) Update 2020-02-11-Linux - ubuntu 사용법.md&#10;&#10;Adding how to change agnoster new line theme." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.11) Update 2020-02-11-Linux - ubuntu 사용법.md&#10;&#10;Adding how to change agnoster new line theme." />
+    <MESSAGE value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -803,21 +807,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581413918293">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581501722937">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581413918293" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581501722937" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581424930723">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1581673693501">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581424930723" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581673693501" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581329770406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -865,11 +869,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1581238973594" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581413921055">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581485301909">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581413921055" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581485301909" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -908,11 +912,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581482316159">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581673822606">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581482316159" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581673822606" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
