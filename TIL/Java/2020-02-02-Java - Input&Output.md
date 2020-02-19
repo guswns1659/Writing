@@ -78,7 +78,7 @@ public class BytesFileCopier {
             while (true) {
                 len = in.read(buf);
                 if(len == -1) {
-                    break;
+                    break;은
                 }
                 out.write(buf, 0, len);
             }
@@ -91,7 +91,7 @@ public class BytesFileCopier {
 ```
 
 ## 필터스트림
-필터스트림은 이전에 본 FileInputStream과는 다르게 기능을 보조하는 성격의 스트림이다. 우리는 지금까지 4byte 단위로 파일을 읽을 수 있지만 4byte인 int형 자료형을 사용하진 못한다. 필터 스트림인 4바이트를 읽더라도 int형으로 바꿔주는 역할을 한다. 말그대로 입력하고 출력하는 데이터를 필터로 걸러낸다.
+필터스트림은 이전에 본 FileInputStream과는 다르게 기능을 보조하는 성격의 스트림이다. 우리는 지금까지 4byte 단위로 파일을 읽을 수 있지만 4byte인 int형 자료형을 사용하진 못한다. 필터 스트림 4바이트를 읽더라도 int형으로 바꿔주는 역할을 한다. 말그대로 입력하고 출력하는 데이터를 필터로 걸러낸다.
 
 ```java
 public class DataFilterOuputStream {
