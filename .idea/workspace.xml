@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue">
-      <change afterPath="$PROJECT_DIR$/도서/2020-02-18-2020년 도서목록.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.20) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/Java/2020-02-02-Java - Input&amp;Output.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/Java/2020-02-02-Java - Input&amp;Output.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/기타/2020-02-01-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/기타/2020-02-19-IntelliJ 단축키 및 사용법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/2020-02-02-2020년 도서목록.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-12-책 정리 - Do it 알고리즘 입문.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-15-책 정리 - Do it 알고리즘 입문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/기타/2020-02-19-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/기타/2020-02-19-IntelliJ 단축키 및 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -376,14 +372,9 @@
       <workItem from="1581817299732" duration="24000" />
       <workItem from="1581988747277" duration="3970000" />
       <workItem from="1582074132439" duration="551000" />
-      <workItem from="1582078146478" duration="267000" />
-    </task>
-    <task id="LOCAL-00058" summary="20.01.29) Update 2020-01-29-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580290763964</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1580290763964</updated>
+      <workItem from="1582078146478" duration="940000" />
+      <workItem from="1582096751608" duration="426000" />
+      <workItem from="1582162842764" duration="290000" />
     </task>
     <task id="LOCAL-00059" summary="20.01.30) Update Ch.4 of 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580346728721</created>
@@ -721,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581485297399</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다.">
+      <created>1582078474690</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1582078474691</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -742,7 +740,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.02) Update InputOutput package" />
     <MESSAGE value="20.02.02) Update 2020-02-02-Java - Stream.md" />
     <MESSAGE value="20.02.02) Create 2020-02-02-2020년 도서목록.md" />
     <MESSAGE value="20.02.02) Complete 2020-02-02-책 정리 - 2독 객체지향의 사실과 오해.md" />
@@ -767,7 +764,8 @@
     <MESSAGE value="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD." />
     <MESSAGE value="20.02.11) Update 2020-02-11-Linux - ubuntu 사용법.md&#10;&#10;Adding how to change agnoster new line theme." />
     <MESSAGE value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
+    <MESSAGE value="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -818,21 +816,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1581501722937">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582162981658">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581501722937" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582162981658" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582074680026">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582086217320">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582074680026" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582086217320" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581329770406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -870,21 +868,21 @@
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1582078277930">
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1582163131790">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582078277930" />
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582163131790" />
     <state width="747" height="691" key="SwitcherDM" timestamp="1581238973594">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1581238973594" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1581485301909">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582078477959">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581485301909" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582078477959" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -923,11 +921,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1581989843405">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1582163085039">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581989843405" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582163085039" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
