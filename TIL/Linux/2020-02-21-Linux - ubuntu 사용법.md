@@ -18,6 +18,29 @@
 ## java 설치 및 JAVA_HOME, PATH 지정
 [영상 참고: 5분 짜리 영상](https://www.theserverside.com/video/5-steps-for-an-easy-JDK-13-install-on-Ubuntu) 
 
+- 운영체제에 맞게 jdk8 tar.gz파일을 다운받는다. [여기서 다운](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- 압축 파일을 푼 후 푼 압축 파일을 /opt로 이동한다. sudo mv jdk8~~ /opt
+- 아래처럼 자바 환경변수를 설정할 shell 파일을 만들고 환경변수 명령을 입력한다 
+
+```shell script
+jdk13@ubuntu:$ sudo tee /etc/profile.d/jdk8env.sh <<EOF
+export JAVA_HOME=/opt/jdk-8
+export PATH=\$PATH\$JAVA_HOME/bin
+EOF
+```
+
+- source 명령으로 sh파일을 실행한다. 
+
+```shell script
+$ source /etc/profile.d/jdk8env.sh
+```
+
+- 잘 지정됐는지 확인한다. 
+
+```shell script
+echo $JAVA_HOME
+```
+
 ## file 찾는 방법
 - sudo apt-get install locate
 - sudo updatedb
