@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java.">
+      <change afterPath="$PROJECT_DIR$/철학/2020-02-15-철학 - Feminism 2-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/철학/2020-02-22-철학 - Feminism 2-4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -374,7 +376,15 @@
       <workItem from="1582078146478" duration="940000" />
       <workItem from="1582096751608" duration="426000" />
       <workItem from="1582162842764" duration="725000" />
-      <workItem from="1582269553304" duration="1155000" />
+      <workItem from="1582269553304" duration="475000" />
+      <workItem from="1582343514412" duration="234000" />
+    </task>
+    <task id="LOCAL-00060" summary="20.01.31) Update 2020-01-29-Java - Input&amp;Output.md">
+      <created>1580431524649</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1580431524650</updated>
     </task>
     <task id="LOCAL-00061" summary="20.01.31) 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580432146409</created>
@@ -712,14 +722,7 @@
       <option name="project" value="LOCAL" />
       <updated>1582163316766</updated>
     </task>
-    <task id="LOCAL-00109" summary="20.02.21) 우분투에서 터미널에서 자바 환경변수 설정하는 법. &#10;&#10;spring-petclinic 프로젝트 실행하려니 jdk8만 실행이 된다길래 자바 환경변수를 13에서 8로 변경.">
-      <created>1582270096027</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1582270096028</updated>
-    </task>
-    <option name="localTasksCounter" value="110" />
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -740,6 +743,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="20.02.02) Create 2020-02-02-2020년 도서목록.md" />
     <MESSAGE value="20.02.02) Complete 2020-02-02-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Create 2019-05-11-책 정리 - 여덟단어.md" />
     <MESSAGE value="20.02.03) Practice Practice1to3.java" />
@@ -764,8 +768,7 @@
     <MESSAGE value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
     <MESSAGE value="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다." />
     <MESSAGE value="20.02.20) vim과 IDE 단축키 겹칠 때 조절하는 법 추가" />
-    <MESSAGE value="20.02.21) 우분투에서 터미널에서 자바 환경변수 설정하는 법. &#10;&#10;spring-petclinic 프로젝트 실행하려니 jdk8만 실행이 된다길래 자바 환경변수를 13에서 8로 변경." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.21) 우분투에서 터미널에서 자바 환경변수 설정하는 법. &#10;&#10;spring-petclinic 프로젝트 실행하려니 jdk8만 실행이 된다길래 자바 환경변수를 13에서 8로 변경." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.20) vim과 IDE 단축키 겹칠 때 조절하는 법 추가" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -774,9 +777,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="0" width="588" height="680" key="#Main/0.0.1280.680@0.0.1280.680" timestamp="1579347207417" />
-    <state x="125" y="214" width="800" height="677" key="#Plugins" timestamp="1581750103913">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="40" y="121" width="594" height="478" key="#Plugins" timestamp="1582308201860">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="40" y="121" width="594" height="478" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1582308201860" />
     <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1581750103913" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1581326778154">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -816,21 +820,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582348557805">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582163316337">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582348557805" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582163316337" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582271664118">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582086217320">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582271664118" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582086217320" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581329770406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -878,11 +882,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1581238973594" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582270098007">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582163320687">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582270098007" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582163320687" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -921,10 +925,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1582163085039">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582308171640">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489852731" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
     <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582163085039" />
   </component>
   <component name="XDebuggerManager">
