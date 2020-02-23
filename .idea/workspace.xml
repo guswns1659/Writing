@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지.">
-      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/객체지향의 사실과 오해/2020-02-22-책 정리 - 그림으로 배우는 Http &amp; Network basic.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/객체지향의 사실과 오해/2020-02-18-책 정리 - 그림으로 배우는 Http &amp; Network basic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/2020-02-18-2020년 도서목록.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/2020-02-23-2020년 도서목록.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-02-22-책 리뷰 - 그림으로 배우는 Http &amp; Network basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 리뷰/2020년/2020-02-22-책 리뷰 - 그림으로 배우는 Http &amp; Network basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,14 +378,8 @@
       <workItem from="1582162842764" duration="725000" />
       <workItem from="1582269553304" duration="475000" />
       <workItem from="1582343514412" duration="234000" />
-      <workItem from="1582349084913" duration="7878000" />
-    </task>
-    <task id="LOCAL-00060" summary="20.01.31) Update 2020-01-29-Java - Input&amp;Output.md">
-      <created>1580431524649</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1580431524650</updated>
+      <workItem from="1582349084913" duration="8827000" />
+      <workItem from="1582422259986" duration="333000" />
     </task>
     <task id="LOCAL-00061" summary="20.01.31) 2020-01-30-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580432146409</created>
@@ -723,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582163316766</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지.">
+      <created>1582358311153</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1582358311154</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -744,7 +745,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.02) Create 2020-02-02-2020년 도서목록.md" />
     <MESSAGE value="20.02.02) Complete 2020-02-02-책 정리 - 2독 객체지향의 사실과 오해.md" />
     <MESSAGE value="20.02.02) Create 2019-05-11-책 정리 - 여덟단어.md" />
     <MESSAGE value="20.02.03) Practice Practice1to3.java" />
@@ -769,7 +769,8 @@
     <MESSAGE value="20.02.12) Update 2020-02-12-책 정리 - Do it 알고리즘 입문.md&#10;&#10;Adding studying log of Do it Chap.4. Stack and Queue" />
     <MESSAGE value="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다." />
     <MESSAGE value="20.02.20) vim과 IDE 단축키 겹칠 때 조절하는 법 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.20) vim과 IDE 단축키 겹칠 때 조절하는 법 추가" />
+    <MESSAGE value="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -821,21 +822,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582358280607">
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582422614956">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582358280607" />
+    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582422614956" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582086217320">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582360507869">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582086217320" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582360507869" />
     <state width="1803" height="248" key="GridCell.Tab.0.bottom" timestamp="1581329770406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -883,11 +884,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1582353995118" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582348829303">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582358314480">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582348829303" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582358314480" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
