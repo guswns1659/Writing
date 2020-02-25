@@ -10,6 +10,13 @@
 - Select Ctrl + Shift here
 [출처 : https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language](https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language)
 
+### Uim 설정 하는 법 
+한글 밀리는 거 해결하려고 이것저것 설치하다가 갑자기 한글 자소 구분이 안되서 결국 UIM으로 설치 완료.. 
+나중에 정리할 예정 ! 아래 출처
+[http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html](http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html)
+
+
+
 ## 마우스 오른쪽 클릭 안될 때 
 - 우분투의 기본 설정은 터치 패드에 두 손가락으로 클릭하면 된다. 
 - 오른쪽 클릭이 작동하기 위해선 software center에서 GNOME Tweaks를 설치한다. 
