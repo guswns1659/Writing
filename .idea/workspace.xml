@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-26-책 정리 - 자바 ORM 표준 JPA 프로그래밍.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-26-책 정리 - 자바 ORM 표준 JPA 프로그래밍.md" beforeDir="false" afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-26-책 정리 - 자바 ORM 표준 JPA 프로그래밍.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ㅗ" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -384,14 +389,7 @@
       <workItem from="1582592750679" duration="816000" />
       <workItem from="1582594539398" duration="2455000" />
       <workItem from="1582684070003" duration="1248000" />
-      <workItem from="1582704753538" duration="377000" />
-    </task>
-    <task id="LOCAL-00064" summary="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580461184362</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1580461184362</updated>
+      <workItem from="1582704753538" duration="2068000" />
     </task>
     <task id="LOCAL-00065" summary="20.01.31) Update 2020-01-31-Linux - 양주종 강의.md">
       <created>1580462419815</created>
@@ -729,7 +727,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582688549713</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="20.02.26) 자바 ORM 표준 JPA 프로그래밍 정리 양식 생성&#10;&#10;질문 게시판 구현 Step3 미션 중 ORM과 데이터베이스 지식이 중요해서 한번 ORM 개념 익히려고 보는 중.">
+      <created>1582705186618</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705186618</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,7 +755,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.03) Update 2020-02-01-IntelliJ 단축키 및 사용법.md" />
     <MESSAGE value="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md" />
     <MESSAGE value="20.02.04) Update .gitignore" />
     <MESSAGE value="20.02.04) Delete C.S기초 Directory" />
@@ -775,7 +779,8 @@
     <MESSAGE value="20.02.23) 그림 HTTP, 2020년 도서 목록에 추가 &#10;&#10;현재 3권! 전부 개발책이네!!" />
     <MESSAGE value="20.02.25) 김종민 개구리 책 Chap.1 ~ 2 책리뷰 및 책정리  &#10;&#10;객체지향의 4대 원칙, 객체지향의 설계 5대 원칙(SOLID), 디자인 패턴에 대해 이야기 하는 책. 스프링에 대한 원리를 이해할 수 있기를 기대한다." />
     <MESSAGE value="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정." />
+    <MESSAGE value="20.02.26) 자바 ORM 표준 JPA 프로그래밍 정리 양식 생성&#10;&#10;질문 게시판 구현 Step3 미션 중 ORM과 데이터베이스 지식이 중요해서 한번 ORM 개념 익히려고 보는 중." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.26) 자바 ORM 표준 JPA 프로그래밍 정리 양식 생성&#10;&#10;질문 게시판 구현 Step3 미션 중 ORM과 데이터베이스 지식이 중요해서 한번 ORM 개념 익히려고 보는 중." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -827,11 +832,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1582688549448">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1582707003063">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582688549448" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582707003063" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -889,11 +894,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1582594592109" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582688551981">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582705188941">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582688551981" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582705188941" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -932,11 +937,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1582684151225">
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup" timestamp="1582705952198">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582684151225" />
+    <state x="506" y="29" width="973" height="1050" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582705952198" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
