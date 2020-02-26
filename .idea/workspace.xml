@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/생각정리/2020년/글또4기/2020-02-25-한번에 많이보단 매일 조금씩.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-02-26-책 정리 - 자바 ORM 표준 JPA 프로그래밍.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -383,14 +383,8 @@
       <workItem from="1582592530905" duration="182000" />
       <workItem from="1582592750679" duration="816000" />
       <workItem from="1582594539398" duration="2455000" />
-      <workItem from="1582684070003" duration="1142000" />
-    </task>
-    <task id="LOCAL-00063" summary="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580432200272</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1580432200273</updated>
+      <workItem from="1582684070003" duration="1248000" />
+      <workItem from="1582704753538" duration="377000" />
     </task>
     <task id="LOCAL-00064" summary="20.01.31) 2020-01-31-책 정리 - 2독 객체지향의 사실과 오해.md">
       <created>1580461184362</created>
@@ -728,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582596328450</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정.">
+      <created>1582688549712</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1582688549713</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +750,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.03) Practice Practice1to3.java" />
     <MESSAGE value="20.02.03) Update 2020-02-01-IntelliJ 단축키 및 사용법.md" />
     <MESSAGE value="20.02.03) Update 2020-02-03-Linux - ubuntu 사용법.md" />
     <MESSAGE value="20.02.04) Update .gitignore" />
@@ -774,7 +774,8 @@
     <MESSAGE value="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지." />
     <MESSAGE value="20.02.23) 그림 HTTP, 2020년 도서 목록에 추가 &#10;&#10;현재 3권! 전부 개발책이네!!" />
     <MESSAGE value="20.02.25) 김종민 개구리 책 Chap.1 ~ 2 책리뷰 및 책정리  &#10;&#10;객체지향의 4대 원칙, 객체지향의 설계 5대 원칙(SOLID), 디자인 패턴에 대해 이야기 하는 책. 스프링에 대한 원리를 이해할 수 있기를 기대한다." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.25) 김종민 개구리 책 Chap.1 ~ 2 책리뷰 및 책정리  &#10;&#10;객체지향의 4대 원칙, 객체지향의 설계 5대 원칙(SOLID), 디자인 패턴에 대해 이야기 하는 책. 스프링에 대한 원리를 이해할 수 있기를 기대한다." />
+    <MESSAGE value="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -826,21 +827,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2" timestamp="1582596328244">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1582688549448">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="951" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582596328244" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582688549448" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582597936552">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1582688570962">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582597936552" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582688570962" />
     <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1582537373522">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -888,11 +889,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1582594592109" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582596333167">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1582688551981">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582596333167" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582688551981" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
