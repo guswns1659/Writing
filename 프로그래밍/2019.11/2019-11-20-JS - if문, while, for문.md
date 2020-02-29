@@ -13,7 +13,7 @@ if(조건) {
 
 } else {
 
-};
+}
 ```
 
 ## while,  for문 
@@ -29,11 +29,11 @@ var i = 0;
 while (조건) {
 	// code 
 	i++;
-};
+}
 
 for(var i = 0; i < n; i++){
 	// code
-};
+}
 ```
 
 ### 반복문 속 break, continue

@@ -19,7 +19,7 @@ data.sort(function(a, b){
 
 return  b.price  -  a.price;
 
-})
+});
 
 for(let  i  =0; i<limit; i++){
 
