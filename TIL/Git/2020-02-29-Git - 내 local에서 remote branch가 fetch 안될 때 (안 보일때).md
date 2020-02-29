@@ -6,10 +6,13 @@ fetch란 원격저장소의 변경사항을 새로고침해서 로컬저장소�
 
 ## 해결방법 : git config를 바꾼다.
 
-[git gloga 사진] 
-push가 정상적으로 됐다면 사진처럼 origin/step3가 표시되어야 한다. 하지만 종종 origin 브랜치가 안뜨는 경우가 있다. 이 땐 현재 git 저장소로 가서 `vim .git/config`를 입력한다. 그럼 아래 사진 처럼 config가 보인다. 
+push가 정상적으로 됐다면 사진처럼 origin/step3가 표시되어야 한다. 하지만 종종 origin 브랜치가 안뜨는 경우가 있다. <br>
+[##_Image|kage@vlwYO/btqCpQflGf8/4SKfzMXNwRSJ2M1nZMkKc1/img.png|alignCenter|width="100%"|_##] <br>
+origin 브랜치가 안 뜰 땐 현재 git 저장소로 가서 `vim .git/config`를 입력한다. 그럼 아래 사진 처럼 config가 보인다. 
 
-[git config 사진] 
+[##_Image|kage@ctblYm/btqCly03fea/cUgtYgtj4mkkkKEXeDjiJk/img.png|alignCenter|width="100%"|_##] <br>
+
+## 설정 변경 방법 
 
 [remote "origin"]
     url = …
@@ -21,7 +24,7 @@ push가 정상적으로 됐다면 사진처럼 origin/step3가 표시되어야 �
     url = …
     fetch = +refs/heads/\*:refs/remotes/origin/\* <br>
 
-아래 명령으로 반영할 origin 브랜치를 fetch한다. <br>
+**설정 완료 한 후 명령으로 반영할 origin 브랜치를 fetch한다.** <br>
 
 git fetch origin step2 // stpe2 브랜치만 fetch하겠다는 의미. 
 
