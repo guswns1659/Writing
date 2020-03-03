@@ -413,14 +413,7 @@
       <workItem from="1583153029447" duration="72000" />
       <workItem from="1583208116792" duration="677000" />
       <workItem from="1583233159751" duration="1092000" />
-      <workItem from="1583240575677" duration="275000" />
-    </task>
-    <task id="LOCAL-00077" summary="20.02.01) Update 2020-02-01-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580556540580</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1580556540580</updated>
+      <workItem from="1583240575677" duration="1428000" />
     </task>
     <task id="LOCAL-00078" summary="20.02.02) Update 2020-02-02-장기목표를 달성하는 법.md">
       <created>1580604114277</created>
@@ -758,7 +751,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583208178128</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="20.03.03) IntelliJ - 인텔리J에서 자동 줄바꿈(Soft Wraps)을 설정하고 싶을 때 생성">
+      <created>1583240920579</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1583240920581</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -779,7 +779,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.05) Create 2020-02-05-마음은 아는데 몸이 안 움직일 때.md&#10;&#10;마음에서는 목표와 관련된 일을 하길 바라지만 몸은 다른 행동을 하는 내 모습을 보며 적은 글입니다." />
     <MESSAGE value="20.02.05) Update 2020-02-05-Java - 예외처리.md&#10;&#10;글의 제목 변경." />
     <MESSAGE value="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java." />
     <MESSAGE value="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture." />
@@ -804,7 +803,8 @@
     <MESSAGE value="20.02.29) 2월 29일 TIL 추가" />
     <MESSAGE value="20.03.01) 3월 1일 TIL 추가" />
     <MESSAGE value="20.03.02) 3월 2일 TIL 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.02) 3월 2일 TIL 추가" />
+    <MESSAGE value="20.03.03) IntelliJ - 인텔리J에서 자동 줄바꿈(Soft Wraps)을 설정하고 싶을 때 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.03) IntelliJ - 인텔리J에서 자동 줄바꿈(Soft Wraps)을 설정하고 싶을 때 생성" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -856,11 +856,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1583240912225">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1583242234834">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583240912225" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583242234834" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -922,11 +922,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1583130365531" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1583208180887">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1583240922801">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583208180887" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583240922801" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -965,11 +965,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1583240840174">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1583240981895">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583240840174" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583240981895" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
