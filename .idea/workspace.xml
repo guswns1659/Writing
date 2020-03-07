@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Code/CSstudying/DoitCh2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TIL" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,11 +100,11 @@
       <recent name="$PROJECT_DIR$/TIL/기타" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIL" />
       <recent name="$PROJECT_DIR$/도서/책 리뷰/2020년" />
       <recent name="$PROJECT_DIR$/TIL/기타" />
       <recent name="$PROJECT_DIR$/Code/JavaStudying/InputOutput2" />
       <recent name="$PROJECT_DIR$/Code/JavaStudying/InputOuput2" />
-      <recent name="C:\Users\손현준\Documents\Writing\TIL\2020.01\Philosophy" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="TPC2" />
@@ -417,13 +416,9 @@
       <workItem from="1583240575677" duration="2082000" />
       <workItem from="1583294925823" duration="20000" />
       <workItem from="1583323372240" duration="1751000" />
-    </task>
-    <task id="LOCAL-00079" summary="20.02.02) Update 2020-02-02-Java - Input&amp;Output.md">
-      <created>1580622335136</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1580622335136</updated>
+      <workItem from="1583328749172" duration="353000" />
+      <workItem from="1583416093681" duration="300000" />
+      <workItem from="1583552406890" duration="536000" />
     </task>
     <task id="LOCAL-00080" summary="20.02.02) Update InputOutput package">
       <created>1580625203659</created>
@@ -761,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583242260177</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="20.03.03) TIL">
+      <created>1583328775268</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1583328775269</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -782,7 +784,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.07) Create 2020-02-07-Java - Optional.md&#10;&#10;Studying about Optional syntax in Java." />
     <MESSAGE value="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture." />
     <MESSAGE value="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD." />
     <MESSAGE value="20.02.11) Update 2020-02-11-Linux - ubuntu 사용법.md&#10;&#10;Adding how to change agnoster new line theme." />
@@ -807,7 +808,8 @@
     <MESSAGE value="20.03.02) 3월 2일 TIL 추가" />
     <MESSAGE value="20.03.03) IntelliJ - 인텔리J에서 자동 줄바꿈(Soft Wraps)을 설정하고 싶을 때 생성" />
     <MESSAGE value="20.03.03) TIL 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.03) TIL 추가" />
+    <MESSAGE value="20.03.03) TIL" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.03) TIL" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -859,11 +861,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1583328765737">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1583552948879">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583328765737" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583552948879" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -925,11 +927,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1583130365531" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1583242263964">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1583328778670">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583242263964" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583328778670" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1581124890347">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
