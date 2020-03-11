@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020-03-11-TIL.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-03-11-TIL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Speakable.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +35,8 @@
       <list>
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -111,7 +114,7 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Driver">
     <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="index.Algorithm" />
       <module name="Writing" />
@@ -121,6 +124,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="Writing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,19 +151,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Writing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NullPointerCaseStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudying.NullPointerCaseStudy" />
-      <module name="Writing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudying.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Algorithm" />
         <item itemvalue="Application.LambdaMain" />
         <item itemvalue="JUnit.Practice9Test.testIsPrime" />
-        <item itemvalue="Application.NullPointerCaseStudy" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +427,9 @@
       <workItem from="1583813121138" duration="79000" />
       <workItem from="1583887430993" duration="553000" />
       <workItem from="1583895546179" duration="111000" />
-      <workItem from="1583905475999" duration="313000" />
+      <workItem from="1583905475999" duration="1359000" />
+      <workItem from="1583929839822" duration="740000" />
+      <workItem from="1583938536686" duration="620000" />
     </task>
     <task id="LOCAL-00082" summary="20.02.02) Update 2020-02-02-Java - Stream.md">
       <created>1580637011021</created>
@@ -844,10 +843,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1582864719450" />
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582945650806">
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1583930235146">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1582945650806" />
+    <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583930235146" />
     <state x="726" y="329" width="524" height="446" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581037889952">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -861,10 +860,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="690" y="468" width="747" height="193" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580876713604" />
-    <state x="663" y="408" width="660" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580282124882">
+    <state x="663" y="408" width="660" height="349" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583929863712">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="663" y="408" width="660" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1580282124882" />
+    <state x="663" y="408" width="660" height="349" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1583929863712" />
     <state x="800" y="421" width="650" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580876563691">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -892,22 +891,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="790" y="366" key="GrepConsoleSound/67.27.1853.1053@67.27.1853.1053" timestamp="1582946903407" />
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1583326434807">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1583930580437">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583326434807" />
-    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1583326434806">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583930580437" />
+    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1583930580436">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583326434806" />
-    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1583326434805">
+    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583930580436" />
+    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1583930580435">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583326434805" />
-    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1583326434806">
+    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583930580435" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1583930580436">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583326434806" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583930580436" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -934,11 +933,11 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583233625978" />
-    <state width="747" height="691" key="SwitcherDM" timestamp="1583666035892">
+    <state width="747" height="691" key="SwitcherDM" timestamp="1583938549511">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
-    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1583666035892" />
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1583938549511" />
     <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1583669700775">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -974,19 +973,20 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="600" height="424" key="javadoc.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580538800527" />
-    <state x="37" y="0" key="new project wizard" timestamp="1579224314566">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="121" y="27" width="1544" height="954" key="new project wizard" timestamp="1583930577106">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579224314566" />
+    <state x="121" y="27" width="1544" height="954" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583930577106" />
     <state x="1170" y="360" key="save.file.as.template.dialog" timestamp="1579354585804">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1583803416086">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1583930250132">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583803416086" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583930250132" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
