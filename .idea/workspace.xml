@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -427,6 +428,9 @@
       <workItem from="1583739991213" duration="609000" />
       <workItem from="1583803388748" duration="1712000" />
       <workItem from="1583813121138" duration="79000" />
+      <workItem from="1583887430993" duration="553000" />
+      <workItem from="1583895546179" duration="111000" />
+      <workItem from="1583905475999" duration="313000" />
     </task>
     <task id="LOCAL-00082" summary="20.02.02) Update 2020-02-02-Java - Stream.md">
       <created>1580637011021</created>
@@ -879,11 +883,11 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1583813199207">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1583895654795">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583813199207" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583895654795" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
