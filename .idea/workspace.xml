@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020-03-14-TIL.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-03-14-TIL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-02-10-목표관리는 TDD처럼.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-03-15-목표관리는 TDD처럼.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-03-15-목표관리는 TDD처럼.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-03-15-목표관리는 TDD처럼.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,14 +432,7 @@
       <workItem from="1584183493627" duration="110000" />
       <workItem from="1584187121275" duration="34000" />
       <workItem from="1584199381214" duration="174000" />
-      <workItem from="1584237603743" duration="3189000" />
-    </task>
-    <task id="LOCAL-00084" summary="20.02.02) Complete 2020-02-02-책 정리 - 2독 객체지향의 사실과 오해.md">
-      <created>1580638999237</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1580638999237</updated>
+      <workItem from="1584237603743" duration="4015000" />
     </task>
     <task id="LOCAL-00085" summary="20.02.02) Create 2019-05-11-책 정리 - 여덟단어.md">
       <created>1580648257237</created>
@@ -778,7 +770,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584199481373</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="20.03.15) '목표관리는 TDD처럼' 글 완성&#10;&#10;글은 쓰고 싶을 때 써야 잘 써진다. 이 마음이 갈대같아서 금방 사라진다.">
+      <created>1584240862240</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1584240862241</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -799,7 +798,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.19) IntelliJ에서 마크다운 preview 깨질 때 해결법 추가&#10;&#10;CSS 문법을 적용해야 한다." />
     <MESSAGE value="20.02.20) vim과 IDE 단축키 겹칠 때 조절하는 법 추가" />
     <MESSAGE value="20.02.22) 그림으로 배우는 HTTP &amp; Network basic 정리 &#10;&#10;2독하며 중요 개념만 정리. 어려운 개념은 이런 개념이 있구나 하며 넘어감. 추후에 만나겠지." />
     <MESSAGE value="20.02.23) 그림 HTTP, 2020년 도서 목록에 추가 &#10;&#10;현재 3권! 전부 개발책이네!!" />
@@ -824,7 +822,8 @@
     <MESSAGE value="20.03.08) TIL" />
     <MESSAGE value="20.03.14) 페미니즘 3-1 강의 정리 &#10;&#10;존 스튜어트 밀의 '여성의 종속' 시작. &#10;공리주의에 대한 이해." />
     <MESSAGE value="20.03.14) TIL" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.14) TIL" />
+    <MESSAGE value="20.03.15) '목표관리는 TDD처럼' 글 완성&#10;&#10;글은 쓰고 싶을 때 써야 잘 써진다. 이 마음이 갈대같아서 금방 사라진다." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.15) '목표관리는 TDD처럼' 글 완성&#10;&#10;글은 쓰고 싶을 때 써야 잘 써진다. 이 마음이 갈대같아서 금방 사라진다." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -876,41 +875,41 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584199481070">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584240862038">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584199481070" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584240862038" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584187152999">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584246458589">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584187152999" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584246458589" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="790" y="366" key="GrepConsoleSound/67.27.1853.1053@67.27.1853.1053" timestamp="1582946903407" />
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1584239799408">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1584246459289">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584239799408" />
-    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1584239799407">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459289" />
+    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1584246459286">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584239799407" />
-    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1584239799407">
+    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459286" />
+    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1584246459285">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584239799407" />
-    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1584239799408">
+    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459284" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1584246459287">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584239799408" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459287" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -942,11 +941,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584199483651">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584240864715">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584199483651" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584240864715" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
