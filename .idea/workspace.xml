@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIL/2020-03-17-TIL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/생각정리/2020년/2020-03-17-꾸준함을 얻기 위해선.md" beforeDir="false" afterPath="$PROJECT_DIR$/생각정리/2020년/2020-03-17-꾸준함을 얻기 위해선.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +32,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,7 +68,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/생각정리/2020년/글또4기" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -112,7 +112,7 @@
       <recent name="TPC2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddTest.add">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="index.Algorithm" />
       <module name="Writing" />
@@ -212,9 +212,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AddTest.add" />
         <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Algorithm" />
         <item itemvalue="Application.LambdaMain" />
       </list>
@@ -436,14 +436,10 @@
       <workItem from="1584283094923" duration="419000" />
       <workItem from="1584319957244" duration="946000" />
       <workItem from="1584368394365" duration="2560000" />
-      <workItem from="1584405415715" duration="570000" />
-    </task>
-    <task id="LOCAL-00089" summary="20.02.04) Update .gitignore">
-      <created>1580783421647</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1580783421648</updated>
+      <workItem from="1584405415715" duration="1419000" />
+      <workItem from="1584439717555" duration="13000" />
+      <workItem from="1584446317147" duration="369000" />
+      <workItem from="1584451399753" duration="233000" />
     </task>
     <task id="LOCAL-00090" summary="20.02.04) Delete C.S기초 Directory">
       <created>1580792454840</created>
@@ -781,7 +777,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584405802087</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정.&#10;- 맞춤법 수정.">
+      <created>1584406042383</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1584406042383</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,7 +805,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정." />
     <MESSAGE value="20.02.26) 자바 ORM 표준 JPA 프로그래밍 정리 양식 생성&#10;&#10;질문 게시판 구현 Step3 미션 중 ORM과 데이터베이스 지식이 중요해서 한번 ORM 개념 익히려고 보는 중." />
     <MESSAGE value="20.02.26) 자바 ORM 표준 JPA 프로그래밍 1장 간략 정리&#10;&#10;생각보다 수준이 높아서 JPA와 ORM이 무엇인가에 대해 이해하고, 왜 JPA가 좋은 지에 대해 살펴본 수준." />
     <MESSAGE value="20.02.27) 김종민 개구리 책 ~p.82 정리&#10;&#10;스프링보단 객체지향에 대한 올바른 개념을 배우는 중. 이전 객체지향의 사실과 오해를 읽어서 이해가 잘된다." />
@@ -827,7 +829,8 @@
     <MESSAGE value="20.03.16) '왜 하고 싶은가에 대해 확신하지 못할 때' 원고 작성.&#10;&#10;- 하루 정리하면서 문득 요즘 열정이 사그라든 이유를 생각하다 적어본다.. 하루정리 하길 잘했다." />
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 원고 작성&#10;&#10;- 우기부기님의 영상을 본 후, 느낀점을 기록한다." />
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정." />
+    <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정.&#10;- 맞춤법 수정." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정.&#10;- 맞춤법 수정." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -879,41 +882,41 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584405801716">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584406042210">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584405801716" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584406042210" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584322521637">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584446685232">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584322521637" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584446685232" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="790" y="366" key="GrepConsoleSound/67.27.1853.1053@67.27.1853.1053" timestamp="1582946903407" />
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1584246459289">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom" timestamp="1584446685744">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459289" />
-    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1584246459286">
+    <state width="1793" height="243" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584446685744" />
+    <state width="1793" height="243" key="GridCell.Tab.0.center" timestamp="1584446685739">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459286" />
-    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1584246459285">
+    <state width="1793" height="243" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584446685739" />
+    <state width="1793" height="243" key="GridCell.Tab.0.left" timestamp="1584446685738">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459284" />
-    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1584246459287">
+    <state width="1793" height="243" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584446685738" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right" timestamp="1584446685742">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584246459287" />
+    <state width="1793" height="243" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584446685742" />
     <state width="1803" height="316" key="GridCell.Tab.1.bottom" timestamp="1580908985379">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -945,11 +948,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584405804096">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584406046020">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584405804096" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584406046020" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -989,11 +992,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1584238942084">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1584406169960">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584238942084" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584406169960" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
