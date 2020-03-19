@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Git/2020-03-19-Git - git stash 사용법.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,13 +444,7 @@
       <workItem from="1584457374120" duration="477000" />
       <workItem from="1584494505346" duration="390000" />
       <workItem from="1584544267977" duration="94000" />
-    </task>
-    <task id="LOCAL-00092" summary="20.02.04) Update 2020-01-17-컴퓨터 위키 백과.md">
-      <created>1580793506671</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1580793506671</updated>
+      <workItem from="1584579328511" duration="264000" />
     </task>
     <task id="LOCAL-00093" summary="20.02.04) Create 2020-02-04-연애와 취업준비의 비슷함에 대해.md">
       <created>1580822343789</created>
@@ -787,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584544345343</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="20.03.19) 'git stash 사용법' 원고 작성">
+      <created>1584579537911</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1584579537912</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -808,7 +810,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.27) 김종민 개구리 책 ~p.82 정리&#10;&#10;스프링보단 객체지향에 대한 올바른 개념을 배우는 중. 이전 객체지향의 사실과 오해를 읽어서 이해가 잘된다." />
     <MESSAGE value="20.02.28) '내 local에서 remote branch가 fetch 안될 때' 원고 작성&#10;&#10;이제 TIL 업로드할 때 사진을 첨부해서 올릴 예정이다. 나만을 위한 TIL이 아니라 읽는 사람도 도움이 되는 TIL을 위해서." />
     <MESSAGE value="20.02.28) 연결리스트 관련 원고 작성" />
     <MESSAGE value="20.02.29) Feminism 1-4 목차 수정" />
@@ -833,7 +834,8 @@
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정.&#10;- 맞춤법 수정." />
     <MESSAGE value="20.03.17) TIL" />
     <MESSAGE value="20.03.18) TIL" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.18) TIL" />
+    <MESSAGE value="20.03.19) 'git stash 사용법' 원고 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.19) 'git stash 사용법' 원고 작성" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -885,11 +887,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584544344525">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584579537098">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584544344525" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584579537098" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -951,11 +953,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584544349296">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584579541537">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584544349296" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584579541537" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
