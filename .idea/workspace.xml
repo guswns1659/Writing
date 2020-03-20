@@ -445,13 +445,7 @@
       <workItem from="1584544267977" duration="94000" />
       <workItem from="1584579328511" duration="1495000" />
       <workItem from="1584672726229" duration="1501000" />
-    </task>
-    <task id="LOCAL-00095" summary="20.02.05) Implement 연습문제2~3 of Do it ch.2 &#10;&#10;Create 2020-02-05-책 정리 - Do it 알고리즘 입문.md for Studying Do it 알고리즘 입문 until page 61">
-      <created>1580877373203</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1580877373203</updated>
+      <workItem from="1584717443698" duration="274000" />
     </task>
     <task id="LOCAL-00096" summary="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
       <created>1580884912570</created>
@@ -789,7 +783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584673604841</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성">
+      <created>1584717589574</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1584717589576</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -810,7 +811,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.29) Feminism 1-4 목차 수정" />
     <MESSAGE value="20.02.29) '내 local에서 remote branch가 fetch 안될 때' 블로그 업로드 완료&#10;&#10;마크다운의 변경이 바로 반영되는 gitjhub.io로 변경해야겠다. 두려워하지 말고 정리하면서 차근차근 하기." />
     <MESSAGE value="20.02.29) 책 정리 순서 변경&#10;&#10;기존 베껴쓰는 방식에서 키워드를 적고 내가 이해한 언어로 적는 방식으로 변경." />
     <MESSAGE value="20.02.29) 김종민 개구리책 ~Chap.3 정리 및 정리 방식 변경&#10;&#10;베껴쓰지 않고 질문남기고 내가 이해한 수준에서 답하는 방식으로 변경." />
@@ -835,7 +835,8 @@
     <MESSAGE value="20.03.19) 'git stash 사용법' 원고 작성" />
     <MESSAGE value="20.03.19) 업로드 주제 모음에 'git stash 사용법' 추가" />
     <MESSAGE value="20.03.20) 'Do it 알고리즘 자바편' 책 리뷰 원고 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.20) 'Do it 알고리즘 자바편' 책 리뷰 원고 작성" />
+    <MESSAGE value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -887,11 +888,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584673604601">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584717844538">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584673604601" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717844538" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -953,11 +954,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584673611818">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584717592634">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584673611818" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717592634" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
