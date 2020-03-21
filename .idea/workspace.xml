@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/철학/2020-03-21-철학 - Feminism 3-2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AmericaTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KoreaTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tire.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,21 +453,9 @@
       <workItem from="1584544267977" duration="94000" />
       <workItem from="1584579328511" duration="1495000" />
       <workItem from="1584672726229" duration="1501000" />
-      <workItem from="1584717443698" duration="274000" />
-    </task>
-    <task id="LOCAL-00096" summary="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
-      <created>1580884912570</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1580884912570</updated>
-    </task>
-    <task id="LOCAL-00097" summary="20.02.05) Create 2020-02-05-Java - 예외처리.md &#10;&#10;윤성우의 열혈 자바 Ch.18 예외처리를 공부했다. 1독하며 내용 익히고 2독하며 중요한 내용을 옮겨 적었다. 예외처리는 예외 클래스의 인스턴스를 처리하는 과정이라는 것을 깨달았다.">
-      <created>1580885073662</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1580885073662</updated>
+      <workItem from="1584717443698" duration="1112000" />
+      <workItem from="1584762811648" duration="40000" />
+      <workItem from="1584763462365" duration="791000" />
     </task>
     <task id="LOCAL-00098" summary="20.02.05) Create Practice8.java of Do it Ch.2&#10;&#10;Do it 알고리즘 Ch.2의 실습 2-8을 따라했다. 숫자와 바꿀 진법을 입력하면 바뀌어서 출력된다. numbers가 메서드 내 지역변수여서 main에서 사용하기 위해선 클래스의 멤버 변수로 바꿨다. 코드로는 이쁘진 않다.">
       <created>1580900776284</created>
@@ -790,7 +786,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584717589576</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="20.03.20) TIL">
+      <created>1584717852716</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1584717852716</updated>
+    </task>
+    <task id="LOCAL-00146" summary="20.03.19) TIL">
+      <created>1584717953169</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1584717953169</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -811,8 +821,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.02.29) '내 local에서 remote branch가 fetch 안될 때' 블로그 업로드 완료&#10;&#10;마크다운의 변경이 바로 반영되는 gitjhub.io로 변경해야겠다. 두려워하지 말고 정리하면서 차근차근 하기." />
-    <MESSAGE value="20.02.29) 책 정리 순서 변경&#10;&#10;기존 베껴쓰는 방식에서 키워드를 적고 내가 이해한 언어로 적는 방식으로 변경." />
     <MESSAGE value="20.02.29) 김종민 개구리책 ~Chap.3 정리 및 정리 방식 변경&#10;&#10;베껴쓰지 않고 질문남기고 내가 이해한 수준에서 답하는 방식으로 변경." />
     <MESSAGE value="20.02.29) 2월 29일 TIL 추가" />
     <MESSAGE value="20.03.01) 3월 1일 TIL 추가" />
@@ -836,7 +844,9 @@
     <MESSAGE value="20.03.19) 업로드 주제 모음에 'git stash 사용법' 추가" />
     <MESSAGE value="20.03.20) 'Do it 알고리즘 자바편' 책 리뷰 원고 작성" />
     <MESSAGE value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
+    <MESSAGE value="20.03.20) TIL" />
+    <MESSAGE value="20.03.19) TIL" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.19) TIL" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -888,21 +898,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584717852549">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584717953014">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717852549" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717953014" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584678539522">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584762850237">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584678539522" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584762850237" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -954,11 +964,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584717854740">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584717955374">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717854740" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584717955374" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -998,11 +1008,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1584672803100">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1584763632109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584672803100" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584763632109" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
