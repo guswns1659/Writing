@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Git/2020-03-23-Git - 전반적 공부.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/Git/2020-03-19-Git - git stash 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/Git/2020-03-23-Git - git stash 사용법.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -454,14 +452,7 @@
       <workItem from="1584889515955" duration="155000" />
       <workItem from="1584935956647" duration="9251000" />
       <workItem from="1584955012903" duration="409000" />
-      <workItem from="1584963117718" duration="1176000" />
-    </task>
-    <task id="LOCAL-00102" summary="20.02.10) Update 2020-02-10-Java - TDD &amp; Junit(ongoing).md&#10;&#10;Add studying log of Pobi's video lecture.">
-      <created>1581329749111</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1581329749111</updated>
+      <workItem from="1584963117718" duration="1281000" />
     </task>
     <task id="LOCAL-00103" summary="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD.">
       <created>1581339118340</created>
@@ -799,7 +790,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584953247513</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="20.03.23) Git stash, Swagger 공부 정리 추가.">
+      <created>1584964342952</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1584964342952</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -820,7 +818,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.03) IntelliJ - 인텔리J에서 자동 줄바꿈(Soft Wraps)을 설정하고 싶을 때 생성" />
     <MESSAGE value="20.03.03) TIL 추가" />
     <MESSAGE value="20.03.03) TIL" />
     <MESSAGE value="20.03.06) TIL" />
@@ -845,7 +842,8 @@
     <MESSAGE value="20.03.21) TIL" />
     <MESSAGE value="20.03.22) TIL" />
     <MESSAGE value="20.03.23) 호눅스 - MySQL 수업.&#10;&#10;- 프로젝트 진행을 위한 DB 모델링 및 CRUD 강의." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.23) 호눅스 - MySQL 수업.&#10;&#10;- 프로젝트 진행을 위한 DB 모델링 및 CRUD 강의." />
+    <MESSAGE value="20.03.23) Git stash, Swagger 공부 정리 추가." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.23) Git stash, Swagger 공부 정리 추가." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -897,21 +895,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584953247222">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1584964342668">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584953247222" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584964342668" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584955421203">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1584964398967">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584955421203" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584964398967" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -963,11 +961,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584953250059">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584964345624">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584953250059" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584964345624" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
