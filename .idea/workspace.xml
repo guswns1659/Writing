@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIL/2020-03-25-TIL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/업로드 주제 모음.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,14 +456,9 @@
       <workItem from="1584963117718" duration="1281000" />
       <workItem from="1584975578302" duration="74000" />
       <workItem from="1585011536650" duration="42000" />
-      <workItem from="1585064329438" duration="257000" />
-    </task>
-    <task id="LOCAL-00104" summary="20.02.10) Update 2020-02-10-목표관리는 TDD처럼.md&#10;&#10;Write similarity between 목표관리 and TDD.">
-      <created>1581339315652</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1581339315652</updated>
+      <workItem from="1585064329438" duration="445000" />
+      <workItem from="1585098015101" duration="1677000" />
+      <workItem from="1585182662121" duration="663000" />
     </task>
     <task id="LOCAL-00105" summary="20.02.11) Update 2020-02-11-Linux - ubuntu 사용법.md&#10;&#10;Adding how to change agnoster new line theme.">
       <created>1581413918539</created>
@@ -801,7 +796,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584975621900</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="20.03.24) TIL 추가">
+      <created>1585064609150</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1585064609150</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -822,7 +824,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.03) TIL" />
     <MESSAGE value="20.03.06) TIL" />
     <MESSAGE value="20.03.08) TIL" />
     <MESSAGE value="20.03.14) 페미니즘 3-1 강의 정리 &#10;&#10;존 스튜어트 밀의 '여성의 종속' 시작. &#10;공리주의에 대한 이해." />
@@ -847,7 +848,8 @@
     <MESSAGE value="20.03.23) 호눅스 - MySQL 수업.&#10;&#10;- 프로젝트 진행을 위한 DB 모델링 및 CRUD 강의." />
     <MESSAGE value="20.03.23) Git stash, Swagger 공부 정리 추가." />
     <MESSAGE value="20.03.23) TIL 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.03.23) TIL 추가" />
+    <MESSAGE value="20.03.24) TIL 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.03.24) TIL 추가" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -899,21 +901,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1585064592375">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1585064608933">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585064592375" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585064608933" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1585011577066">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1585102231595">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585011577066" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585102231595" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -965,11 +967,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1584975624544">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585064611741">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584975624544" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585064611741" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1009,11 +1011,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1584763632109">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1585183435610">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584763632109" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585183435610" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
