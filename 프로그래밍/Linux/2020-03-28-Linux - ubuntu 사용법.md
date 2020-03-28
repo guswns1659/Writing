@@ -15,8 +15,6 @@
 나중에 정리할 예정 ! 아래 출처
 [http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html](http://progtrend.blogspot.com/2018/06/ubuntu-1804-uim.html)
 
-
-
 ## 마우스 오른쪽 클릭 안될 때 
 - 우분투의 기본 설정은 터치 패드에 두 손가락으로 클릭하면 된다. 
 - 오른쪽 클릭이 작동하기 위해선 software center에서 GNOME Tweaks를 설치한다. 
@@ -58,18 +56,18 @@ echo $JAVA_HOME
 ## file 확장자 찾는 법
 - file [fileName]
 
+## 단축키
+- Ctrl + Alt + T : 바탕화면에서 터미널을 실행
+- Ctrl + Shift + T : 터미널내에서 새탭으로 터미널을 실행
+- Ctrl + Shift + N : 터미널내에서 새로운 터미널을 실행
+- Ctrl + Shift + W : 탭으로 실행된 터미널을 종료
+- Ctrl + Shift + Q : 현재 터미널을 종료(탭포함)
+- Ctrl + Shift + F : 터미널내에 문자열검색
+- Alt + 숫자 : 탭간에 이동
+- Ctrl + PageUp/PageDown : 다음/이전 탭으로 이동
+
 ## Terminal에 oh-my-zsh 추가하기
 [https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4](https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4)
-
-## 단축키
-Ctrl + Alt + T : 바탕화면에서 터미널을 실행
-Ctrl + Shift + T : 터미널내에서 새탭으로 터미널을 실행
-Ctrl + Shift + N : 터미널내에서 새로운 터미널을 실행
-Ctrl + Shift + W : 탭으로 실행된 터미널을 종료
-Ctrl + Shift + Q : 현재 터미널을 종료(탭포함)
-Ctrl + Shift + F : 터미널내에 문자열검색
-Alt + 숫자 : 탭간에 이동
-Ctrl + PageUp/PageDown : 다음/이전 탭으로 이동
 
 ## oh.my.zsh 테마 설정
 - cd ~
@@ -93,3 +91,8 @@ prompt_end() {
   printf "\n ➜";
 }
 ```
+
+## Ubuntu에 git 설치하기 
+- sudo apt update
+- sudo apt install git
+- git --version // 버전확인
