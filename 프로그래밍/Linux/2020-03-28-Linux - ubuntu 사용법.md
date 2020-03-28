@@ -78,7 +78,7 @@ echo $PATH
 - cd .oh-my-zsh/themes 
 - vim agnoster.zsh-theme 들어간 뒤 필요한 테마 설정
 
-### agnoster new line 
+### agnoster new line 설정하기 
 
 ```shell script
 prompt_end() {
@@ -95,6 +95,33 @@ prompt_end() {
   printf "\n ➜";
 }
 ```
+
+## 터미널 프롬프트 설정
+- .bashrc:16: command not found: shopt
+	- zsh가 기본 설정인데 예전 bashrc를 설정하려고 할 때 나는 에러라고 함. 
+	- 참고 : [https://stackoverflow.com/questions/26616003/shopt-command-not-found-in-bashrc-after-shell-updation](https://stackoverflow.com/questions/26616003/shopt-command-not-found-in-bashrc-after-shell-updation)
+
+## 터미널 프롬프트 이름 지우는 방법 
+참고 : [https://the-illusionist.me/49](https://the-illusionist.me/49)
+
+- 아래 코드를 vim ~/.zshrc 맨 마지막에 넣고 wq!로 저장한다. 
+
+```shell script
+prompt_context() { if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then prompt_segment black default "%(!.%{%F{yellow}%}.)$USER" fi }  
+```
+
+- 그 뒤 source ~/.zshrc 실행하면 바로 적용. 
+
+## auto-suggestions 적용하는 법
+- 참고 : [https://nachwon.github.io/how-to-install-zsh-plugins/](https://nachwon.github.io/how-to-install-zsh-plugins/)
+
+## FzF 적용하는 법
+- 참고 : [https://medium.com/harrythegreat/fzf%EB%A1%9C-zsh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-730c20eb496b](https://medium.com/harrythegreat/fzf%EB%A1%9C-zsh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-730c20eb496b)
+- 좋은 기능으로 보이는데 초보인데 벌써 사용하고 싶진 않다. 
+
+## 유용한 zsh 플러그인 6가지.
+- 주소 : [https://medium.com/harrythegreat/zsh%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%A0-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%B6%94%EC%B2%9C-6%EA%B0%80%EC%A7%80-8f9b8b7f3c24](https://medium.com/harrythegreat/zsh%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%A0-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%B6%94%EC%B2%9C-6%EA%B0%80%EC%A7%80-8f9b8b7f3c24)
+
 
 ## Ubuntu에 git 설치하기 
 - sudo apt update
