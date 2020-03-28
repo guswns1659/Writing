@@ -70,7 +70,8 @@ echo $PATH
 - Ctrl + PageUp/PageDown : 다음/이전 탭으로 이동
 
 ## Terminal에 oh-my-zsh 추가하기
-[https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4](https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4)
+- 글 참고 : [https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4](https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4)
+- 위 글대로 하되 테마 설정 완료 한 후 [이 글 참고해서 실행하기](https://github.com/ohmyzsh/ohmyzsh/issues/8038)
 
 ## oh.my.zsh 테마 설정
 - cd ~
