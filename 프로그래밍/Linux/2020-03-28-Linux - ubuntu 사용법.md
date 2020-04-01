@@ -127,3 +127,14 @@ prompt_context() { if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
 - sudo apt update
 - sudo apt install git
 - git --version // 버전확인
+
+## 기본 터미널 설정 바꾸기 
+### 솔라리스 어두움 - 녹색 글씨 
+- 단점 : autoSuggestion 글씨 색깔이랑 배경이랑 같아서 안보임.. -> 글씨 못 바꾸나?  
+- 최초 터미널 크기 100열 / 24행 
+- 사용자 지정 글꼴 : DejaVu Sans Mono Book 15
+- 배경의 내장 팔레트 : 솔라리스 어두움을 기본으로 한 뒤 글씨 색깔은 #30E688(녹색계열)
+- 투명한 배경 사용 : 없음 (완전 불투명)
+- 내장 팔레트 : 솔라리스
+- 프로파일 저장도 가능. 
+
