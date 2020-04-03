@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-03-운영 - AWS EC2 배포.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/Git/2020-03-23-Git - 전반적 공부.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/Git/2020-03-23-Git - 전반적 공부.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -471,14 +471,7 @@
       <workItem from="1585574048769" duration="3663000" />
       <workItem from="1585751974493" duration="256000" />
       <workItem from="1585794704361" duration="78000" />
-      <workItem from="1585906557242" duration="1068000" />
-    </task>
-    <task id="LOCAL-00111" summary="20.02.25) 김종민 개구리 책 Chap.1 ~ 2 책리뷰 및 책정리  &#10;&#10;객체지향의 4대 원칙, 객체지향의 설계 5대 원칙(SOLID), 디자인 패턴에 대해 이야기 하는 책. 스프링에 대한 원리를 이해할 수 있기를 기대한다.">
-      <created>1582596328449</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1582596328450</updated>
+      <workItem from="1585906557242" duration="2182000" />
     </task>
     <task id="LOCAL-00112" summary="20.02.26) 글또4기 1주차 다짐글 작성&#10;&#10;글또를 통해 꾸준함을 얻자는 다짐글 작성. 초고 작성 후 다시 1번 수정.">
       <created>1582688549712</created>
@@ -816,7 +809,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585752131901</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="[Docs] 'Heroku 사용법' 원고 이동 &#10;&#10;- codeSquad-BackEnd 저장소에서 옮김.">
+      <created>1585907746307</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1585907746308</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -837,7 +837,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.16) '왜 하고 싶은가에 대해 확신하지 못할 때' 원고 작성.&#10;&#10;- 하루 정리하면서 문득 요즘 열정이 사그라든 이유를 생각하다 적어본다.. 하루정리 하길 잘했다." />
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 원고 작성&#10;&#10;- 우기부기님의 영상을 본 후, 느낀점을 기록한다." />
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정." />
     <MESSAGE value="20.03.17) '꾸준함을 얻기 위해선' 1차 퇴고&#10;&#10;- 문맥이 어색한 문장 수정.&#10;- 맞춤법 수정." />
@@ -862,7 +861,8 @@
     <MESSAGE value="[Docs] '자극' 초안 완성" />
     <MESSAGE value="[Study : Spring] 'IoC와 Bean' 공부 중. &#10;&#10;- 백기선 강의 보며 차근차근!" />
     <MESSAGE value="[TIL] 20.04.01 TIL 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TIL] 20.04.01 TIL 추가" />
+    <MESSAGE value="[Docs] 'Heroku 사용법' 원고 이동 &#10;&#10;- codeSquad-BackEnd 저장소에서 옮김." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Docs] 'Heroku 사용법' 원고 이동 &#10;&#10;- codeSquad-BackEnd 저장소에서 옮김." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -881,10 +881,10 @@
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579347220591" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1582526126116" />
-    <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584889624220">
+    <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585907903200">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584889624220" />
+    <state x="536" y="355" width="924" height="394" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585907903200" />
     <state x="801" y="256" width="748" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1583930235146">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -914,11 +914,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1585907732255">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1585907746158">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585907732255" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585907746158" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -980,11 +980,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585752133667">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585907774754">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585752133667" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585907774754" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1028,11 +1028,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1585907514666">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1585907947596">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585907514666" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585907947596" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
