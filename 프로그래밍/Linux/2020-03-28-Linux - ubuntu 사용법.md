@@ -138,3 +138,8 @@ prompt_context() { if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
 - 내장 팔레트 : 솔라리스
 - 프로파일 저장도 가능. 
 
+## 블루투스이 on이 안될 때 
+- 갑자기 블루투스가 off 된 뒤 on으로 안된다. 
+- bluez라는 프로그램을 설치하고 다시 껐다가 켠다. 
+- 참고 : [https://askubuntu.com/questions/1036195/bluetooth-doesnt-work-after-resuming-from-sleep-ubuntu-18-04-lts](https://askubuntu.com/questions/1036195/bluetooth-doesnt-work-after-resuming-from-sleep-ubuntu-18-04-lts) 
+
