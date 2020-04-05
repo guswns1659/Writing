@@ -1,11 +1,13 @@
 package kr.tpc;
+
 // 책 : 제목, 가격, 회사
 public class BookDTO {
     private String title;
     private int price;
     private String company;
 
-    public BookDTO() {  }
+    public BookDTO() {
+    }
 
     public BookDTO(String title, int price, String company) {
         this.title = title;

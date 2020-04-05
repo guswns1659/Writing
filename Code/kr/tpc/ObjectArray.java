@@ -4,17 +4,21 @@ package kr.tpc;
 public class ObjectArray {
     private int count;
     private Object[] arr;
+
     // 배열 생성
     public ObjectArray() {
         this(10);
     }
+
     public ObjectArray(int init) {
         arr = new Object[init];
     }
+
     // 배열에 값 추가 : add
     public void add(Object data) {
         arr[count++] = data;
     }
+
     // 배열에 값 얻기 : get
     public Object get(int index) {
         return arr[index];

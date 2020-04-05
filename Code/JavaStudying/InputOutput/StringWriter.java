@@ -15,9 +15,9 @@ public class StringWriter {
         String source = scanner.nextLine();
 
         try (BufferedReader br =
-                new BufferedReader(new FileReader(source))) {
+                     new BufferedReader(new FileReader(source))) {
             String line;
-            while(true) {
+            while (true) {
                 line = br.readLine();
                 if (line == null) {
                     break;
@@ -35,7 +35,7 @@ public class StringWriter {
         String string2 = "Life is long if you know how to use it.";
 
         try (BufferedWriter br =
-                     new BufferedWriter(new FileWriter("data.md"))){
+                     new BufferedWriter(new FileWriter("data.md"))) {
             br.write(string1, 0, string1.length());
             br.newLine();
             br.write(string2, 0, string1.length());

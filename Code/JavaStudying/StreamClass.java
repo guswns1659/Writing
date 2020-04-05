@@ -18,9 +18,9 @@ public class StreamClass {
     }
 
     public void intStreamSumTest() {
-        int[] arr = {1,2,3,4,5};
+        int[] arr = {1, 2, 3, 4, 5};
         IntStream intStream1 = Arrays.stream(arr);
-        IntStream intStream2 = intStream1.filter( n -> n % 2 == 1);
+        IntStream intStream2 = intStream1.filter(n -> n % 2 == 1);
         int sum = intStream2.sum();
         System.out.println(sum);
     }
@@ -70,6 +70,7 @@ class ToyPriceInfo {
         return price;
     }
 }
+
 class ToyMain {
     public int getToyPriceUnder500() {
         List<ToyPriceInfo> toyList = new ArrayList<>();

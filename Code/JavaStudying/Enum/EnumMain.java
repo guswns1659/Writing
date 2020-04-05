@@ -1,10 +1,26 @@
 package JavaStudying.Enum;
 
 enum Transportation {
-    BUS(100) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
-        TRAIN(150) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
-        SHIP(100) { int calculateFare(int distance) {return distance * BASIC_FARE;}},
-        AIRPLANE(300) { int calculateFare(int distance) {return distance * BASIC_FARE;}};
+    BUS(100) {
+        int calculateFare(int distance) {
+            return distance * BASIC_FARE;
+        }
+    },
+    TRAIN(150) {
+        int calculateFare(int distance) {
+            return distance * BASIC_FARE;
+        }
+    },
+    SHIP(100) {
+        int calculateFare(int distance) {
+            return distance * BASIC_FARE;
+        }
+    },
+    AIRPLANE(300) {
+        int calculateFare(int distance) {
+            return distance * BASIC_FARE;
+        }
+    };
 
     protected final int BASIC_FARE;
 
@@ -21,8 +37,8 @@ enum Transportation {
 
 public class EnumMain {
     public static void main(String[] args) {
-        for (Transportation transportation : Transportation.values()){
-            System.out.println(transportation.calculateFare(100)+"원");
+        for (Transportation transportation : Transportation.values()) {
+            System.out.println(transportation.calculateFare(100) + "원");
         }
     }
 }

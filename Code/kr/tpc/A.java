@@ -1,5 +1,4 @@
 package kr.tpc;
-import java.lang.*;
 
 public class A extends Object {
     public A() {

@@ -16,19 +16,19 @@ public class BytesFileCopier {
         System.out.print("복사 파일 : ");
         String destination = scanner.nextLine();
 
-        try(InputStream in = new FileInputStream(source);
-            OutputStream out = new FileOutputStream(destination)){
+        try (InputStream in = new FileInputStream(source);
+             OutputStream out = new FileOutputStream(destination)) {
             byte[] buf = new byte[1024];
             int len;
 
             while (true) {
                 len = in.read(buf);
-                if(len == -1) {
+                if (len == -1) {
                     break;
                 }
                 out.write(buf, 0, len);
             }
-        } catch (IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

@@ -21,9 +21,9 @@ public class TPC47 {
         for (int i = 0; i < arr.size(); i++) {
             Object o = arr.get(i);
             if (o instanceof A) {
-                ((A)o).go();
+                ((A) o).go();
             } else {
-                ((B)o).go();
+                ((B) o).go();
             }
         }
     }

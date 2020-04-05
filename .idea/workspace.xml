@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - @Autowired.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!">
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - @Component.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - Environment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - 빈의 스코프.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020-02-29-TIL.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-02-29-TIL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Enum/EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Enum/EnumMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BufferedDataOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BufferedDataOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BytesFileCopier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BytesFileCopier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/DataFilterOuputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/DataFilterOuputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/ObjectOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/ObjectOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SimpleWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SimpleWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/StringWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/StringWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/TextReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Lambda/Lambda1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Lambda/Lambda1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/TPC1/TPC47.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/TPC1/TPC50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIL/2020-04-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-04-01-TIl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-03-23-Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +97,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,7 +107,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -475,14 +503,12 @@
       <workItem from="1585906557242" duration="3734000" />
       <workItem from="1585962523708" duration="2080000" />
       <workItem from="1585964725803" duration="1174000" />
-      <workItem from="1585966557906" duration="5749000" />
-    </task>
-    <task id="LOCAL-00115" summary="20.02.27) 김종민 개구리 책 ~p.82 정리&#10;&#10;스프링보단 객체지향에 대한 올바른 개념을 배우는 중. 이전 객체지향의 사실과 오해를 읽어서 이해가 잘된다.">
-      <created>1582793418585</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1582793418585</updated>
+      <workItem from="1585966557906" duration="6373000" />
+      <workItem from="1585974567934" duration="58000" />
+      <workItem from="1585981098342" duration="1863000" />
+      <workItem from="1585983115720" duration="4464000" />
+      <workItem from="1586074813053" duration="1257000" />
+      <workItem from="1586078109292" duration="1011000" />
     </task>
     <task id="LOCAL-00116" summary="20.02.28) '내 local에서 remote branch가 fetch 안될 때' 원고 작성&#10;&#10;이제 TIL 업로드할 때 사진을 첨부해서 올릴 예정이다. 나만을 위한 TIL이 아니라 읽는 사람도 도움이 되는 TIL을 위해서.">
       <created>1582865829089</created>
@@ -820,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585964454924</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!">
+      <created>1585974058136</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1585974058136</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -841,7 +874,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.17) TIL" />
     <MESSAGE value="20.03.18) TIL" />
     <MESSAGE value="20.03.19) 'git stash 사용법' 원고 작성" />
     <MESSAGE value="20.03.19) 업로드 주제 모음에 'git stash 사용법' 추가" />
@@ -866,7 +898,8 @@
     <MESSAGE value="[Docs] 'AWS EC2' 원고 작성. &#10;&#10;- 미세먼지 프로젝트하며 깨달은 사용법과 발생한 에러 적음." />
     <MESSAGE value="[Docs] 'AWS' 원고 작성. &#10;&#10;- 미세먼지 프로젝트 배포 서버가 AWS였기 때문에 공부한 자료 업로드." />
     <MESSAGE value="[Docs] 페미니즘 3-4 강의 초안" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Docs] 페미니즘 3-4 강의 초안" />
+    <MESSAGE value="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -918,21 +951,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1585964454680">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1586079198039">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585964454680" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1586079198039" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1585968657067">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1585983126896">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585968657067" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585983126896" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -974,21 +1007,21 @@
     </state>
     <state x="302" y="38" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1579346159875" />
     <state x="504" y="86" width="1081" height="620" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1579419507263" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1585966989395">
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor" timestamp="1585974145650">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
-    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585966989395" />
+    <state x="98" y="120" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585974145650" />
     <state width="747" height="691" key="SwitcherDM" timestamp="1584239064342">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585964456823">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585974155799">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585964456823" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585974155799" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1001,11 +1034,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="549" y="437" width="879" height="252" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1585398199594" />
-    <state x="710" y="427" width="625" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585965249596">
+    <state x="710" y="427" width="625" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586074821317">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="444" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579347443560" />
-    <state x="710" y="427" width="625" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585965249596" />
+    <state x="710" y="427" width="625" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586074821317" />
     <state x="1190" y="243" width="536" height="618" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584238586571">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1014,11 +1047,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="263" y="313" width="524" height="478" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580288885530" />
-    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1583740000329">
+    <state x="569" y="126" width="848" height="852" key="find.popup" timestamp="1586078147951">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="347" y="64" width="750" height="608" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580489912332" />
-    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583740000329" />
+    <state x="569" y="126" width="848" height="852" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586078147951" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1580538800527">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

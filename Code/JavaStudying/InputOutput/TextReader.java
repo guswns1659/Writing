@@ -25,7 +25,7 @@ public class TextReader {
                 }
                 System.out.println(ch);
             }
-        }catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

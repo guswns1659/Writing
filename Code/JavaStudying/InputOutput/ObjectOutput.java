@@ -13,8 +13,8 @@ public class ObjectOutput {
         SBox sBox2 = new SBox("Strawberry");
 
         try (ObjectOutputStream oo =
-                new ObjectOutputStream(
-                        new FileOutputStream("object.bin"))) {
+                     new ObjectOutputStream(
+                             new FileOutputStream("object.bin"))) {
             oo.writeObject(sBox1);
             oo.writeObject(sBox2);
 
@@ -26,7 +26,7 @@ public class ObjectOutput {
 
     private static void objectInput() {
         try (ObjectInputStream oi =
-                new ObjectInputStream(new FileInputStream("object.bin"))) {
+                     new ObjectInputStream(new FileInputStream("object.bin"))) {
 
             SBox sBox1 = (SBox) oi.readObject();
             System.out.println(sBox1.getS());

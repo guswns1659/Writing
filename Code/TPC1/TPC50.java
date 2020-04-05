@@ -7,7 +7,7 @@ public class TPC50 {
         int j = 40;
         String a = String.valueOf(30);
         String b = String.valueOf(40);
-        System.out.println(a+b);
+        System.out.println(a + b);
 
         // String -> int
         String str = "100";

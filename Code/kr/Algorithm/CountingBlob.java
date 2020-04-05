@@ -1,8 +1,8 @@
 package kr.Algorithm;
 
 public class CountingBlob {
-    private static int N=8;
-    private static int [][] grid = {
+    private static int N = 8;
+    private static int[][] grid = {
             {1, 0, 0, 0, 0, 0, 0, 1},
             {0, 1, 1, 0, 0, 1, 0, 0},
             {1, 1, 0, 0, 1, 0, 1, 0},
@@ -24,10 +24,10 @@ public class CountingBlob {
             return 0;
         } else {
             grid[x][y] = ALREADY_COLOR;
-            return 1 + countBlog(x-1,y-1) + countBlog(x-1, y) +
-                    countBlog(x-1,y+1) + countBlog(x, y+1) +
-                    countBlog(x+1,y+1) + countBlog(x+1, y) +
-                    countBlog(x+1, y-1) + countBlog(x, y-1);
+            return 1 + countBlog(x - 1, y - 1) + countBlog(x - 1, y) +
+                    countBlog(x - 1, y + 1) + countBlog(x, y + 1) +
+                    countBlog(x + 1, y + 1) + countBlog(x + 1, y) +
+                    countBlog(x + 1, y - 1) + countBlog(x, y - 1);
         }
     }
 }

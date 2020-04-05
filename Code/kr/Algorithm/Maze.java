@@ -6,8 +6,8 @@ package kr.Algorithm;
  */
 
 public class Maze {
-    private static int N=8;
-    private static int [][] maze = {
+    private static int N = 8;
+    private static int[][] maze = {
             {0, 0, 0, 0, 0, 0, 0, 1},
             {0, 1, 1, 0, 1, 1, 0, 1},
             {0, 0, 0, 1, 0, 0, 0, 1},
@@ -23,16 +23,16 @@ public class Maze {
     private static final int PATH_COLOR = 3;
 
     public static boolean findMazePath(int x, int y) {
-        if (x < 0 || y < 0 || x >= N || y >= N ) {
+        if (x < 0 || y < 0 || x >= N || y >= N) {
             return false;
         } else if (maze[x][y] != PATHWAY_COLOR) {
             return false;
-        } else if (x == N-1 && y == N-1) {
+        } else if (x == N - 1 && y == N - 1) {
             return true;
         } else {
             maze[x][y] = PATH_COLOR;
-            if (findMazePath(x-1, y) || findMazePath(x,y+1) ||
-                findMazePath(x+1, y) || findMazePath(x, y-1)) {
+            if (findMazePath(x - 1, y) || findMazePath(x, y + 1) ||
+                    findMazePath(x + 1, y) || findMazePath(x, y - 1)) {
                 return true;
             }
             maze[x][y] = BLOCKED_COLOR;

@@ -9,10 +9,10 @@ public class BufferedDataOutputStream {
     }
 
     private static void bufferedOutput() {
-        try(DataOutputStream out
-                    = new DataOutputStream(
-                            new BufferedOutputStream(
-                                    new FileOutputStream("data.md")))){
+        try (DataOutputStream out
+                     = new DataOutputStream(
+                new BufferedOutputStream(
+                        new FileOutputStream("data.md")))) {
             out.writeInt(123);
             out.writeDouble(123.123);
 
@@ -23,9 +23,9 @@ public class BufferedDataOutputStream {
 
     private static void bufferedInput() {
         try (DataInputStream in =
-                new DataInputStream(
-                        new BufferedInputStream(
-                                new FileInputStream("data.md")))) {
+                     new DataInputStream(
+                             new BufferedInputStream(
+                                     new FileInputStream("data.md")))) {
             System.out.println(in.readInt());
             System.out.println(in.readDouble());
 

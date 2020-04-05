@@ -13,9 +13,10 @@ interface Printable {
 //}
 
 public class Lambda1 {
-    public static void showString(Printable p, String s){
+    public static void showString(Printable p, String s) {
         p.print(s);
     }
+
     public static void main(String[] args) {
         showString(s -> {
             System.out.println(s);

@@ -9,8 +9,8 @@ public class DataFilterOuputStream {
     }
 
     private static void outputFilterStream() {
-        try(DataOutputStream out
-                    = new DataOutputStream(new FileOutputStream("data.md"))){
+        try (DataOutputStream out
+                     = new DataOutputStream(new FileOutputStream("data.md"))) {
             out.writeInt(370);
             out.writeDouble(370.123);
         } catch (IOException e) {
@@ -19,8 +19,8 @@ public class DataFilterOuputStream {
     }
 
     private static void inputFilterStream() {
-        try(DataInputStream in
-                    = new DataInputStream(new FileInputStream("data.md"))){
+        try (DataInputStream in
+                     = new DataInputStream(new FileInputStream("data.md"))) {
             int num = in.readInt();
             double num2 = in.readDouble();
 
