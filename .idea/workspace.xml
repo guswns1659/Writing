@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!">
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - @Component.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - Environment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - 빈의 스코프.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-06-Spring - JDBC OneToOne.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Enum/EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Enum/EnumMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BufferedDataOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BufferedDataOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BytesFileCopier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/BytesFileCopier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/DataFilterOuputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/DataFilterOuputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/ObjectOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/ObjectOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SimpleWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/SimpleWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/StringWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/StringWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/TextReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/InputOutput/TextReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/Lambda/Lambda1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/Lambda/Lambda1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/JavaStudying/StreamClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/TPC1/TPC47.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/TPC1/TPC50.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/TPC1/TPC50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/CountingBlob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/Algorithm/Maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/poly/RemoCon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/BookDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/kr/tpc/ObjectArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIL/2020-04-01.md" beforeDir="false" afterPath="$PROJECT_DIR$/TIL/2020-04-01-TIl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-03-23-Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -508,14 +479,9 @@
       <workItem from="1585981098342" duration="1863000" />
       <workItem from="1585983115720" duration="4464000" />
       <workItem from="1586074813053" duration="1257000" />
-      <workItem from="1586078109292" duration="1011000" />
-    </task>
-    <task id="LOCAL-00116" summary="20.02.28) '내 local에서 remote branch가 fetch 안될 때' 원고 작성&#10;&#10;이제 TIL 업로드할 때 사진을 첨부해서 올릴 예정이다. 나만을 위한 TIL이 아니라 읽는 사람도 도움이 되는 TIL을 위해서.">
-      <created>1582865829089</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1582865829089</updated>
+      <workItem from="1586078109292" duration="1761000" />
+      <workItem from="1586167839093" duration="1006000" />
+      <workItem from="1586179403364" duration="613000" />
     </task>
     <task id="LOCAL-00117" summary="20.02.28) 연결리스트 관련 원고 작성">
       <created>1582943661397</created>
@@ -853,7 +819,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585974058136</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="[Study : DB] Mysql 설정 추가. &#10;&#10;- 호눅스 조인 강의 듣다가 실습하고 싶어서 다시 설정함. &#10;- 리눅스 다시 깔면서 초기화됐기 때문에 연습도 됐다. &#10;- characterSet 설정 시 필요한 my.cnf 경로 추가.">
+      <created>1586079262011</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1586079262011</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -874,7 +847,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.18) TIL" />
     <MESSAGE value="20.03.19) 'git stash 사용법' 원고 작성" />
     <MESSAGE value="20.03.19) 업로드 주제 모음에 'git stash 사용법' 추가" />
     <MESSAGE value="20.03.20) 'Do it 알고리즘 자바편' 책 리뷰 원고 작성" />
@@ -899,7 +871,8 @@
     <MESSAGE value="[Docs] 'AWS' 원고 작성. &#10;&#10;- 미세먼지 프로젝트 배포 서버가 AWS였기 때문에 공부한 자료 업로드." />
     <MESSAGE value="[Docs] 페미니즘 3-4 강의 초안" />
     <MESSAGE value="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Study : Spring] '@Autowired' 원고 작성&#10;&#10;- 백기선 강의를 보는 것에서 끝내지 않고 직접 정리하며 기록했다. 더 기억에 많이 남을 것 같다!" />
+    <MESSAGE value="[Study : DB] Mysql 설정 추가. &#10;&#10;- 호눅스 조인 강의 듣다가 실습하고 싶어서 다시 설정함. &#10;- 리눅스 다시 깔면서 초기화됐기 때문에 연습도 됐다. &#10;- characterSet 설정 시 필요한 my.cnf 경로 추가." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : DB] Mysql 설정 추가. &#10;&#10;- 호눅스 조인 강의 듣다가 실습하고 싶어서 다시 설정함. &#10;- 리눅스 다시 깔면서 초기화됐기 때문에 연습도 됐다. &#10;- characterSet 설정 시 필요한 my.cnf 경로 추가." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -951,21 +924,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="561" y="171" width="941" height="763" key="#index/67.27.1853.1053@67.27.1853.1053" timestamp="1579846407427" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1586079198039">
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2" timestamp="1586079261611">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579807927368" />
-    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1586079198039" />
+    <state x="440" y="27" width="1175" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1586079261611" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog" timestamp="1580485630744">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1585983126896">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586181295687">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585983126896" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586181295687" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1017,11 +990,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585974155799">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586079264483">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585974155799" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586079264483" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
