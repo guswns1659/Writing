@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-10-Spring - AOP와 인터셉터.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-08-tree 설치방법.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-09-JWT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-02-19-IntelliJ 단축키 및 사용법.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-02-19-IntelliJ 단축키 및 사용법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-04-09-JWT.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-09-JWT.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -492,14 +488,7 @@
       <workItem from="1586318794180" duration="30000" />
       <workItem from="1586318855760" duration="1875000" />
       <workItem from="1586403196129" duration="6160000" />
-      <workItem from="1586587290279" duration="3309000" />
-    </task>
-    <task id="LOCAL-00119" summary="20.02.29) Feminism 1-4 목차 수정">
-      <created>1582944444494</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1582944444494</updated>
+      <workItem from="1586587290279" duration="4598000" />
     </task>
     <task id="LOCAL-00120" summary="20.02.29) '내 local에서 remote branch가 fetch 안될 때' 블로그 업로드 완료&#10;&#10;마크다운의 변경이 바로 반영되는 gitjhub.io로 변경해야겠다. 두려워하지 말고 정리하면서 차근차근 하기.">
       <created>1582948719625</created>
@@ -837,7 +826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586319158372</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
+      <created>1586591098996</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1586591098997</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -857,7 +853,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.20) 'Do it 알고리즘 자바편' 책 리뷰 원고 작성" />
     <MESSAGE value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
     <MESSAGE value="20.03.20) TIL" />
     <MESSAGE value="20.03.19) TIL" />
@@ -882,7 +877,8 @@
     <MESSAGE value="[Study : DB] Mysql 설정 추가. &#10;&#10;- 호눅스 조인 강의 듣다가 실습하고 싶어서 다시 설정함. &#10;- 리눅스 다시 깔면서 초기화됐기 때문에 연습도 됐다. &#10;- characterSet 설정 시 필요한 my.cnf 경로 추가." />
     <MESSAGE value="[Docs] 모두의 네트워크 책 정리, 책 리뷰 초기화" />
     <MESSAGE value="[Study : cURL] cURL 설치 방법 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Study : cURL] cURL 설치 방법 추가" />
+    <MESSAGE value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1000,11 +996,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586319161058">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586591101202">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586319161058" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586591101201" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
