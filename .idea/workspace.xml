@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-04-09-JWT.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-09-JWT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-1/BE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -488,14 +488,8 @@
       <workItem from="1586318794180" duration="30000" />
       <workItem from="1586318855760" duration="1875000" />
       <workItem from="1586403196129" duration="6160000" />
-      <workItem from="1586587290279" duration="4598000" />
-    </task>
-    <task id="LOCAL-00120" summary="20.02.29) '내 local에서 remote branch가 fetch 안될 때' 블로그 업로드 완료&#10;&#10;마크다운의 변경이 바로 반영되는 gitjhub.io로 변경해야겠다. 두려워하지 말고 정리하면서 차근차근 하기.">
-      <created>1582948719625</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1582948719626</updated>
+      <workItem from="1586587290279" duration="4750000" />
+      <workItem from="1586600509390" duration="681000" />
     </task>
     <task id="LOCAL-00121" summary="20.02.29) 책 정리 순서 변경&#10;&#10;기존 베껴쓰는 방식에서 키워드를 적고 내가 이해한 언어로 적는 방식으로 변경.">
       <created>1582970742207</created>
@@ -833,7 +827,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586591098997</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
+      <created>1586592353987</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1586592353987</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -853,7 +854,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.21) 'Do it 알고리즘 자바편' 책 리뷰 탈고 작성" />
     <MESSAGE value="20.03.20) TIL" />
     <MESSAGE value="20.03.19) TIL" />
     <MESSAGE value="20.03.21) '철학 - Feminism 3-2' 원고 작성" />
@@ -878,7 +878,8 @@
     <MESSAGE value="[Docs] 모두의 네트워크 책 정리, 책 리뷰 초기화" />
     <MESSAGE value="[Study : cURL] cURL 설치 방법 추가" />
     <MESSAGE value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
+    <MESSAGE value="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -940,11 +941,11 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586587769486">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586601189247">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586587769486" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586601189247" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -996,11 +997,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586591101202">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586592356396">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586591101201" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586592356396" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1044,11 +1045,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1586587548972">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1586600516235">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586587548972" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586600516235" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
