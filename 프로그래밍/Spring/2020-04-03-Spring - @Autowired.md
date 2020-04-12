@@ -4,7 +4,7 @@
 스프링의 마법같은 @Autowired 어노테이션에 대해 공부하고 정리한 글입니다. @Autowired는 인스턴스를 생성하지 않아도 스프링이 자동으로 인스턴스를 주입해주는 기능입니다.  
 
 ### 1.1 의존성이란
-[의존성이란 무엇인가? 참고]()
+[의존성이란 무엇인가? 참고](https://github.com/guswns1659/Writing/blob/3e4025dfcfc7c60d75f6b31f578baa7700ba6451/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring/2020-04-12-Spring%20-%20%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
 
 ## 2. 의존성 주입 방법 3가지
 ###  2.1 @Autowired 사용 
