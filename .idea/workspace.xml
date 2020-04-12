@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-05-Mysql.md" afterDir="false" />
-    </list>
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Docs] mysql 사용자 추가하는 법 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forkTodo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -489,14 +486,7 @@
       <workItem from="1586318855760" duration="1875000" />
       <workItem from="1586403196129" duration="6160000" />
       <workItem from="1586587290279" duration="4750000" />
-      <workItem from="1586600509390" duration="681000" />
-    </task>
-    <task id="LOCAL-00121" summary="20.02.29) 책 정리 순서 변경&#10;&#10;기존 베껴쓰는 방식에서 키워드를 적고 내가 이해한 언어로 적는 방식으로 변경.">
-      <created>1582970742207</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1582970742207</updated>
+      <workItem from="1586600509390" duration="740000" />
     </task>
     <task id="LOCAL-00122" summary="20.02.29) 김종민 개구리책 ~Chap.3 정리 및 정리 방식 변경&#10;&#10;베껴쓰지 않고 질문남기고 내가 이해한 수준에서 답하는 방식으로 변경.">
       <created>1582973258357</created>
@@ -834,7 +824,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586592353987</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="[Docs] mysql 사용자 추가하는 법 추가">
+      <created>1586601239716</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1586601239716</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -854,7 +851,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.20) TIL" />
     <MESSAGE value="20.03.19) TIL" />
     <MESSAGE value="20.03.21) '철학 - Feminism 3-2' 원고 작성" />
     <MESSAGE value="20.03.21) TIL" />
@@ -879,7 +875,8 @@
     <MESSAGE value="[Study : cURL] cURL 설치 방법 추가" />
     <MESSAGE value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
     <MESSAGE value="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
+    <MESSAGE value="[Docs] mysql 사용자 추가하는 법 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Docs] mysql 사용자 추가하는 법 추가" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -941,11 +938,11 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586601189247">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586601248324">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586601189247" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586601248324" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -997,11 +994,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586592356396">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586601232378">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586592356396" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586601232378" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
