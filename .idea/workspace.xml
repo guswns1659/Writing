@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Docs] mysql 사용자 추가하는 법 추가" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완.">
+      <change afterPath="$PROJECT_DIR$/철학/2020-04-12-철학 - Feminism 4-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래밍/프로젝트/2020-04-11-Todo 프로젝트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +83,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../forkTodo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -487,20 +491,8 @@
       <workItem from="1586403196129" duration="6160000" />
       <workItem from="1586587290279" duration="4750000" />
       <workItem from="1586600509390" duration="740000" />
-    </task>
-    <task id="LOCAL-00122" summary="20.02.29) 김종민 개구리책 ~Chap.3 정리 및 정리 방식 변경&#10;&#10;베껴쓰지 않고 질문남기고 내가 이해한 수준에서 답하는 방식으로 변경.">
-      <created>1582973258357</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1582973258357</updated>
-    </task>
-    <task id="LOCAL-00123" summary="20.02.29) 2월 29일 TIL 추가">
-      <created>1582987981339</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1582987981341</updated>
+      <workItem from="1586651187655" duration="795000" />
+      <workItem from="1586656147027" duration="3089000" />
     </task>
     <task id="LOCAL-00124" summary="20.03.01) 3월 1일 TIL 추가">
       <created>1583070469892</created>
@@ -831,7 +823,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586601239716</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="[Study : 의존성] '의존성이란 무엇인가' 원고 작성">
+      <created>1586651356155</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1586651356156</updated>
+    </task>
+    <task id="LOCAL-00172" summary="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완.">
+      <created>1586651516727</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1586651516727</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -851,8 +857,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.19) TIL" />
-    <MESSAGE value="20.03.21) '철학 - Feminism 3-2' 원고 작성" />
     <MESSAGE value="20.03.21) TIL" />
     <MESSAGE value="20.03.22) TIL" />
     <MESSAGE value="20.03.23) 호눅스 - MySQL 수업.&#10;&#10;- 프로젝트 진행을 위한 DB 모델링 및 CRUD 강의." />
@@ -876,7 +880,9 @@
     <MESSAGE value="[Study : 인터셉터] AOP와 인터셉터 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
     <MESSAGE value="[Study : JWT] JWT 정리 &#10;&#10;- 써니에게 전달 및 개인 공부!" />
     <MESSAGE value="[Docs] mysql 사용자 추가하는 법 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Docs] mysql 사용자 추가하는 법 추가" />
+    <MESSAGE value="[Study : 의존성] '의존성이란 무엇인가' 원고 작성" />
+    <MESSAGE value="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -994,11 +1000,11 @@
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586601232378">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586651518119">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586601232378" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586651518119" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1042,11 +1048,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1586600516235">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1586651431729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586600516235" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586651431729" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
