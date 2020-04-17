@@ -19,10 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완.">
-      <change afterPath="$PROJECT_DIR$/철학/2020-04-12-철학 - Feminism 4-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래밍/프로젝트/2020-04-11-Todo 프로젝트.md" afterDir="false" />
+    <list default="true" id="35ec8b56-6216-44ca-805b-3639b1c43ede" name="Default Changelist" comment="[Study : Spring] @ComponentScan 정리 &#10;&#10;- 백기선 강의 참고">
+      <change afterPath="$PROJECT_DIR$/도서/책 정리(비공개)/2020년/2020-04-17-책 정리 - 모두의 네트워크.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-13-Spring - @ComponentScan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래밍/기타/2020-04-16-EC2 &amp; Nignx 배포.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래밍/Spring/2020-04-03-Spring - @Component.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,6 +238,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -492,14 +496,11 @@
       <workItem from="1586587290279" duration="4750000" />
       <workItem from="1586600509390" duration="740000" />
       <workItem from="1586651187655" duration="795000" />
-      <workItem from="1586656147027" duration="3089000" />
-    </task>
-    <task id="LOCAL-00124" summary="20.03.01) 3월 1일 TIL 추가">
-      <created>1583070469892</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1583070469893</updated>
+      <workItem from="1586656147027" duration="3860000" />
+      <workItem from="1586773776457" duration="4709000" />
+      <workItem from="1587019337479" duration="1000000" />
+      <workItem from="1587108298949" duration="647000" />
+      <workItem from="1587131380998" duration="2317000" />
     </task>
     <task id="LOCAL-00125" summary="20.03.02) 3월 2일 TIL 추가">
       <created>1583208178127</created>
@@ -837,7 +838,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586651516727</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="[Study : Feminism] 페미니즘 4-1 강의 초안">
+      <created>1586660325984</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1586660325985</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -857,7 +865,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="20.03.21) TIL" />
     <MESSAGE value="20.03.22) TIL" />
     <MESSAGE value="20.03.23) 호눅스 - MySQL 수업.&#10;&#10;- 프로젝트 진행을 위한 DB 모델링 및 CRUD 강의." />
     <MESSAGE value="20.03.23) Git stash, Swagger 공부 정리 추가." />
@@ -882,7 +889,8 @@
     <MESSAGE value="[Docs] mysql 사용자 추가하는 법 추가" />
     <MESSAGE value="[Study : 의존성] '의존성이란 무엇인가' 원고 작성" />
     <MESSAGE value="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완." />
-    <option name="LAST_COMMIT_MESSAGE" value="[Study : @Autowired] '의존성이란 무엇인가' 링크 추가&#10;&#10;- 글또 제출하기 전 글 보완." />
+    <MESSAGE value="[Study : Feminism] 페미니즘 4-1 강의 초안" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Study : Feminism] 페미니즘 4-1 강의 초안" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -891,11 +899,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="0" width="588" height="680" key="#Main/0.0.1280.680@0.0.1280.680" timestamp="1579347207417" />
-    <state x="125" y="214" width="594" height="478" key="#Plugins" timestamp="1586318976416">
+    <state x="125" y="214" width="594" height="478" key="#Plugins" timestamp="1587108318444">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="40" y="121" width="594" height="478" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1582308201860" />
-    <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1586318976416" />
+    <state x="125" y="214" width="800" height="677" key="#Plugins/67.27.1853.1053@67.27.1853.1053" timestamp="1587108318444" />
     <state x="404" y="27" width="914" height="677" key="#Project_Structure" timestamp="1582526126116">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -944,11 +952,11 @@
     </state>
     <state x="735" y="100" width="452" height="487" maximized="true" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1580485630744" />
     <state x="406" y="71" width="1359" height="949" maximized="true" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579855536037" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1586601248324">
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl" timestamp="1587019734597">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="407" y="123" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580485629689" />
-    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586601248324" />
+    <state x="656" y="217" width="1114" height="519" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587019734597" />
     <state x="790" y="366" key="GrepConsoleSound" timestamp="1582946903407">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -995,16 +1003,17 @@
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579347391048" />
     <state x="134" y="88" width="1670" height="937" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1586587502105" />
-    <state width="747" height="691" key="SwitcherDM" timestamp="1584239064342">
+    <state width="747" height="691" key="SwitcherDM" timestamp="1587132045103">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="516" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1579807956318" />
+    <state width="747" height="691" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1587132045103" />
     <state width="747" height="691" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1584239064342" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586651518119">
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1586660328411">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579807939834" />
-    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586651518119" />
+    <state x="404" y="142" width="800" height="532" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586660328411" />
     <state x="711" y="331" width="555" height="442" key="chooseDestDirectoryDialog" timestamp="1584238586545">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -1039,20 +1048,21 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="600" height="424" key="javadoc.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580538800527" />
-    <state x="121" y="27" width="1544" height="954" key="new project wizard" timestamp="1586411019562">
+    <state x="121" y="27" width="1544" height="954" key="new project wizard" timestamp="1586779054268">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="37" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579224314566" />
-    <state x="121" y="27" width="1544" height="954" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1586411019562" />
+    <state x="121" y="27" width="1544" height="954" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1586779054268" />
     <state x="1170" y="360" key="save.file.as.template.dialog" timestamp="1579354585804">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1170" y="360" key="save.file.as.template.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579354585804" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1586651431729">
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup" timestamp="1587131983768">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582308171640" />
-    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586651431729" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1587131983768" />
+    <state x="499" y="27" width="993" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587108313317" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
