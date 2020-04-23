@@ -49,12 +49,16 @@ public class HyunjunRepository implements BookRepository {
 
 ### 2.2 특정 프로파일 사용하는 법
 #### 2.2.1 active profiles 사용 
-IntelliJ 우측 상단에 망치 표시 옆 아래 화살표 클릭해서 edit Springapplication을 들어간다. -> 현재 실행중인 application의 Configuration -> active profile에 'test'라 지정. 
+IntelliJ 우측 상단에 망치 표시 옆 아래 화살표 클릭해서 edit Springapplication을 들어간다. -> 현재 실행중인 application의 Configuration 혹은 SpringBoot-> active profile에 'test'라 지정. 
 
 ![editconfiguration](https://github.com/guswns1659/Writing/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring/picture/spring%EC%97%90%EC%84%9C%20edit%20configuration%20%ED%95%98%EB%8A%94%20%EB%B2%95.png)
 
+![Springboot active 영역](https://github.com/guswns1659/Writing/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring/picture/spring%20edit%20configuration%EC%97%90%EC%84%9C%20active%20%EC%98%81%EC%97%AD.png)
+
 #### 2.2.2 VM option 사용
 VM option에 -Dspring.profiles.active="test" 입력한다. 
+
+![vm option 사용해서 profile 지정](https://github.com/guswns1659/Writing/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring/picture/vm%20option%EC%9C%BC%EB%A1%9C%20profile%20%EC%A7%80%EC%A0%95%ED%95%98%EB%8A%94%20%EB%B2%95.png)
 
 ## 3. 프로퍼티
 정확히 개념을 이해하진 못했다. Environment 속에 프로퍼티를 설정하면 필요할 때 가져다 쓸 수 있다고 한다. 설정하는 방법은 다양한데 어디서 설정했느냐에 따라 우선순위가 달라진다고 한다. 프로퍼티가 호출될 때 우선순위가 높은 곳에서 등록한 프로퍼티가 출력된다. ~~조금 더 공부가 필요~~ 
