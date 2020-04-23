@@ -38,7 +38,7 @@ Field bookRepository in com.spring.springcore.BookService required a bean of typ
 ```
 
 #### 2.1.2 Bean에 직접 등록하는 법 
-매번 Configuration으로 프로파일을 지정하면 불편하다. 보통 Configuration으로 빈을 등록하 지 않기 때문에 어노테이션을통해 빈을 등록할 때 프로파일을 지정할 수 있다. 아래 코드를 보자. 
+매번 Configuration으로 프로파일을 지정하면 불편하다. 보통 Configuration으로 빈을 등록하지 않기 때문에 어노테이션을통해 빈을 등록할 때 프로파일을 지정할 수 있다. 아래 코드를 보자. 
 
 ```java
 @Repository
@@ -50,6 +50,8 @@ public class HyunjunRepository implements BookRepository {
 ### 2.2 특정 프로파일 사용하는 법
 #### 2.2.1 active profiles 사용 
 IntelliJ 우측 상단에 망치 표시 옆 아래 화살표 클릭해서 edit Springapplication을 들어간다. -> 현재 실행중인 application의 Configuration -> active profile에 'test'라 지정. 
+
+![editconfiguration](https://github.com/guswns1659/Writing/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring/picture/spring%EC%97%90%EC%84%9C%20edit%20configuration%20%ED%95%98%EB%8A%94%20%EB%B2%95.png)
 
 #### 2.2.2 VM option 사용
 VM option에 -Dspring.profiles.active="test" 입력한다. 
