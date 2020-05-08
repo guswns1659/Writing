@@ -146,3 +146,11 @@ prompt_context() { if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
 ## 사진 편집 프로그램, Shutter 설치법 
 - 참고 : [https://webnautes.tistory.com/513](https://webnautes.tistory.com/513)
 
+## 우분투 18.04에서 듀얼모니터 설정
+- setting -> display로 들어간다. 
+
+### 메인 화면 정하기 
+- 주요 디스플레이를 설정
+
+### 모니터 위치 변경하기.
+- 모니터 하나를 클릭한 뒤 이동시킨다.
