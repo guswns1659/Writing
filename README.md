@@ -15,3 +15,4 @@
 - [Refactor]: 코드를 정리하거나 리팩토링한 작업
 - [Study : subject] : 공부 정리 
 - [Picture] : 사진 업로드
+- [Book : title] : 책 정리
