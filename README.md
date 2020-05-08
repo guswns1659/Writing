@@ -13,5 +13,6 @@
 - [Test]: 새로운 유닛테스트를 추가하거나 기존 테스트를 수정
 - [Buid]: 빌드 프로세스 관련 코드 혹은 스크립트를 수정
 - [Refactor]: 코드를 정리하거나 리팩토링한 작업
-- [Study : subject] : 공부 정리 
+- [Study - subject] : 공부 정리 
 - [Picture] : 사진 업로드
+- [Book - title] : 책 정리
